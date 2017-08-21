@@ -1,4 +1,16 @@
 
+**04 - Teste de Software:**
+	O teste de software tem como objetivo verificar o comportamento da dinâmica de um software através de um conjunto finito de casos de teste. Os testes buscam averiguar a garantia em um produto de software, não por definí-lo como livre de erros, mas realizando a maior cobertura possíveis para que falhas encontradas possam ser corrigidas e minimizando a probabilidade de que qualquer outra ocorra com o produto nas mãos do usuário.
+	Os casos de teste são definidos a partir dos critérios de adequação e seleção por meio da análise tanto do arquivo fonte como dos requisitos utilizados em sua criação.
+
+**05 - Manutenção de Software:**
+	É uma área definida como todas as atividades necessárias ao oferecimento de um suporte com custo benefício rasoaveis a um produto de software. Atividades de manutenção podem ocorrer em qualquer fase do desenvolvimento do produto, assim como em qualquer documento que faça parte do pacote do software. Essas atividades se dividem entre os tipos Corretiva, Evolutiva, Adaptativa e Preventiva. A maior parte do ciclo de vida de um software se passa no processo de manutenção.
+
+**06 - Gerência de Configuração de Software:**
+	É uma área que tem foco na integridade e controle dos artefatos criados durante o desenvolvimento de um software. Contém atividades que fazem o versionamento do produto e seus artefatos componentes. Envolve atividades de identificação da configuração, controle e rastreabilidade de mudanças, e registro e controle de alterações, realizada por meio da criação de tags e baselines no repositório do projeto.
+
+--
+
 **10 – Qualidade de Software:**  
     Relacionada tanto na qualidade de construção quanto a qualidade eleita pelo usuário final, aqui a verificação e a validação entram. Aqui, checklists e auditorias são feitas para controlar a qualidade geral tanto de processo quando de produto de software gerado durante todo o ciclo de vida do software. Além disso, todas as inconformidades encontradas são registradas e mapeadas, e o acompanhamento delas é feito desde seu registro até sua correção. Por isso, é um dos pilares da engenharia de software, já que o que se busca com engenharia é a sonhada qualidade pela visão do cliente.
 
