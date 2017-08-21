@@ -1,7 +1,14 @@
+**01 - Requisitos de Software:**  
+    A área de conhecimento relativa aos requisitos de software é responsável pelo processo de levantamento das necessidades (e restrições) que devem ser solucionadas por meio da construção de um produto de software. Para tal, são desenvolvidas as atividades de elicitação, análise, especificação e validação dos requisitos de software.
+
+**02 - Design de Software:**  
+    Esta área de conhecimento é responsável por, a partir dos requisitos, analisar e gerar as definições para a arquitetura, os componentes, os módulos e as interfaces do software que será desenvolvido.
+
+**03 - Construção de Software:**  
+    A construção de software é a área do conhecimento responsável por transformar em código fonte a solução proposta para o problema através dos requisitos e do design. Está área está fortemente atrelada às atividades de verificação, testes de unidade, testes de integração e debugging.
 
 **04 - Teste de Software:**  
-    O teste de software tem como objetivo verificar o comportamento da dinâmica de um software através de um conjunto finito de casos de teste. Os testes buscam averiguar a garantia em um produto de software, não por definí-lo como livre de erros, mas realizando a maior cobertura possíveis para que falhas encontradas possam ser corrigidas e minimizando a probabilidade de que qualquer outra ocorra com o produto nas mãos do usuário.
-	Os casos de teste são definidos a partir dos critérios de adequação e seleção por meio da análise tanto do arquivo fonte como dos requisitos utilizados em sua criação.
+    O teste de software tem como objetivo verificar o comportamento da dinâmica de um software através de um conjunto finito de casos de teste. Os testes buscam averiguar a garantia em um produto de software, não por definí-lo como livre de erros, mas realizando a maior cobertura possíveis para que falhas encontradas possam ser corrigidas e minimizando a probabilidade de que qualquer outra ocorra com o produto nas mãos do usuário. Os casos de teste são definidos a partir dos critérios de adequação e seleção por meio da análise tanto do arquivo fonte como dos requisitos utilizados em sua criação.
 
 **05 - Manutenção de Software:**  
     É uma área definida como todas as atividades necessárias ao oferecimento de um suporte com custo benefício rasoaveis a um produto de software. Atividades de manutenção podem ocorrer em qualquer fase do desenvolvimento do produto, assim como em qualquer documento que faça parte do pacote do software. Essas atividades se dividem entre os tipos Corretiva, Evolutiva, Adaptativa e Preventiva. A maior parte do ciclo de vida de um software se passa no processo de manutenção.
