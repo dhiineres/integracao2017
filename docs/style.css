@@ -1,0 +1,10 @@
+
+.borda {
+    margin: 0 auto;
+    border: 1px solid #000000;
+}
+
+.jumbotron-c {
+    /* background-image: ("900x300.png"); */
+    background-color: #234523;
+}
