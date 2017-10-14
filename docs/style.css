@@ -6,12 +6,17 @@ p {
 }
 
 /* CLASS SELECTORS */
-.borda {
+/* .borda {
     margin: 0 auto;
     border: 1px solid #000000;
-}
+} */
 
 /* .jumbotron {
     background-image: ("900x300.png");
     background-color: transparent;
 } */
+
+.bColor {
+    background: transparent;
+    background-color: transparent;
+}
