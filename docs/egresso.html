@@ -7,6 +7,7 @@
     <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+    <script src="egressoCarousel.js"></script>
 </head>
 <body>
     <main>
@@ -34,8 +35,9 @@
             </div>
 
             <div id="carousel" class="row">
-                
-                <div id="swebok_areas" class="carousel slide" data-ride="carousel">
+                <div class="col-2"></div>
+
+                <div id="swebok_areas" class="carousel slide col-8" data-interval="false">
                     <ol class="carousel-indicators">
                         <li data-target="#swebok_areas" data-slide-to="0" class="active"></li>
                         <li data-target="#swebok_areas" data-slide-to="1"></li>
@@ -55,6 +57,7 @@
                     </ol>
                     <div class="carousel-inner">
                         <div class="carousel-item active">
+                            <p>Alou</p>
                             <img class="d-block w-100" src="300x500.png" alt="Requisitos de Software">
                         </div>
                         <div class="carousel-item">
@@ -100,17 +103,32 @@
                             <img class="d-block w-100" src="300x500.png" alt="Fundamentos de Engenharia">
                         </div>
                     </div>
-                    <a class="carousel-control-prev" href="#swebok_areas" role="button" data-slide="prev">
+                    <a class="carousel-control-prev" href="#swebok_areas" role="button" data-slide="prev" onclick="changeSlide()">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>
                         <span class="sr-only">Previous</span>
                     </a>
-                    <a class="carousel-control-next" href="#swebok_areas" role="button" data-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="sr-only">Next</span>
+                    <a class="carousel-control-next" href="#swebok_areas" role="button" data-slide="next" onclick="changeSlide()">
+                        <span class="carousel-control-next-icon" aria-hidden="true" onclick="changeSlide()"></span>
+                        <span class="sr-only" onclick="changeSlide()">Next</span>
                     </a>
                 </div>
+                <div class="col-2"></div>
+            </div>
 
+            <div id="gradSkills" class="row">
+                <div class="col-2"></div>
+                <div id="gradSkillsText" class="col-8">
 
+                </div>
+                <div class="col-2"></div>
+            </div>
+
+            <div class="row">
+                <div class="col-2"></div>
+                <div class="col-8">
+                    <p class="lead"></p>
+                </div>
+                <div class="col-2"></div>
             </div>
         </div>
     </main>
