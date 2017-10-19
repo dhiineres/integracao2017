@@ -1,31 +1,5 @@
 
 /* ELEMENT SELECTORS */
-p {
-    text-align: justify;
-    text-justify: inter-word;
-}
+
 
 /* CLASS SELECTORS */
-/* .borda {
-    margin: 0 auto;
-    border: 1px solid #000000;
-} */
-
-/* .jumbotron {
-    background-image: ("900x300.png");
-    background-color: transparent;
-} */
-
-.bColor {
-    background: transparent;
-    background-color: transparent;
-}
-
-.card-body {
-    border: 2px solid #000;
-}
-
-.card-body p {
-    font-size: 1em;
-    font-weight: bold;
-}
