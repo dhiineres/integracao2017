@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
   <head>
     <title>Home PPC</title>
     <!-- Required meta tags -->
@@ -7,133 +7,187 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/css/bootstrap.min.css" integrity="sha384-/Y6pD6FV/Vv2HJnA6t+vslU6fwYXjCFtcEpHbNJ0lyAFsXTsjBbfaDjzALeQsN6M" crossorigin="anonymous">
+
+  <style> 
+     .search-found {
+	background: yellow;
+     }
+  </style>
+  <script>
+
+	function search(){
+           searchedText = $("#txt-search").val();
+           //Limpa as buscas antigas 
+	   $("span.search-found").each(function(index) {
+             var text = $(this).text();
+             $(this).replaceWith(text);
+           }); 
+
+	   //Faz a pesquisa apenas nos elemetos p que possuem o texto
+	   $("p:contains('" + searchedText + "')").each( function(i, element) {
+             var content = $(element).text();
+             var regEx = new RegExp(searchedText, "ig");
+	     content = content.replace( regEx, '<span class="search-found">' + searchedText + '</span>' );
+             $(element).html( content );
+	   });
+           return false;
+	}
+    </script>
   </head>
-  <body>
 
-    <!-- Aqui vem o NAV da página-->
-    <div class="nav">
-      <h2 class="nav-link">PPC</h2>
-    </div>
-    <div>
-      <ul class="nav justify-content-center">
-        <li class="nav-item">
-          <a class="nav-link active" href="index.html">Home</a>
-        </li>
-        <li>
-          <a class="nav-link active" href="egresso.html">Egresso</a>
-        </li>
-        <li>
-          <a class="nav-link active" href="disciplina.html">Disciplina</a>
-        </li>
-      </ul>
-    </div>
-    <!--/   Fecha NAV-->
+   
+  <body style="background-color: #f2f2f2;">
 
-    <div class="container pt-4">
-      <div class="row">
+    <div class="container">
+      <!-- Aqui vem o NAV da página-->
+      <nav class="navbar navbar-expand-lg navbar-dark rounded-bottom" style="background-color: #005ca1;">
+        <a class="navbar-brand" href="#">PPC</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <span class="navbar-toggler-icon"></span>
+        </button>
 
-        <!-- Começo da página --> 
-        <div class="col-lg-12 order-lg-1">
-          <h3 class="mb-4 display-3">Egresso</h3>
-          <p class="lead">O egresso do BES é um profissional com capacitação sólida em engenharia de software. Essa capacitação advém de formação básica consistente em computação e de abrangente e aprofundada em engenharia de software.</p>
-          <p>O mercado de atuação do egresso é abrangente, e decorre da dependência da sociedade por software. Adicionalmente, tal dependência tem se expandido com novos produtos, serviços e processos.</p>
-          <p>A bacharela ou o bacharel em Engenharia de Software é capaz de efetivamente contribuir com equipes na produção de modelos abstratos de software e realizá-los por meio de código de qualidade. Essa contribuição é pautada por postura profissional e conduta ética.</p>
-          <p>As habilidades do egresso incluem o que é necessário para lidar com requisitos de software, propor uma solução (software design), construí-la, testá-la e mantê-la, usando processos adequados.</p>
-        </div><!-- /Começo da página -->
-
-        <!-- Primeiro artigo -->
-        <div class="col-lg-12 order-lg-2 ">
-          <div class="row my-5 align-items-center">
-            <div class="col-lg-9">
-              <h3 class="mb-4 display-4">Aqui pode vir um tópico</h3>
-              <p class="lead">Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean
-                aliquam molestie leo, vitae iaculis nisl. Manduma pindureta quium dia nois paga. Leite de capivaris, leite de
-                mula manquis sem cabeça. Delegadis gente finis, bibendum egestas augue arcu ut est.</p>
-              <p>Mauris nec dolor in eros
-                commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Em pé sem cair, deitado sem dormir, sentado
-                sem cochilar e fazendo pose. Mé faiz elementum girarzis, nisi eros vermeio.</p>
-              <p>Tá deprimidis, eu conheço uma cachacis
-                que pode alegrar sua vidis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Praesent malesuada
-                urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
-            </div>
-            <div class="col-lg-3">
-              <img class="mb-4 img-fluid rounded d-none d-sm-block" src="300x500.png" alt="Something">
-            </div>
-
-          </div>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav mr-auto">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="egresso.html">Egresso</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="disciplina.html">Disciplina</a>
+            </li>
+            <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                NDE
+              </a>
+              <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+                <a class="dropdown-item" href="#">Action</a>
+                <a class="dropdown-item" href="#">Another action</a>
+                <div class="dropdown-divider"></div>
+                <a class="dropdown-item" href="#">Something else here</a>
+              </div>
+            </li>
+          </ul>
+          <form class="form-inline my-2 my-lg-0" action="javascript:search()">
+            <input id="txt-search" class="form-control mr-sm-2 font-weight-bold" type="search" placeholder="Search" aria-label="Search">
+            <button class="btn btn-light my-2 my-sm-0" type="submit">
+              <img src="images/magnifier.svg" width="17">
+            </button>
+          </form>
         </div>
+      </nav>
+      <!--/   Fecha NAV-->
 
+      <main id="main-content" class="p-4" style="background-color: #f2f2f2;">
+          <div class="row">
 
-        <!-- Terceiro artigo -->
-        <div class="col-lg-12 order-lg-4 ">
-          <div class="row my-5 align-items-center">
-            <div class="col-lg-9">
-              <h3 class="mb-4 display-4">Aqui pode vir outro tópico</h3>
-              <p class="lead">Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean
-                aliquam molestie leo, vitae iaculis nisl. Manduma pindureta quium dia nois paga. Leite de capivaris, leite de
-                mula manquis sem cabeça. Delegadis gente finis, bibendum egestas augue arcu ut est.</p>
-              <p>Mauris nec dolor in eros
-                commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Em pé sem cair, deitado sem dormir, sentado
-                sem cochilar e fazendo pose. Mé faiz elementum girarzis, nisi eros vermeio.</p>
-              <p>Tá deprimidis, eu conheço uma cachacis
-                que pode alegrar sua vidis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Praesent malesuada
-                urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
-            </div>
-            <div class="col-lg-3">
-              <img class="mb-4 img-fluid rounded d-none d-sm-block" src="300x500.png" alt="Something">
-            </div>
+            <!-- Começo da página --> 
+            <div class="col-lg-12 order-lg-1">
+              <h1 class="mb-4 display-3">Home</h1>
+              <p class="lead">O egresso do BES é um profissional com capacitação sólida em engenharia de software. Essa capacitação advém de formação básica consistente em computação e de abrangente e aprofundada em engenharia de software.</p>
+              <p>O mercado de atuação do egresso é abrangente, e decorre da dependência da sociedade por software. Adicionalmente, tal dependência tem se expandido com novos produtos, serviços e processos.</p>
+              <p>A bacharela ou o bacharel em Engenharia de Software é capaz de efetivamente contribuir com equipes na produção de modelos abstratos de software e realizá-los por meio de código de qualidade. Essa contribuição é pautada por postura profissional e conduta ética.</p>
+              <p>As habilidades do egresso incluem o que é necessário para lidar com requisitos de software, propor uma solução (software design), construí-la, testá-la e mantê-la, usando processos adequados.</p>
+            </div><!-- /Começo da página -->
 
-          </div>
-        </div>
-        
-        <!-- Segundo artigo -->
-        <div class="col-lg-12 order-lg-3 ">
-          <div class="row my-5 align-items-center">
-            <div class="col-lg-9 order-lg-2">
-              <h3 class="mb-4 display-4">Aqui pode vir mais um tópico</h3>
-              <p class="lead">Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean
-                aliquam molestie leo, vitae iaculis nisl. Manduma pindureta quium dia nois paga. Leite de capivaris, leite de
-                mula manquis sem cabeça. Delegadis gente finis, bibendum egestas augue arcu ut est.</p>
-              <p>Mauris nec dolor in eros
-                commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Em pé sem cair, deitado sem dormir, sentado
-                sem cochilar e fazendo pose. Mé faiz elementum girarzis, nisi eros vermeio.</p>
-              <p>Tá deprimidis, eu conheço uma cachacis
-                que pode alegrar sua vidis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Praesent malesuada
-                urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
-            </div>
-            <div class="col-lg-3">
-              <img class="mb-4 img-fluid rounded d-none d-sm-block" src="300x500.png" alt="Something">
+            <!-- Primeiro artigo -->
+            <div class="col-lg-12 order-lg-2 ">
+              <div class="row my-5 align-items-center">
+                <div class="col-lg-9">
+                  <h2 class="mb-4 display-4">Aqui pode vir um tópico</h2>
+                  <p class="lead">Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean
+                    aliquam molestie leo, vitae iaculis nisl. Manduma pindureta quium dia nois paga. Leite de capivaris, leite de
+                    mula manquis sem cabeça. Delegadis gente finis, bibendum egestas augue arcu ut est.</p>
+                  <p>Mauris nec dolor in eros
+                    commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Em pé sem cair, deitado sem dormir, sentado
+                    sem cochilar e fazendo pose. Mé faiz elementum girarzis, nisi eros vermeio.</p>
+                  <p>Tá deprimidis, eu conheço uma cachacis
+                    que pode alegrar sua vidis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Praesent malesuada
+                    urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
+                </div>
+                <div class="col-lg-3">
+                  <img class="mb-4 img-fluid rounded d-none d-sm-block" src="images/300x500.png" alt="Something">
+                </div>
+
+              </div>
             </div>
 
-          </div>
-        </div> 
 
-      </div> <!--  /row -->
+            <!-- Terceiro artigo -->
+            <div class="col-lg-12 order-lg-4 ">
+              <div class="row my-5 align-items-center">
+                <div class="col-lg-9">
+                  <h2 class="mb-4 display-4">Aqui pode vir outro tópico</h2>
+                  <p class="lead">Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean
+                    aliquam molestie leo, vitae iaculis nisl. Manduma pindureta quium dia nois paga. Leite de capivaris, leite de
+                    mula manquis sem cabeça. Delegadis gente finis, bibendum egestas augue arcu ut est.</p>
+                  <p>Mauris nec dolor in eros
+                    commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Em pé sem cair, deitado sem dormir, sentado
+                    sem cochilar e fazendo pose. Mé faiz elementum girarzis, nisi eros vermeio.</p>
+                  <p>Tá deprimidis, eu conheço uma cachacis
+                    que pode alegrar sua vidis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Praesent malesuada
+                    urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
+                </div>
+                <div class="col-lg-3">
+                  <img class="mb-4 img-fluid rounded d-none d-sm-block" src="images/300x500.png" alt="Something">
+                </div>
 
+              </div>
+            </div>
+
+            <!-- Segundo artigo -->
+            <div class="col-lg-12 order-lg-3 ">
+              <div class="row my-5 align-items-center">
+                <div class="col-lg-9 order-lg-2">
+                  <h2 class="mb-4 display-4">Aqui pode vir mais um tópico</h2>
+                  <p class="lead">Mais vale um bebadis conhecidiss, que um alcoolatra anonimis. Interagi no mé, cursus quis, vehicula ac nisi. Aenean
+                    aliquam molestie leo, vitae iaculis nisl. Manduma pindureta quium dia nois paga. Leite de capivaris, leite de
+                    mula manquis sem cabeça. Delegadis gente finis, bibendum egestas augue arcu ut est.</p>
+                  <p>Mauris nec dolor in eros
+                    commodo tempor. Aenean aliquam molestie leo, vitae iaculis nisl. Em pé sem cair, deitado sem dormir, sentado
+                    sem cochilar e fazendo pose. Mé faiz elementum girarzis, nisi eros vermeio.</p>
+                  <p>Tá deprimidis, eu conheço uma cachacis
+                    que pode alegrar sua vidis. Si u mundo tá muito paradis? Toma um mé que o mundo vai girarzis! Praesent malesuada
+                    urna nisi, quis volutpat erat hendrerit non. Nam vulputate dapibus.</p>
+                </div>
+                <div class="col-lg-3">
+                  <img class="mb-4 img-fluid rounded d-none d-sm-block" src="images/300x500.png" alt="Something">
+                </div>
+
+              </div>
+            </div> 
+
+          </div> <!--  /row -->
+
+
+
+          <footer>
+
+            <div class="row text-center">
+              <div class="col-5 align-middle mt-5">
+                <a class="col d-inline" href="">Avaliação de projeto de curso</a>
+              </div>
+              <div class="col">
+                <img src="images/inf.png" width="110" height="117.6" class="img-fluid" data-holder-rendered="true" alt="64x64">
+              </div>
+              <div class="col-5 align-middle mt-5">
+                <a class="col d-inline" href="">Política de qualificação</a>
+                <a class="col d-inline" href="">Requisitos legais e normativos</a>
+              </div>
+            </div>
+
+          </footer>
+      </main>
     </div> <!-- /container -->
-
-    <footer>
-      <div class="container my-4">
-        <div class="row text-center">
-          <div class="col-5 align-middle mt-5">
-            <a class="col d-inline" href="">Avaliação de projeto de curso</a>
-          </div>
-          <div class="col">
-            <img src="INFVertical.jpg" width="110" height="117.6" class="img-fluid" data-holder-rendered="true" alt="64x64">
-          </div>
-          <div class="col-5 align-middle mt-5">
-            <a class="col d-inline" href="">Política de qualificação</a>
-            <a class="col d-inline" href="">Requisitos legais e normativos</a>
-          </div>
-        </div>
-      </div>
-    </footer>
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1" crossorigin="anonymous"></script>
+    
   </body>
 </html>
