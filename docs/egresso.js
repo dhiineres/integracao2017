@@ -47,7 +47,6 @@ function changeContent(pageContent) {
         '<p class="lead">' + pageContent.content[count].subtitle + '</p>' +
         '<p>' + pageContent.content[count].text + '</p>';
 
-
 }
 
 
@@ -58,8 +57,7 @@ function changeContent(pageContent) {
  * @param text: O corpo do texto, todas as informaçõs e mais
  */
 var pageContent = {
-    "content": [
-        {
+    "content": [{
             "title": "1 Formação Ética e Função Social do Profissional",
             "subtitle": "A vivência de princípios éticos e o conhecimento sobre a responsabilidade social do Engenheiro de Software são elementos imprescindíveis para a formação da postura profissional do egresso do BES",
             "text": "Ética é assunto de uma das disciplinas do primeiro semestre do curso, “Computação e Sociedade”, e volta a ser explicitamente tratada, junto com aspectos profissionais, na última disciplina do curso “Prática em Engenharia de Software”. Nesse caso, a postura ética e profissional é condição a ser observada para aprovação nessa disciplina. O comportamento ético e profissional será trabalhado nas atividades do curso, e não apenas na primeira e última disciplinas. A exigência de uma conduta apropriada em sala de aula, tanto dos docentes quanto dos estudantes, contribui com essa formação. Isso significa promover a qualidade de vida, o respeito à diversidade, o respeito ao meio ambiente. Nesse sentido, não apenas as disciplinas, mas toda e qualquer ação, deve ser pautada pela reflexão do impacto no contexto no qual se insere. Ainda convém destacar que a área possui um código de ética próprio, Código de Ética e Prática Profissional da Engenharia de Software [ACM/IEEE]. Esse código é uma das bases de fundamentação do curso e deve ser observado no convívio diário do curso."
