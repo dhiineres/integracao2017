@@ -8,7 +8,10 @@ var tipuesearch = {"pages": [
             "Exemplos de análise de algoritmos. \n" +
             "Técnicas de projeto de algoritmos: dividir para conquistar, programação dinâmica, algoritmos gulosos. \n" +
             "Introdução à NP-Completude.\n  ",
-        "tags": "Análise e Projeto de Algoritmos Design de Software Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Fundamentos de Matemática para Computação Algoritmos e Estrutura de Dados 2",
+        "tags": "Design\n" +
+        "Padrões de projeto\n" +
+        "Análise de problemas" +
+        "Análise e Projeto de Algoritmos Design de Software Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Fundamentos de Matemática para Computação Algoritmos e Estrutura de Dados 2",
         "url": ""},
     {
         "title": "Interação Humano-Computador",
@@ -23,7 +26,10 @@ var tipuesearch = {"pages": [
             "Dispositivos de interação. \n" +
             "Métodos de avaliação de interfaces: avaliação heurística, abordagens para testes realizados com apoio de usuários, técnicas de testes para páginas Web, entre outros. \n" +
             "Visão geral de ferramentas de desenvolvimento de interfaces humano-computador.\n",
-        "tags": "Interação Humano-Computador Qualidade de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Probabilidade e Estatística A Algoritmos e Estrutura de Dados 1",
+        "tags": "Interface\n" +
+        "Interação\n" +
+        "Usabilidade" +
+        "Interação Humano-Computador Qualidade de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Probabilidade e Estatística A Algoritmos e Estrutura de Dados 1",
         "url": ""},
     {
         "title": "Banco de Dados",
@@ -34,7 +40,11 @@ var tipuesearch = {"pages": [
             "Modelo Entidade-Relacionamento e extensões. \n" +
             "Mapeamento ER-relacional. \n" +
             "Normalização.\n",
-        "tags": "Banco de Dados Design de Software Fundamentos Computacionais Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Lógica Matemática",
+        "tags": "Modelagem de dados\n" +
+        "Persistência\n" +
+        "Dados\n" +
+        "Armazenagem" +
+        "Banco de Dados Design de Software Fundamentos Computacionais Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Lógica Matemática",
         "url": ""},
     {
         "title": "Projeto de Software",
@@ -46,7 +56,10 @@ var tipuesearch = {"pages": [
             "Notação de design de software. \n" +
             "Métodos e estratégias de design de software. \n" +
             "Ferramentas de design de software.\n",
-        "tags": "Projeto de Software Design de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Engenharia de Software Programação Orientada a objetos",
+        "tags": "Design" +
+        "Padrões de projeto\n" +
+        "Análise de problemas" +
+        "Projeto de Software Design de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Engenharia de Software Programação Orientada a objetos",
         "url": ""},
     {
         "title": "Construção de Software",
@@ -71,7 +84,10 @@ var tipuesearch = {"pages": [
             "(Segue instruções). Localizar e reutilizar código (bibliotecas e frameworks).\n" +
             "(Segue instruções). Colaborar com a construção de código em equipe.\n" +
             "(Segue instruções). Avaliar a qualidade interna de código e, quando apropriado, aplicar estratégias recomendadas de refatoração.\n",
-        "tags": "Construção de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Métodos de engenharia\n" +
+        "Programação\n" +
+        "Ferramentas" +
+        "Construção de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Modelagem de Software",
@@ -84,7 +100,10 @@ var tipuesearch = {"pages": [
             "(Faz com orientação). Explicar o que é software, qualidade de software, requisitos de software e a relação entre eles.\n" +
             "(Faz sem orientação). Empregar notações para registro de projeto de software orientado a objetos.\n" +
             "(Segue instruções). Criar modelos de projeto de software orientado a objetos.\n",
-        "tags": "Modelagem de Software Requisitos de Software Design de Software Modelos e Métodos de Engenharia de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Modelagem\n" +
+        "Diagrama\n" +
+        "Projeto" +
+        "Modelagem de Software Requisitos de Software Design de Software Modelos e Métodos de Engenharia de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Processos de Software",
@@ -98,7 +117,10 @@ var tipuesearch = {"pages": [
             "(Faz sem orientação). Explicar quais são os processos específicos de software: objetivo de cada processo e principais resultados.\n" +
             "(Segue instruções). Explicar o uso de modelos de qualidade de processo: implementação e avaliação.\n" +
             "(Segue instruções). Obter resultados de processo usando métodos e modelos.\n",
-        "tags": "Processos de Software Processo de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Processo\n" +
+        "Fluxo\n" +
+        "Modelagem de processo" +
+        "Processos de Software Processo de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Engenharia de Sistemas",
@@ -111,7 +133,10 @@ var tipuesearch = {"pages": [
             "(Faz com orientação). Definir o conceito do sistema proposto (propósito desejado, contexto operacional, partes interessadas e conceito de uso do sistema).\n" +
             "(Segue instruções). Selecionar um modelo de ciclo de vida de software adequado ao modelo de ciclo de vida de engenharia de sistemas e integrar os dois modelos.\n" +
             "(Faz com orientação). Desenvolver conceitos operacionais do sistema (ambientes operacionais, características priorizadas, atributos de qualidade, cenários operacionais, suposições, dependências, limitações e exclusões).\n",
-        "tags": "Engenharia de Sistemas Design de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Sistemas\n" +
+        "Computação\n" +
+        "ISO 12207" +
+        "Engenharia de Sistemas Design de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Design de Software",
@@ -133,7 +158,12 @@ var tipuesearch = {"pages": [
             "(Faz com orientação). Empregar aspectos de projeto de software.\n" +
             "(Faz com orientação). Fazer uso de medidas de qualidade de projeto de software.\n" +
             "(Segue instruções). Criar projeto de software a partir de um problema.\n",
-        "tags": "Design de Software Fundamentos de Engenharia Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Design\n" +
+        "Padrões de projeto\n" +
+        "Componentes\n" +
+        "Controladores\n" +
+        "Linguagem de programação" +
+        "Design de Software Fundamentos de Engenharia Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Domínios de Software",
@@ -151,7 +181,9 @@ var tipuesearch = {"pages": [
             "(Segue instruções). Colaborar com a construção de código em equipe.\n" +
             "(Segue instruções). Explicar domínios de desenvolvimento (categorias) e as especificidades correspondentes.\n" +
             "(Segue instruções). Explicar um domínio de software e as estratégias de desenvolvimento correspondentes.\n",
-        "tags": "Domínios de Software Construção de Software Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Construção\n" +
+        "Engenharia" +
+        "Domínios de Software Construção de Software Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Processos de Qualidade de Software",
@@ -169,7 +201,10 @@ var tipuesearch = {"pages": [
             "(Faz sem orientação). Colaborar em uma equipe na execução de um processo de qualidade.\n" +
             "(Segue instruções). Documentar resultados dos processos de qualidade de software.\n" +
             "(Segue instruções). Identificar e utilizar ferramentas de apoio ao controle de qualidade de artefatos de software.\n",
-        "tags": "Processos de Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Qualidade\n" +
+        "Métricas\n" +
+        "ISO 9126" +
+        "Processos de Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Gerência de Projeto de Software",
@@ -183,7 +218,9 @@ var tipuesearch = {"pages": [
             "(Segue instruções). Usar normas, modelos e ferramentas de gerência de projeto para planejamento e acompanhamento de projeto de software.\n" +
             "(Faz com orientação). Selecionar e implementar o tipo de modelo de processo (dirigido por plano, incremental ou adaptativo) de acordo com as características do contexto do projeto de software.\n" +
             "(Segue instruções). Selecionar e implementar o tipo de ciclo de vida de software (ou paradigma de engenharia de software - cascata, espiral, iterativo, baseado em modelo de maturidade, etc.) de acordo com as características do contexto do projeto de software.\n",
-        "tags": "Gerência de Projetos de Software Gestão de Engenharia de Software Gerência de Configuração de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Gerenciamento\n" +
+        "PMBOK" +
+        "Gerência de Projetos de Software Gestão de Engenharia de Software Gerência de Configuração de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Redes de Computadores",
@@ -194,7 +231,10 @@ var tipuesearch = {"pages": [
             "Gerenciamento de Redes. \n" +
             "Redes Sem Fio e Mobilidade. \n" +
             "Estudo de Caso de Tópicos Emergentes em Redes.\n",
-        "tags": "Redes de Computadores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Sistemas Operacionais",
+        "tags": "Redes\n" +
+        "Conexão\n" +
+        "Internet" +
+        "Redes de Computadores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Sistemas Operacionais",
         "url": ""},
     {
         "title": "Introdução à Língua Brasileira de Sinais",
@@ -202,7 +242,10 @@ var tipuesearch = {"pages": [
             "Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas elementares. \n" +
             "Concepções sobre a Língua de Sinais. \n" +
             "O surdo e a sociedade.\n",
-        "tags": "LIBRAS Introdução à língua brasileira de sinais Núcleo NE Período Quarto Unidade Letras Optativa Pré-requisito Nenhum",
+        "tags": "Optativa\n" +
+        "Libras\n" +
+        "Núcleo Livre" +
+        "LIBRAS Introdução à língua brasileira de sinais Núcleo NE Período Quarto Unidade Letras Optativa Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Compiladores",
@@ -215,84 +258,149 @@ var tipuesearch = {"pages": [
             "Geração do código-objeto da compilação. \n" +
             "Introdução à otimização do código-objeto. \n" +
             "Implementação de um compilador.\n",
-        "tags": "Compiladores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Nenhum",
+        "tags": "Linguagens de programação\n" +
+        "Compilação\n" +
+        "Compiladores\n" +
+        "Programação" +
+        "Compiladores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Nenhum",
         "url": ""},
+    {
+        "title": "Sistemas Distribuídos",
+        "text": "Introdução a Sistemas Distribuídos. \n" +
+        "Invocação Remota. \n" +
+        "Objetos Distribuídos. \n" +
+        "Arquiteturas Orientadas a Serviços e utilização de serviços Web. \n" +
+        "Computação Móvel e Ubíqua. Estudo de Casos de Tópicos Emergentes em Sistemas Distribuídos.\n",
+        "tags": "Fundamentos Computacionais\n" +
+        "Redes\n" +
+        "Conexão\n" +
+        "Internet\n" +
+        "Aplicações" +
+        "Núcleo NE Período Oitavo Unidade INF Optativa Pré-requisito Programação Orientada a Objetos",
+        "url": ""
+    },
     {
         "title": "Computação e Sociedade",
         "text": "História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.",
-        "tags": "Gestão de Engenharia de Software Prática do profissional de engenharia de software Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Prática Profissional\n" +
+        "Sociedade" +
+        "Gestão de Engenharia de Software Prática do profissional de engenharia de software Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Introdução à Programação",
         "text": "Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição. Ponteiro. Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência, recursividade. Manipulação de arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos para uma linguagem de programação. Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento e uso de bibliotecas.",
-        "tags": "Construção de Software Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Programação\n" +
+        "Desenvolvimento\n" +
+        "Computação\n" +
+        "Linguagens de Programação" +
+        "Construção de Software Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Cálculo 1A",
         "text": "Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração. Integrais impróprias. Aplicações.",
-        "tags": "Fundamentos Matemáticos Núcleo NC Período Primeiro Unidade IME Obrigatória Pré-requisito Nenhum",
+        "tags": "Matemática\n" +
+        "Calculo\n" +
+        "Modelos matemáticos" +
+        "Fundamentos Matemáticos Núcleo NC Período Primeiro Unidade IME Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Fundamentos de Matemática para Computação",
         "text": "Noções de lógica. Introdução a demonstrações. Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações numéricas e Mudança de base numérica.",
-        "tags": "Fundamentos Matemáticos Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Matemática\n" +
+        "Calculo\n" +
+        "Modelos matemáticos\n" +
+        "Matemática computacional" +
+        "Fundamentos Matemáticos Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Arquitetura de computadores",
         "text": "Visão geral dos computadores modernos. Evolução da arquitetura dos computadores. Memória e representação de dados e instruções. Processador, ciclo de instrução, formato e endereçamento. Noções básicas de programação em linguagem de montagem.Dispositivos de entrada e saída.Sistemas de interconexão (barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia de memória. Introdução a arquiteturas paralelas e métricas de desempenho.",
-        "tags": "Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Arquitetura\n" +
+        "Arquitetura de dados\n" +
+        "Desenho arquitetural\n" +
+        "Arquitetura na computação\n" +
+        "Construção de Design" +
+        "Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Algoritmos e Estruturas de Dados 1",
         "text": "Noções de complexidade de algoritmos (notações de complexidade). Algoritmos de pesquisa: pesquisa sequencial e binária. Algoritmos de ordenação. Tipos abstratos de dados. Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares). Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e circulares).",
-        "tags": "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Introdução à Programação",
+        "tags": "Linguagens de programação\n" +
+        "Construção de Design\n" +
+        "Persistência" +
+        "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Introdução à Programação",
         "url": ""
     },
     {
         "title": "Probabilidade e Estatísticas A",
         "text": "Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes. Variáveis aleatórias: conceitos básicos, esperança e variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson. Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student. Estimação pontual e intervalar para uma população: média e proporção. Teste de hipóteses para uma população: média e proporção. Correlação linear e regressão linear simples.",
-        "tags": "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Cálculo 1A",
+        "tags": "Estatística\n" +
+        "Matemática\n" +
+        "Analise de dados\n" +
+        "Medições\n" +
+        "Estimativa" +
+        "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Cálculo 1A",
         "url": ""
     },
     {
         "title": "Álgebra linear",
         "text": "Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços com produto interno.",
-        "tags": "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Nenhum",
+        "tags": "Matemática\n" +
+        "Álgebra\n" +
+        "Modelagem matemática" +
+        "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Lógica Matemática",
         "text": "Noções básicas: linguagem natural vs linguagens formais; verdade, validade, satisfatibilidade; lógica proposicional (sintaxe e semântica, propriedades e relações semânticas, consequência lógica, simplificação de fórmulas); lógica de primeira ordem (sintaxe e semântica, propriedades e relações semânticas, formas normais). Métodos de validação: métodos diretos de prova; métodos de prova por contradição; indução estrutural. Linguagem para experimentação. Aplicações básicas.",
-        "tags": "Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Fundamentos de Matemática para Computação",
+        "tags": "Lógica\n" +
+        "Lógica computacional\n" +
+        "Lógica de proposições\n" +
+        "Lógica de predicados" +
+        "Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Fundamentos de Matemática para Computação",
         "url": ""
     },
     {
         "title": "Programação Orientada a Objetos",
         "text": "Abstração e tipos abstratos de dados. Classes, métodos, encapsulamento, interface. Mensagens, instâncias e inicialização. Herança e composição. Polimorfismo. Uso de uma linguagem orientada a objetos. Noções de UML. Noções de padrões de projeto orientado a objetos. ",
-        "tags": "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
+        "tags": "Linguagem de programação\n" +
+        "Paradigmas de programação" +
+        "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
         "url": ""
     },
     {
         "title": "Algoritmos e Estruturas de Dados 2",
         "text": "Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores balanceadas (AVL e rubro-negras). Filas de prioridades. Heaps, Heapsort.  Hashing: tipos de funções de hashing; tratamento de colisões. Definições de Grafos. Estruturas de Dados para representação de grafos. Algoritmos básicos em grafos.",
-        "tags": "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Algoritmos e Estrutura de Dados 1",
+        "tags": "Linguagens de programação\n" +
+        "Construção de Design\n" +
+        "Persistência\n" +
+        "Ordenação" +
+        "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Algoritmos e Estrutura de Dados 1",
         "url": ""
     },
     {
         "title": "Linguagens e Paradigmas de Programação",
         "text": "Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional, lógico, orientado a objeto e script. Reflexão sobre as características desejáveis em uma linguagem de programação e os critérios de seleção de linguagens de acordo com as especificidades dos domínios de aplicação. Descrição de sintaxe e semântica. Estudo sobre tipos de dados, estruturas de controle, ambientes de execução, variáveis, expressões e subprogramas em linguagens de programação.",
-        "tags": "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
+        "tags": "Linguagem de programação\n" +
+        "Paradigmas de programação" +
+        "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
         "url": ""
     },
     {
         "title": "Engenharia de Software",
         "text": "Requisitos de software. Projeto (design) de software. Construção de software. Teste de software. Manutenção de software. Gerência de configuração de software. Gerência de projeto de software. Processo de engenharia de software. Modelos e métodos de engenharia de software. Qualidade de software. Prática profissional de engenharia de software. Economia para engenharia de software. Fundamentos de engenharia.",
-        "tags": "Requisitos de Software Construção de Software Processo de Engenharia de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "SWEBOK\n" +
+        "Requisitos\n" +
+        "Análise de dados\n" +
+        "Modelagem de requisitos\n" +
+        "Diagramas" +
+        "Requisitos de Software Construção de Software Processo de Engenharia de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
@@ -310,7 +418,10 @@ var tipuesearch = {"pages": [
     {
         "title": "Sistemas Operacionais",
         "text": "Conceitos de Hardware e Software. Tipos de Sistemas Operacionais. Organização da Estrutura Interna do Sistema Operacional. Gerência de Processos. Gerência do Processador. Gerência de Memória. Gerência de Dispositivos de Entrada e Saída. Sistemas de Arquivos. Estudos de casos de sistemas operacionais atuais.",
-        "tags": "Fundamentos Computacionais Núcleo NE Período Terceiro Unidade INF Optativa Pré-requisito Arquitetura de Computadores",
+        "tags": "Análise de dados\n" +
+        "Dados\n" +
+        "Metadados" +
+        "Fundamentos Computacionais Núcleo NE Período Terceiro Unidade INF Optativa Pré-requisito Arquitetura de Computadores",
         "url": ""
     },
     {
