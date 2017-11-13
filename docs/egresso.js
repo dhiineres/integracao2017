@@ -8,7 +8,7 @@
 var numTotalAreas = 14;
 var count = 0;
 
-function setCount(value){
+function setCount(value) {
     this.count = value;
 }
 
@@ -42,13 +42,13 @@ function changeContent(pageContent) {
     var pageContent = this.pageContent;
     var content = document.getElementById('mainContent');
 
-    content.innerHTML = '<h1 class="display-4">' + pageContent.content[count].title + '</h1>'+
-    '<p class="lead">'+pageContent.content[count].subtitle+'</p>'+
-    '<p>'+pageContent.content[count].text+'</p>';
+    content.innerHTML =
+        '<h1 class="display-4">' + pageContent.content[count].title + '</h1>' +
+        '<p class="lead">' + pageContent.content[count].subtitle + '</p>' +
+        '<p>' + pageContent.content[count].text + '</p>';
 
-    
+
 }
-
 
 
 /**
@@ -126,6 +126,11 @@ var pageContent = {
         },
         {
             "title": "14 Formação Técnica",
+            "subtitle": "A formação técnica proposta para o BES está fundamentada em bases sólidas: as diretrizes curriculares nacionais [MEC 2012], o guia do corpo de conhecimento em Engenharia de Software [SWEBOK 2014], o corpo de conhecimento recomendado para ser trabalhado em um curso de graduação [SE 2014], e o modelo de competência em Engenharia de Software [SWECOM 2014].",
+            "text": "Em consequência, o conteúdo abordado no curso não diverge das orientações nacionais nem internacionais. A organização dele, contudo, é uma “contribuição” para a área, dado que se baseia em experiências aprendidas nos anos anteriores, juntamente com uma visão holística do aprendizado em Engenharia de Software, o que contrasta com a frequente apresentação cartesiana dessa área. As atividades do curso se aproximam do emprego da Engenharia de Software em projetos reais, no qual os conhecimentos e habilidades não são exigidos de forma fragmentada e isolada. O isolamento de conteúdo é adequado para a classificação do conhecimento que, sem o devido cuidado, pode induzir a definição de disciplinas."
+        },
+        {
+            "title": "15 Formação Técnica",
             "subtitle": "A formação técnica proposta para o BES está fundamentada em bases sólidas: as diretrizes curriculares nacionais [MEC 2012], o guia do corpo de conhecimento em Engenharia de Software [SWEBOK 2014], o corpo de conhecimento recomendado para ser trabalhado em um curso de graduação [SE 2014], e o modelo de competência em Engenharia de Software [SWECOM 2014].",
             "text": "Em consequência, o conteúdo abordado no curso não diverge das orientações nacionais nem internacionais. A organização dele, contudo, é uma “contribuição” para a área, dado que se baseia em experiências aprendidas nos anos anteriores, juntamente com uma visão holística do aprendizado em Engenharia de Software, o que contrasta com a frequente apresentação cartesiana dessa área. As atividades do curso se aproximam do emprego da Engenharia de Software em projetos reais, no qual os conhecimentos e habilidades não são exigidos de forma fragmentada e isolada. O isolamento de conteúdo é adequado para a classificação do conhecimento que, sem o devido cuidado, pode induzir a definição de disciplinas."
         }
