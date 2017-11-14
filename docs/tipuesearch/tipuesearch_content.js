@@ -775,7 +775,7 @@ var tipuesearch = {"pages": [
         "A presente versão não é resultado de alterações superficiais aplicadas à versão anterior, mas de ampla reflexão. Insumos empregados na elaboração da versão anterior foram revisitados. As Diretrizes Curriculares Nacionais (DCN), a versão mais recente do corpo de conhecimento da área e o modelo de competência para o engenheiro de software balizaram os esforços realizados. Projetos pedagógicos de cursos semelhantes, inclusive em outros países, também foram investigados. Esse substancial conjunto de informação foi analisado à luz da experiência dos docentes do próprio curso e do contexto   local.\n" +
         "Por fim, o BES obteve nota máxima na avaliação do MEC em 2015, o que estimulou o cuidado com o curso, reforçado pelo Guia dos Estudantes da Editora Abril 2015, no qual, dentre os 28 cursos superiores em Engenharia de Software investigados, dois recebem 5 estrelas, um desses é o curso do presente projeto pedagógico. Em 2016, esse cenário persiste, conforme o Guia   dos   Estudantes   2016.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Objetivo geral",
@@ -783,7 +783,7 @@ var tipuesearch = {"pages": [
         "Formar profissionais aptos a contribuir efetivamente com a produção de\n" +
         "softwares de qualidade seguindo princípios éticos e postura profissional .",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Objetivos específicos",
@@ -798,7 +798,7 @@ var tipuesearch = {"pages": [
         "Criar alternativa econômica para o Estado de Goiás.\n" +
         "Fortalecer a indústria de software goiana.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Perfil do egresso",
@@ -807,7 +807,7 @@ var tipuesearch = {"pages": [
         "A bacharela ou o bacharel em Engenharia de Software é capaz de efetivamente contribuir com equipes na produção de modelos abstratos de software e realizá-los por meio de código de qualidade. Essa contribuição é pautada   por   postura   profissional   e   conduta   ética.\n" +
         "As habilidades do egresso incluem o que é necessário para lidar com requisitos de software, propor uma solução ( software design)  , construí-la, testá-la   e   mantê-la,   usando   processos   adequados.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Habilidades do egresso",
@@ -870,13 +870,13 @@ var tipuesearch = {"pages": [
         "Participar da construção de software que segue um plano de gerência de configuração de software.\n" +
         "Participar da documentação de software.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Princípios norteadores",
         "text": "O BES baseia-se em princípios que fornecem a sustentação necessária para atingir os objetivos do curso (p. ) e o perfil do egresso (p. ). Esses princípios são fornecidos abaixo.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Formação   Ética   e   Função   Social   do   Profissional",
@@ -885,7 +885,7 @@ var tipuesearch = {"pages": [
         "O comportamento ético e profissional será trabalhado nas atividades do curso, e não apenas na primeira e última disciplinas. A exigência de uma conduta apropriada em sala de aula, tanto dos docentes quanto dos estudantes, contribui com essa formação. Isso significa promover a qualidade de vida, o respeito à diversidade, o respeito ao meio ambiente. Nesse sentido, não apenas as disciplinas, mas toda e qualquer ação, deve ser pautada pela reflexão   do   impacto   no   contexto   no   qual   se   insere.\n" +
         "Ainda convém destacar que a área possui um código de ética próprio, Código de Ética e Prática Profissional da Engenharia de Software [ACM/IEEE]. Esse código é uma das bases de fundamentação do curso e deve ser observado no convívio diário do curso.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Formação Técnica",
@@ -894,7 +894,7 @@ var tipuesearch = {"pages": [
         "[SWECOM 2014]. Em consequência, o conteúdo abordado no curso não diverge das orientações nacionais nem internacionais. A organização dele, contudo, é uma “contribuição” para a área, dado que se baseia em experiências aprendidas nos anos anteriores, juntamente com uma visão holística do aprendizado em Engenharia de Software, o que contrasta com a frequente apresentação cartesiana dessa área.\n" +
         "As atividades do curso se aproximam do emprego da Engenharia de Software em projetos reais, no qual os conhecimentos e habilidades não são exigidos de forma fragmentada e isolada. O isolamento de conteúdo é adequado para a classificação do conhecimento que, sem o devido cuidado, pode induzir a definição de disciplinas. A estratégia de definição das disciplinas do BES é fornecida   abaixo.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Estratégia da definição das disciplinas",
@@ -1121,10 +1121,10 @@ var tipuesearch = {"pages": [
         "url":""
     },
     {
-        "title": "",
-        "text": "",
+        "title": "Paralelepípedo",
+        "text": "Texto para teste de pesquisa, caso a pesquisa da palavra em questão (título desse tópico) reaja ao mecanismo de pesquisa, tudo está certo, caso não, temos um problema.",
         "tags":"",
-        "url":""
+        "url":"pudim.com.br"
     }
 ]};
 
