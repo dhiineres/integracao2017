@@ -714,6 +714,211 @@ var tipuesearch = {"pages": [
         "Metodologia" +
         "Núcleo NC Período Nono Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
+    },
+    {
+        "title":"Apresentação",
+        "text":"O curso de Bacharelado em Engenharia de Software (BES) é oferecido pelo Instituto de  Informática (INF) da Universidade Federal de Goiás (UFG). A primeira versão do Projeto Pedagógico do Curso (PPC) foi criada em 2008, a segunda versão, registrada nesse documento, é fruto de uma reflexão de dois anos   do   Núcleo   Docente   Estruturante   (NDE),   que   reinventou   o   BES.\n" +
+        "A busca pela qualidade é a motivação (p. ) dessa segunda versão, que só pode ser adequadamente compreendida com o detalhamento da história da criação do curso e do cenário no qual está inserido (p. ), o que lembra Paulo Freire, segundo o qual “toda leitura de texto pressupõe uma rigorosa leitura do   contexto”.\n" +
+        "Não houve alteração relevante dos objetivos do curso (p. ), nem tampouco do perfil do egresso (p. ), contudo, ambos foram refinados. Os requisitos legais e normativos foram ampliados pelas diretrizes curriculares nacionais (que não existiam quando a primeira versão foi produzida). Em particular, a estratégia para atender a educação das relações étnico-raciais e para o ensino de história   e   cultura   afro-brasileira   e   africana   foi   revista   em   sua   totalidade.\n" +
+        "A estrutura curricular (p. ) sofreu mudanças significativas. Em particular, o fluxo sugerido, nos quatro primeiros períodos, inclui apenas disciplinas de formação básica em computação. A disciplina “Prática em Engenharia de Software” (p. ) é o elemento integrador do curso, com carga horária de 320 horas. Em particular, as disciplinas específicas de Engenharia de Software são acompanhadas de uma seção adicional, “condições mínimas” (p. ), que estabelece competências a serem demonstradas/adquiridas pelo estudante em   cada   uma   delas.\n" +
+        "A busca por um curso de Engenharia de Software melhor é uma atribuição contínua do NDE estabelecida nesse PPC por meio de princípios (p. ). Esse compromisso é oportuno para estabelecer claramente a responsabilidade pela gestão do presente PPC pelo NDE, sem o qual esse texto resume-se a um registro   de   intenções.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Contexto",
+        "text": "O Bacharelado em Engenharia de Software (BES) existe e se mantém em um contexto no qual se destaca a aptidão do Instituto de Informática, a carência de mão de obra apta a desenvolver softwares de qualidade e a importância local   do   curso,   detalhados   nas   seções   seguintes.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Da aptidão do Instituto de Informática",
+        "text": "O Instituto de Informática da UFG possui sólida experiência no ensino superior em Computação, iniciada em 1983, com a primeira turma do curso de Bacharelado em Ciências da Computação (CC). A partir de 2009 foram criados mais dois cursos de graduação: o Bacharelado em Engenharia de Software (BES) e o Bacharelado em Sistemas de Informação (SI). O INF também é responsável por dezenas de disciplinas da área de Computação ministradas para diversos cursos de graduação de várias unidades de ensino da   UFG.\n" +
+        "Na pós-graduação  lato sensu  o INF já ofertou dezenas de edições dos mais variados cursos de especialização na área de Computação. Na pós-graduação stricto sensu o INF oferece, desde 2001, o Mestrado em Ciência da Computação. A partir de 2010 o INF passou a oferecer o Doutorado em Ciência   da   Computação.\n" +
+        "Essa história perfaz mais de três décadas de ensino, com milhares de egressos, alguns deles ocupando cargos de destaque em universidades, empresas   e   organizações   tanto   no   Brasil   quanto   no   exterior.\n" +
+        "O INF construiu, ao longo desse período, um consistente envolvimento com empresas e organizações de Tecnologia da Informação e Comunicação (TIC). O Apoema [APOEMA] é o órgão do INF responsável pela cooperação e interação   com   organizações   externas,   com   foco   em   soluções   inovadoras.\n" +
+        "Um número significativo de projetos de Pesquisa e Desenvolvimento (P&D) já foi realizado pelo INF em parceria com organizações locais, e alguns com empresas multinacionais (como Dell e HP, por exemplo). O INF também já participou de vários projetos de inovação tecnológica financiados pela Fundação   de   Apoio   à   Pesquisa   do   Estado   de   Goiás   (FAPEG).",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Da carência de mão de obra",
+        "text": "Um dos motivos para a existência do BES é a necessidade de formar recursos humanos em Engenharia de Software. A demanda por profissionais especializados na produção de software não existe só no Estado de Goiás, nem   tampouco   apenas   no   Brasil,   mas   em   todo   o   mundo.\n" +
+        "Apesar da demanda, na ocasião da criação do BES, não era conhecido outro curso com a mesma denominação ou propósito no Brasil. A tradição do INF na socialização da Computação, juntamente com a atuação em Engenharia de Software do seu corpo docente, resultou em proposta pioneira no País de um curso especificamente voltado para a formação de Engenheiros de Software, com ênfase na produção de software. Hoje, o Guia dos Estudantes da   Editora   Abril   lista   28   cursos   similares.\n" +
+        "A região da Grande Goiânia reúne centenas de empresas de TIC, mas elas participam de forma tímida no mercado de software nacional. Com a disponibilidade de recursos humanos qualificados, essa participação pode crescer, o que é compatível com a dimensão do Estado de Goiás, a oitava economia nacional. Portanto, promover a indústria de produção de software em Goiás significa fomentar o aumento da participação das empresas do estado   no   mercado   de   software.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Dos indicadores socioeconômicos regionais",
+        "text": "O BES cria a possibilidade de acesso ao ensino superior para aqueles que não podem usufruir do ensino privado. Segundo o IBGE [IBGE], em Goiás, 62.133 estudantes de graduação frequentavam cursos públicos em 2010, enquanto 156.415 estavam matriculados em cursos privados. Ou seja, estudantes em cursos públicos representam menos de 30% do total de estudantes   matriculados   no   ensino   superior.\n" +
+        "O rendimento nominal médio mensal domiciliar  per capita de todos os municípios brasileiros revela que, das cidades goianas, a capital do estado é a melhor posicionada, em vigésimo quarto lugar. O município goiano seguinte nesta classificação é Alto Paraíso de Goiás, na posição 158. O terceiro é Jataí, na posição 188. Até esta terceira aparição de municípios goianos, observa-se\n" +
+        "13\n" +
+        "que o Estado do Rio Grande do Sul contribui com 57 municípios, São Paulo contribui   com   55   municípios   e   Santa   Catarina   com   25   municípios.\n" +
+        "Quando se analisa o produto interno bruto (PIB) dos municípios brasileiros, dentre os cem maiores, Goiás contribui com apenas 2 municípios (Goiânia e Anápolis). Reunidos, estes dois municípios possuem PIB inferior ao do décimo   terceiro   colocado,   São   Bernardo   do   Campo   (SP).\n" +
+        "Os valores expostos acima sugerem que a capacidade de financiamento privado do ensino superior em Goiás é inferior à de outros estados. Apesar dessa limitação, menos de 30% do total de estudantes estão matriculados em cursos   superiores   públicos.\n" +
+        "Aqueles que conseguem acesso ao ensino superior, público ou privado, são minoria em Goiás. Segundo o [IBGE], em 2010 Goiás tinha 1.213.946 pessoas com 10 ou mais anos de idade com curso médio completo, enquanto apenas 218.548 estavam matriculadas em curso superior. Ou seja, menos de 20% continuam seus estudos até o ensino superior. Neste censo, Goiás tinha 394.491 cidadãos com curso superior completo em uma população total de 6.003.788, ou seja, 6,5% da população com curso superior. O Estado de São Paulo, por exemplo, apresenta uma taxa superior a 10%. Taxas ainda bem superiores   são   encontradas   em   outros   países   [OECD,   2012].\n" +
+        "Além de contribuir para melhoria dos indicadores de educação em Goiás, o BES potencializa o crescimento da economia goiana por meio de alternativa à atual dependência do agronegócio. Essa alternativa fomenta a participação de   Goiás   em   um   mercado   valioso,   além   de   promover   a   criação   de   empregos.\n" +
+        "A posição estratégia do BES pode ser esclarecida por meio de iniciativas internacionais. Por exemplo,  TechHire Initiative e  Computer Scicence for All são programas americanos lançados nos dois últimos anos, orçados em cerca de\n" +
+        "2 bilhões de dólares, com o propósito de promover a capacitação em produção   de   software   nos   Estados   Unidos.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Exposição de motivos",
+        "text": "A dependência da sociedade em relação a softwares continua se expandindo, inclusive em tarefas que antes eram exclusivas dos seres humanos, por exemplo, estacionar um veículo. Isso tem ampliado a demanda por softwares e consequentemente por profissionais que visam atender essa demanda. O conhecimento necessário para produzir software é denominado de Engenharia   de   Software.\n" +
+        "Tradicionalmente esse conhecimento e as habilidades necessárias são adquiridas por egressos de outros cursos de graduação ou até por meio de cursos rápidos. Nesses casos, a apropriação de habilidades ocorre de forma parcial, pois não há espaço em tais cursos para cobrir adequadamente essa extensa   área.\n" +
+        "A vocação de docentes do INF e o Programa de Reestruturação e Expansão das Universidades Federais (REUNI) resultaram na criação do primeiro curso de graduação (bacharelado) em Engenharia de Software do Brasil, o presente curso, pelo INF/UFG em 27/06/2008, conforme a resolução CONSUNI 10/2008, com o foco na formação de egressos aptos a usar de forma efetiva o conhecimento da Engenharia de Software. Essa primeira versão foi amplamente   divulgada   [BES1]   [BES2].\n" +
+        "Dezenas de docentes acumularam lições aprendidas desde o início da primeira turma do curso em março de 2009. A partir de outubro de 2014, o Núcleo Docente Estruturante (NDE) do curso iniciou esforço para refletir essas lições em uma nova versão do PPC. Ao longo de quase meia centena de encontros, o NDE fez uma exaustiva revisão do curso. As lições aprendidas e outras demandas, por exemplo, as diretrizes curriculares e o alinhamento com uma formação básica de qualidade em computação, definida pelo próprio   INF,   foram   acomodadas   na   presente   versão.\n" +
+        "Convém esclarecer que na época da criação do BES, sem similar no país, não existiam diretrizes curriculares específicas. Essas diretrizes vieram apenas em 2012   [CNE   2012].\n" +
+        "15\n" +
+        "A presente versão não é resultado de alterações superficiais aplicadas à versão anterior, mas de ampla reflexão. Insumos empregados na elaboração da versão anterior foram revisitados. As Diretrizes Curriculares Nacionais (DCN), a versão mais recente do corpo de conhecimento da área e o modelo de competência para o engenheiro de software balizaram os esforços realizados. Projetos pedagógicos de cursos semelhantes, inclusive em outros países, também foram investigados. Esse substancial conjunto de informação foi analisado à luz da experiência dos docentes do próprio curso e do contexto   local.\n" +
+        "Por fim, o BES obteve nota máxima na avaliação do MEC em 2015, o que estimulou o cuidado com o curso, reforçado pelo Guia dos Estudantes da Editora Abril 2015, no qual, dentre os 28 cursos superiores em Engenharia de Software investigados, dois recebem 5 estrelas, um desses é o curso do presente projeto pedagógico. Em 2016, esse cenário persiste, conforme o Guia   dos   Estudantes   2016.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Objetivo geral",
+        "text": "O BES tem como \objetivo\n" +
+        "Formar profissionais aptos a contribuir efetivamente com a produção de\n" +
+        "softwares de qualidade seguindo princípios éticos e postura profissional .",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Objetivos específicos",
+        "text": "Reconhecer e valorizar o respeito à diversidade. Conforme se lê na Constituição Federal em seu Art. 3.o, inciso IV: “promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras   formas   de   discriminação”.\n" +
+        "Promover relações étnico-raciais respeitosas, assim como a socialização da história da formação dos brasileiros.\n" +
+        "Ampliar a compreensão acerca de questões ambientais e, ao mesmo tempo, valorizar projetos sustentáveis.\n" +
+        "16\n" +
+        "Contribuir com a demanda da sociedade por softwares de qualidade.\n" +
+        "Conceber e desenvolver produtos inovadores.\n" +
+        "Promover a engenharia de software na indústria de software regional.\n" +
+        "Viabilizar atividade econômica de alto valor(produção de software).\n" +
+        "Criar alternativa econômica para o Estado de Goiás.\n" +
+        "Fortalecer a indústria de software goiana.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Perfil do egresso",
+        "text": "O egresso do BES é um profissional com capacitação sólida em engenharia de software.  Essa capacitação advém de formação básica consistente em computação   e   de   abrangente   e   aprofundada   em   engenharia   de   software.\n" +
+        "O mercado de atuação do egresso é abrangente, e decorre da dependência da sociedade por software. Adicionalmente, tal dependência tem se expandido com   novos produtos, serviços   e   processos.\n" +
+        "A bacharela ou o bacharel em Engenharia de Software é capaz de efetivamente contribuir com equipes na produção de modelos abstratos de software e realizá-los por meio de código de qualidade. Essa contribuição é pautada   por   postura   profissional   e   conduta   ética.\n" +
+        "As habilidades do egresso incluem o que é necessário para lidar com requisitos de software, propor uma solução ( software design)  , construí-la, testá-la   e   mantê-la,   usando   processos   adequados.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Habilidades do egresso",
+        "text": "Da perspectiva de relações pessoais, o egresso deve ser capaz de:\n" +
+        "Participar de forma harmoniosa, profissional e ética durante a\n" +
+        "elaboração de produtos de software atribuídos a equipes.\n" +
+        "Liderar ação contínua de formação de sua própria  reputação na área.\n" +
+        "17\n" +
+        "Participar da comunicação de ideias com clareza, seja na forma verbal ou   escrita.\n" +
+        "Da perspectiva técnica, o egresso deve ser capaz de:\n" +
+        "Participar de atividades para eliciar, analisar, especificar, validar e\n" +
+        "gerenciar requisitos de software.\n" +
+        "Participar da definição da solução de software que atende requisitos, ou seja, da definição da arquitetura e do projeto detalhado desse software.\n" +
+        "Participar da elaboração de modelos de análise e de projeto ( design)  de software.\n" +
+        "Participar da aplicação de técnicas de projeto ao desenvolver softwares concorrentes, distribuídos, orientados a objetos, orientados a eventos e que implementam a persistência de dados.\n" +
+        "Participar da avaliação de  design  de software considerando, dentre outros quesitos: abstração, coesão, acoplamento e encapsulamento.\n" +
+        "Participar da aplicação de técnicas de tratamento de exceção e tolerância   a   falhas.\n" +
+        "Auxiliar a escolha de processo e de metodologia de design de software.\n" +
+        "Auxiliar a revisão de design de software\n" +
+        "Participar do emprego de estilos, visões, modelos e padrões de arquitetura de software.\n" +
+        "Participar do projeto de componentes e módulos de software usando modelos, padrões de projeto e notações.\n" +
+        "Auxiliar a execução de análise estática.\n" +
+        "Auxiliar a escolha de processos e modelos apropriados para a construção   de   software.\n" +
+        "18\n" +
+        "\n" +
+        "Auxiliar a escolha de linguagens e ferramentas apropriadas para a construção de software.\n" +
+        "Auxiliar a escolha de  frameworks , plataformas e ambientes de construção de construção de software.\n" +
+        "Participar da construção de software seguindo padrões de gerência de configuração e controle de versão.\n" +
+        "Participar da coleta e do monitoramento de medidas de qualidade de código.\n" +
+        "Participar da criação de  design  detalhado que minimiza a complexidade e melhora a qualidade.\n" +
+        "Participar da criação de código que implementa projetos detalhados.\n" +
+        "Indicar o uso de padrões de projeto.\n" +
+        "Participar da refatoração (refactoring) de código.\n" +
+        "Participar da construção de software que segue padrões de código.\n" +
+        "Participar da construção de software que faz uso de técnicas de codificação defensiva.\n" +
+        "Participar da geração de código a partir de modelos de projeto.\n" +
+        "Participar do uso apropriado de ferramentas e técnicas de depuração.\n" +
+        "Participar da criação de testes de unidade.\n" +
+        "Participar da construção de software que satisfaz objetivos de cobertura de testes.\n" +
+        "Participar da construção de software que segue estratégias e processos de integração e implantação.\n" +
+        "Participar da construção e realização de testes de integração.\n" +
+        "19\n" +
+        "\n" +
+        "Participar da construção de software em equipe ao colaborar com outros membros da equipe.\n" +
+        "Participar de revisões e inspeções.\n" +
+        "Participar da elaboração e implementação de planos de testes.\n" +
+        "Participar da definição de um ambiente de teste e da correspondente implementação.\n" +
+        "Participar da identificação, design e implementação de testes.\n" +
+        "Participar da elaboração de relatórios de testes.\n" +
+        "Auxiliar a elaboração e execução de plano de transição de software.\n" +
+        "Auxiliar a elaboração e execução de planos de manutenção de software.\n" +
+        "Auxiliar a execução de atividades de processos de software.\n" +
+        "Auxiliar a definição e personalização de processos de software.\n" +
+        "Auxiliar a implementação e execução de processos de software.\n" +
+        "Auxiliar a coleta de dados para avaliação de processos de software.\n" +
+        "Auxiliar a definição e o desenvolvimento de software que satisfaz objetivos e atributos de qualidade.\n" +
+        "Auxiliar a identificação de medidas de qualidade apropriadas.\n" +
+        "Auxiliar a elaboração de planos e revisões de qualidade.\n" +
+        "Participar da construção de software que segue princípios recomendados para segurança de código.\n" +
+        "Participar da construção de software que segue um plano de gerência de configuração de software.\n" +
+        "Participar da documentação de software.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Princípios norteadores",
+        "text": "O BES baseia-se em princípios que fornecem a sustentação necessária para atingir os objetivos do curso (p. ) e o perfil do egresso (p. ). Esses princípios são fornecidos abaixo.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Formação   Ética   e   Função   Social   do   Profissional",
+        "text": "A vivência de princípios éticos e o conhecimento sobre a responsabilidade social do Engenheiro de Software são elementos imprescindíveis para a formação da postura profissional do egresso do BES.\n" +
+        "Ética é assunto de uma das disciplinas do primeiro semestre do curso, “Computação e Sociedade” (p. ), e volta a ser explicitamente tratada, junto com aspectos profissionais, na última disciplina do curso “Prática em Engenharia de Software” (p. ). Nesse caso, a postura ética e profissional é condição   a   ser   observada   para   aprovação   nessa   disciplina.\n" +
+        "O comportamento ético e profissional será trabalhado nas atividades do curso, e não apenas na primeira e última disciplinas. A exigência de uma conduta apropriada em sala de aula, tanto dos docentes quanto dos estudantes, contribui com essa formação. Isso significa promover a qualidade de vida, o respeito à diversidade, o respeito ao meio ambiente. Nesse sentido, não apenas as disciplinas, mas toda e qualquer ação, deve ser pautada pela reflexão   do   impacto   no   contexto   no   qual   se   insere.\n" +
+        "Ainda convém destacar que a área possui um código de ética próprio, Código de Ética e Prática Profissional da Engenharia de Software [ACM/IEEE]. Esse código é uma das bases de fundamentação do curso e deve ser observado no convívio diário do curso.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Formação Técnica",
+        "text": "A formação técnica proposta para o BES está fundamentada em bases sólidas: as diretrizes curriculares nacionais [MEC 2012], o guia do corpo de conhecimento em Engenharia de Software [SWEBOK 2014], o corpo de conhecimento recomendado para ser trabalhado em um curso de graduação [SE 2014], e o modelo de competência em Engenharia de Software\n" +
+        "21\n" +
+        "[SWECOM 2014]. Em consequência, o conteúdo abordado no curso não diverge das orientações nacionais nem internacionais. A organização dele, contudo, é uma “contribuição” para a área, dado que se baseia em experiências aprendidas nos anos anteriores, juntamente com uma visão holística do aprendizado em Engenharia de Software, o que contrasta com a frequente apresentação cartesiana dessa área.\n" +
+        "As atividades do curso se aproximam do emprego da Engenharia de Software em projetos reais, no qual os conhecimentos e habilidades não são exigidos de forma fragmentada e isolada. O isolamento de conteúdo é adequado para a classificação do conhecimento que, sem o devido cuidado, pode induzir a definição de disciplinas. A estratégia de definição das disciplinas do BES é fornecida   abaixo.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "",
+        "text": "",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "",
+        "text": "",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "",
+        "text": "",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "",
+        "text": "",
+        "tags":"",
+        "url":""
     }
 ]};
 
