@@ -216,11 +216,11 @@
             </div>
             <!-- /row -->
             <footer class="mt-5">
-
                 <div class="row text-center mx-auto">
                     <div class="col-md-5 mt-auto">
                         <ul>
                             <li><a class="col d-inline" href="nde.html#avaliacaoPC">Avaliação de projeto de curso</a></li>
+                            <li><a href="http://www.inf.ufg.br/sites/default/files/uploads/es/ppcESPrograd.pdf" download="">Download PPC</a></li>
                         </ul>
                     </div>
 
@@ -235,7 +235,6 @@
                         </ul>
                     </div>
                 </div>
-
             </footer>
 
 
@@ -245,15 +244,37 @@
 
 
     <!-- Optional JavaScript -->
+    <script src="../mousetrap.min.js"></script>
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="egressoCarousel.js"></script>
-    <script src="egresso.js"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
         crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.11.0/umd/popper.min.js" integrity="sha384-b/U6ypiBEHpOf/4+1nzFpr53nxSS+GLCkfwBdFNTxtclqqenISfwAzpKaMNFNmj4"
         crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta/js/bootstrap.min.js" integrity="sha384-h0AbiXch4ZDo7tp9hKZ4TsHbi047NrKGLO3SEJAg45jXxnGIfYzk4Si90RDIqNm1"
         crossorigin="anonymous"></script>
+
+    <!-- Script de acessibilidade para: -->
+    <!-- 
+    Teclando-se Alt + 1 em qualquer página do portal, chega-se diretamente ao começo do conteúdo principal da página.
+    Teclando-se Alt + 2 em qualquer página do portal, chega-se diretamente ao início do menu principal.
+    Teclando-se Alt + 3 em qualquer página do portal, chega-se diretamente em sua busca interna. -->
+    <script>
+        function goMain() {
+            window.location.hash = "#main";
+        }
+
+        function goNav() {
+            window.location.hash = "#navbarSupportedContent";
+        }
+
+        function goSearch() {
+            window.location = "search.html#tipue_search_input";
+        }
+
+        Mousetrap.bind('alt+1', goMain);
+        Mousetrap.bind('alt+2', goNav);
+        Mousetrap.bind('alt+3', goSearch);
+    </script>
 </body>
 
 
