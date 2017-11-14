@@ -133,7 +133,7 @@
 
             <!-- ESTRUTURA QUE CONTÉM O CAROUSEL -->
             <div class="col-lg-12 my-5">
-                <div id="carouselExampleControls" class="carousel slide" data-pause="true" data-wrap="false">
+                <div id="carouselExampleControls" class="carousel" ddata-pause="true" data-wrap="false" data-interval="false">
                     <ol class="carousel-indicators">
                         <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
                         <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
@@ -273,9 +273,9 @@
       window.location = "search.html#tipue_search_input";
     }
 
-    Mousetrap.bind('alt+1', goMain);
-    Mousetrap.bind('alt+2', goNav);
-    Mousetrap.bind('alt+3', goSearch);
+    Mousetrap.bind(['alt+1', 'alt+ctrl+1'], goMain);
+    Mousetrap.bind(['alt+2', 'alt+ctrl+2'], goNav);
+    Mousetrap.bind(['alt+3', 'alt+ctrl+3'], goSearch);
   </script>
   <script>
     indexDisciplina = 0;
@@ -284,6 +284,67 @@
     }
     indexDisciplina = 0;
   </script>
+
+  <!-- Esse cara aqui faz funcionar o HASH ao final do URL -->
+<script>
+    function redirectHash() {
+        var hashUrl = window.location.hash.substr(1);
+        console.log(typeof parseInt(hashUrl));
+        switch (parseInt(hashUrl)) {
+            case 1:
+                $('.carousel').carousel(number = 1);
+                setCount(1);
+                changeContent();
+                break;
+            case 2:
+                $('.carousel').carousel(number = 2);
+                setCount(2);
+                changeContent();
+                break;
+            case 3:
+                $('.carousel').carousel(number = 3);
+                setCount(3);
+                changeContent();
+                break;
+            case 4:
+                $('.carousel').carousel(number = 4);
+                setCount(4);
+                changeContent();
+                break;
+            case 5:
+                $('.carousel').carousel(number = 5);
+                setCount(5);
+                changeContent();
+                break;
+            case 6:
+                $('.carousel').carousel(number = 6);
+                setCount(6);
+                changeContent();
+                break;
+            case 7:
+                $('.carousel').carousel(number = 7);
+                setCount(7);
+                changeContent();
+                break;
+            case 8:
+                $('.carousel').carousel(number = 8);
+                setCount(8);
+                changeContent();
+                break;
+            case 9:
+                $('.carousel').carousel(number = 9);
+                setCount(9);
+                changeContent();
+                break;
+            default:
+                $('.carousel').carousel(number = 0);
+                setCount(0);
+                changeContent();
+        }
+    }
+
+    redirectHash();
+</script>
 </body>
 
 </html>
