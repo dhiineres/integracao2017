@@ -8,7 +8,6 @@ function setup()
 
 function changeSlide()
 {
-
     var currentIndex = $('div.active').index() + 1;
 
     // get text corresponding to the current slide
