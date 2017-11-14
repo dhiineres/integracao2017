@@ -957,7 +957,7 @@ var tipuesearch = {"pages": [
 		"A atuação do NDE deve ser realizada em estreita interação com a coordenação do curso. Entretanto, não é nem pode ser vista como meio para auxiliar a realização de fluxos administrativos (atribuição da coordenação do curso). \n"+
 		"Convém observar que as atribuições estabelecidas acima estão em conformidade com a resolução da Comissão Nacional de Avaliação da Educação Superior (CONAES), 01/2010 de 17 de junho de 2010, a qual “normatiza o núcleo docente estruturante”, e esclarecido pelo parecer CONAES 04/2010 de 17 de junho de 2010.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde"
     },
     {
         "title": "Política e gestão de estágio não obrigatório",
@@ -967,7 +967,7 @@ var tipuesearch = {"pages": [
 		"Durante o estágio, que não pode ultrapassar 24 meses em mesmo local, o estudante deverá apresentar o Termo de Compromisso, o Plano de Estágio, além da frequência e dos relatórios semestrais. \n"+
 		"Os documentos citados acima, bem como outros detalhes do estágio, em conformidade com a Lei 11.788/2008, são definidos pelo Regulamento de Estágio de Curso do Bacharelado em Engenharia de Software.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#estagio"
     },
     {
         "title": "Trabalho de Conclusão de Curso (TCC)",
@@ -976,7 +976,7 @@ var tipuesearch = {"pages": [
 		"O relatório é individual e tem como objetivo a expressão do estudante na forma escrita, a capacidade de analisar, caracterizar, investigar, discutir, implantar, pesquisar, realizar, sintetizar e avaliar, entre outras. Neste sentido, o relatório descreve, de forma crítica, as atividades teórico-práticas e de formação profissional relacionadas ao desenvolvimento do estudante como profissional, em especial, durante a disciplina Prática em Engenharia de Software (p. ). \n"+
 		"A apresentação do relatório, também individual, é realizada como última atividade do curso e tem como objetivo a expressão do estudante, agora na forma oral, das atividades descritas no relatório, em seção pública e para uma banca formada por professores do INF. A banca de professores tem o direito a um período de arguição e é responsável pela avaliação tanto do relatório quanto da apresentação.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#tcc"
     },
     {
         "title": "Integração ensino, pesquisa e extensão",
@@ -987,7 +987,7 @@ var tipuesearch = {"pages": [
 		"Um contundente exemplo é a disciplina de 320 horas, Prática em Engenharia de Software. Essa disciplina envolve em sua concepção o ensino, a extensão e a pesquisa ao se concentrar em projetos reais executados no ambiente de uma Fábrica de Software. Qualquer que seja o projeto, esse envolverá extensão e/ou pesquisa, naturalmente, ainda em um cenário de aprendizado (ensino).\n"+
 		"A integração, contudo, não ocorre apenas por meio dos elementos acima, que seriam pontos de integração localizados e em períodos específicos. A integração deve ocorrer, onde oportuno, em cada ação do curso. Por exemplo, uma postura didática recomendável exige a contextualização de cada aula acerca do que será visto, da repercussão ou relação dela com a indústria de software (sociedade) e do estado da arte corrente. De fato, essa postura não é apenas recomendável, mas exigida por meio das “condições mínimas” definidas para cada disciplina. Ou seja, a integração do ensino com a pesquisa e a extensão ocorre por toda a extensão do curso.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#integracao"
     },
     {
         "title": "Avaliação do processo de ensino e aprendizagem",
@@ -1002,7 +1002,7 @@ var tipuesearch = {"pages": [
 		"Convém destacar que as disciplinas específicas de Engenharia de Software são acompanhadas, cada uma delas, de seção de “Condições mínimas” (p. ), que identificam elementos obrigatórios a serem satisfeitos pelo estudante para ser considerado aprovado na disciplina. Embora essa seja uma interpretação correta, a intenção é estabelecer um contrato claro do compromisso do estudante e do docente com a disciplina em questão. A avaliação de cada uma dessas disciplinas, portanto, necessariamente deve observar as condições mínimas estabelecidas. De fato, a condução de toda a disciplina deve ser orientada por tais condições.\n"+
 		"Dada a especificidade da disciplina “Prática em Engenharia de Software” (p. ), o sistema de avaliação também é específico. Nesse caso, as avaliações devem envolver o domínio de processos e a geração de produtos de Engenharia de Software. Em particular, atividades avaliativas podem ser realizadas mesclando teoria e prática em um ambiente real de desenvolvimento de software, no qual a qualidade estabelecida para os entregáveis do projeto em questão é verificada.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#avaliacaoPE"
     },
     {
         "title": "Avaliação do projeto de curso",
@@ -1012,7 +1012,7 @@ var tipuesearch = {"pages": [
         "31\n" +
         "outras fontes como os resultados dos estudantes do curso no Exame Nacional de   Desempenho   de   Estudantes   (ENADE).",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#avaliacaoPC"
     },
     {
         "title": "Política de qualificação",
@@ -1025,7 +1025,7 @@ var tipuesearch = {"pages": [
         "Plano Anual de Capacitação dos TAEs. Em consonância com a Resolução CEPEC 1286/2014, o INF instrui o afastamento de docentes com a Resolução CD/INF n. 01 de 2014, que dá suporte ao planejamento administrativo e incentiva a participaç ã o de seus docentes, em cursos de doutorado, pós-doutorado e capacitaç ã o, no país e no exterior, de acordo com a sua política   de   pessoal   para   o   ensino,   a   pesquisa,   a   extensão   e   a   administraç ã o.\n" +
         "Por fim, cabe ao NDE monitorar o PPC e, consequentemente, promover ações que promovam a qualidade dos serviços oferecidos tanto por docentes quanto   por   TAEs.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#avaliacaoPE"
     },
     {
         "title": "Requisitos legais e normativos",
@@ -1121,10 +1121,10 @@ var tipuesearch = {"pages": [
         "url":""
     },
     {
-        "title": "Paralelepípedo",
-        "text": "Texto para teste de pesquisa, caso a pesquisa da palavra em questão (título desse tópico) reaja ao mecanismo de pesquisa, tudo está certo, caso não, temos um problema.",
+        "title": "",
+        "text": "",
         "tags":"",
-        "url":"pudim.com.br"
+        "url":"r"
     }
 ]};
 
