@@ -25,7 +25,27 @@ var tipuesearch = {"pages": [
             "Princípios de projeto de interfaces humano-computador. Métodos de projeto de interação. Projeto visual (cores, ícones, fontes e outros). Tempo de resposta e retroalimentação. \n" +
             "Dispositivos de interação. \n" +
             "Métodos de avaliação de interfaces: avaliação heurística, abordagens para testes realizados com apoio de usuários, técnicas de testes para páginas Web, entre outros. \n" +
-            "Visão geral de ferramentas de desenvolvimento de interfaces humano-computador.\n",
+            "Visão geral de ferramentas de desenvolvimento de interfaces humano-computador.\n" +
+        "DIX, A.; FINLAY, J. E.; ABOWD, G. D.; BEALE, R. Human Computer\n" +
+        "Interaction (3r  d Edition). Prentice Hall, Inc., Upper Saddle River, NJ,\n" +
+        "USA,   2003.\n" +
+        "ROGERS, Y.; SHARP, H.; PREECE, J. Design de Interação   Além da\n" +
+        "Interação   Homem computador.   3a   Ed.,   Porto   Alegre:   Bookman,   2013.\n" +
+        "TIDWELL, J. Designing Interfaces: Patterns for Effective Interaction\n" +
+        "Design.   O’Reilly.   Segunda   edição,   2011.\n" +
+        "Bibliografia   Complementar\n" +
+        "BARBOSA, S. D. J. ; SILVA, B. S. Interação Humano Computador.\n" +
+        "Elsevier   Editora.   1.a      edição.   2010.\n" +
+        "JACKO, Julie A. The human computer interaction handbook:\n" +
+        "fundamentals, evolving technologies, and emerging applications. CRC\n" +
+        "Press,   2012.\n" +
+        "LAZAR, J.; FENG, J. H.; HOCHHEISER, H. Research Methods in\n" +
+        "Human Computer   Interaction.   Wiley,   2009.\n" +
+        "MACKENZIE, I. S. Human computer Interaction: An Empirical\n" +
+        "Research Perspective. Morgan Kaufmann, 201 3. ISBN: 978 0 1\n" +
+        "2 405865 1\n" +
+        "SCOTT, B.; NEIL, T. Designing Web Interfaces: Principles and\n" +
+        "Patterns   for   Rich   Interactions.   O'Reilly   Media ;    1s  t    edition.   2009.",
         "tags": "Interface\n" +
         "Interação\n" +
         "Usabilidade" +
@@ -39,7 +59,25 @@ var tipuesearch = {"pages": [
             "Linguagens para Banco de Dados: álgebra relacional, cálculo relacional e SQL. \n" +
             "Modelo Entidade-Relacionamento e extensões. \n" +
             "Mapeamento ER-relacional. \n" +
-            "Normalização.\n",
+            "Normalização.\n" +
+        "ELMASRI, R.; NAVATHE, S. B. Sistemas de Banco de Dados, 6.a ed.,\n" +
+        "Pearson   -   Addison   Wesley,   2011.\n" +
+        "HEUSER, C. A. Projeto de Banco de Dados, 6.a edição, Bookman,\n" +
+        "Porto   Alegre,   2009.\n" +
+        "SILBERSCHATZ, A.; KORTH, H. F.; SUDARSHAN, S. Sistema de\n" +
+        "Banco   de   Dados,   5.a   edição,   Editora   Campus,   Rio   de   Janeiro,   2006.\n" +
+        "Bibliografia   Complementar\n" +
+        "CONNOLLY, T. M.; BEGG, C. E.; STRACHAN, A. D. Database\n" +
+        "systems: a practical approach to design, implementation and\n" +
+        "management,   3rd.   Edition,   Addison   Wesley,   2010.\n" +
+        "DATE, C. J. Introdução a Sistemas de Banco de Dados, tradução da 8.a \n" +
+        "edição   americana,   Editora   Campus,   Rio   de   Janeiro,   2004.\n" +
+        "GARCIA-MOLINA, H.; ULLMAN, J. D.; WIDOM, J. D. Database\n" +
+        "Systems:   The   Complete   Book,   2.a      edição,   Prentice   Hall,   2009\n" +
+        "RAMAKRISHNAN, R.; GEHRKE, J. Sistemas de Gerenciamento de Banco de Dados, tradução da 3.a  edição, São Paulo, McGraw-Hill,\n" +
+        "2008.\n" +
+        "TEOREY, T.; LIGHTSTONE, S.; NADEAU, T. Projeto e Modelagem de\n" +
+        "Bancos   de   Dados,   Editora   Campus,   Rio   de   Janeiro,   2007.",
         "tags": "Modelagem de dados\n" +
         "Persistência\n" +
         "Dados\n" +
@@ -55,7 +93,19 @@ var tipuesearch = {"pages": [
             "Análise de qualidade e avaliação de design de software. \n" +
             "Notação de design de software. \n" +
             "Métodos e estratégias de design de software. \n" +
-            "Ferramentas de design de software.\n",
+            "Ferramentas de design de software.\n" +
+        "BUDGEN,   B.   Software   Design,   2n  d    edition,   Addison Wesley,   2003.\n" +
+        "B A S S , L . e t a l . S o f t w a r e A r c h i t e c t u r e i n P r a c t i c e , 3 r  d e d i t i o n ,\n" +
+        "Addison Wesley,   2012.\n" +
+        "LARMAN, C. Utilizando UML e padrões: uma introdução à análise e\n" +
+        "ao projeto orientados a objetos e ao desenvolvimento interativo. Bookman,   2008.\n" +
+        "Bibliografia   Complementar\n" +
+        " 101\n" +
+        "BOOCH, G. UML guia do usuário: o mais avançado tutorial sobre Unified   Modeling   Language   (UML).   Elsevier,   2006.\n" +
+        "FREEMAN, E. et al. Use a cabeça!: padrões de projetos, (design patterns),   Alta   Books,   2007.\n" +
+        "FOWLER, M. Patterns of enterprise application architecture. Addison Wesley,   2003.\n" +
+        "GAMMA, E. et al. Design patterns elements of reusable object-oriented   software.   Reading:   Addison   Wesley,   1995.\n" +
+        "NYGARD, M. Release It!: Design and Deploy Production Ready Software,   Pragmatic   Bookshelf,   2007.",
         "tags": "Design" +
         "Padrões de projeto\n" +
         "Análise de problemas" +
@@ -254,7 +304,24 @@ var tipuesearch = {"pages": [
             "Camadas de Aplicação, Transporte, Rede, Enlace e Física. \n" +
             "Gerenciamento de Redes. \n" +
             "Redes Sem Fio e Mobilidade. \n" +
-            "Estudo de Caso de Tópicos Emergentes em Redes.\n",
+            "Estudo de Caso de Tópicos Emergentes em Redes.\n" +
+        "KUROSE, J.F.; ROSS, K. Redes de Computadores e a Internet, 6.a \n" +
+        "edição.   Pearson   Education,   2013.\n" +
+        "LAUDON, K. C.; LAUDON, J. P. Sistemas de Informação Gerenciais.\n" +
+        "9.a      edição.   São   Paulo:   Pearson   Education,   2013. 104\n" +
+        "  \n" +
+        "TANENBAUM, A. S. Computer Networks, 4t  h edition, Prentice Hall, 2003.\n" +
+        "Bibliografia   complementar\n" +
+        "DANTAS, M. Redes de comunicação e computadores: abordagem\n" +
+        "quantitativa.   Visual   Books,   2009.   ISBN   9788575022559.\n" +
+        "PETERSON, L. L.; DAVIE, B. S. Redes de Computadores: Uma\n" +
+        "Abordagem   de   Sistemas,   3.a      edição.   Campus   Elsevier,   2004.\n" +
+        "SOARES, L. F. G; SOUZA FILHO, G. L.; COLCHER, S. Redes de computadores: das LANS, MANS e WANS às Redes ATM. Editora\n" +
+        "Campus,   1995.   ISBN   857001998X.\n" +
+        "STALLINGS, W. Data and Computer Communications, 8th edition,\n" +
+        "Pearson/Prentice   Hall,   2007.\n" +
+        "TORRES, G. Redes de computadores: curso completo. Axcel Books,\n" +
+        "2001.",
         "tags": "Redes\n" +
         "Conexão\n" +
         "Internet" +
@@ -265,7 +332,25 @@ var tipuesearch = {"pages": [
         "text": "Introdução à Língua Brasileira de Sinais\n" +
             "Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas elementares. \n" +
             "Concepções sobre a Língua de Sinais. \n" +
-            "O surdo e a sociedade.\n",
+            "O surdo e a sociedade.\n" +
+        "FELIPE, T.; MONTEIRO, M. S. LIBRAS em contexto. Curso Básico.\n" +
+        "Brasília: Ministério da Educação e do Desporto/Secretaria de\n" +
+        "Educação   Especial,   2001.\n" +
+        "PEREIRA, M. C. C.; et al. LIBRAS – Conhecimento além dos sinais.\n" +
+        "São   Paulo:   Pearson,   2011.\n" +
+        "PIMENTA, N.; QUADROS, R. M. Curso de LIBRAS 1 – Iniciante. 3.a \n" +
+        "edição.   Porto   Alegre:   Pallotti,   2008.\n" +
+        "Bibliografia   Complementar\n" +
+        "ALMEIDA, E. C.; DUARTE, P. M. Atividades ilustradas em sinais da\n" +
+        "Libras.   São   Paulo:   Revinter,   2004.\n" +
+        "BRITO, L. F. Por uma gramática de língua de sinais. Rio de Janeiro:\n" +
+        "Tempo   Brasileiro,   1995.\n" +
+        "CAPOVILLA, F. C.; RAPHAEL, W. D.; MAURÍCIO, A. C. L. Dicionário\n" +
+        "Enciclopédico Ilustrado Trilíngue da Língua de Sinais Brasileira, v 1 e 2.   São   Paulo:   Editora   da   Universidade   de   São   Paulo,   2010.\n" +
+        " 105\n" +
+        "CAPOVILLA, F. C.; RAPHAEL, W. D. (ed.). Enciclopédia da Língua de Sinais   Brasileira.   v.   1   e   2.   São   Paulo:   EDUSP,   2004.\n" +
+        "GESSER, A. LIBRAS? Que língua é essa?: Crenças e preconceitos em torno da língua de sinais e da realidade surda. São Paulo: Parábola Editorial,   2009.\n" +
+        "QUADROS, R. M.; KARNOPP, L. Língua de sinais brasileira: estudos linguísticos.   ARTMED:   Porto   Alegre,   2004.",
         "tags": "Optativa\n" +
         "Libras\n" +
         "Núcleo Livre" +
@@ -281,7 +366,25 @@ var tipuesearch = {"pages": [
             "Representação intermediária do programa-fonte. \n" +
             "Geração do código-objeto da compilação. \n" +
             "Introdução à otimização do código-objeto. \n" +
-            "Implementação de um compilador.\n",
+            "Implementação de um compilador.\n" +
+        "AHO, A. V; LAM, M. S.; SETHI, R.; ULLMAN, J. D. Compiladores:\n" +
+        "Princípios, técnicas e ferramentas. 2.a  ed. Pearson-Addison-Wesley,\n" +
+        "2008.\n" +
+        "LOUDEN, K. C. Compiladores - Princípios e Práticas. Editora\n" +
+        "Thompson   2004.\n" +
+        "APPEL, A. W. Modern Compiler Implementation in C - Basic\n" +
+        "Techiniques.   Cambridge   University   Press,   1997.\n" +
+        "Bibliografia   complementar\n" +
+        "APPEL, A. W. Modern Compiler Implementation in Java. 2n  d edition.\n" +
+        "New   York:   Cambridge   University   Press,   2002.\n" +
+        "HOLMES, J. Modern Compiler Implementation in Java. Prentice Hall,\n" +
+        "1995.\n" +
+        "MUCHNICK, S. S. Advanced Compiler Design and Implementation.\n" +
+        "Morgan   Kaufmann,   1997.\n" +
+        "HANSON, D. R.; FRASER, C. W. A Retargetable C Compiler: Design\n" +
+        "and   Implementation.   Benjamin   Cummings   Pub.,   1995.\n" +
+        "LEBLANC, R. J.; FISCHER, C. N. Crafting a Compiler with C.\n" +
+        "Benjamin/Cummings,   1991.",
         "tags": "Linguagens de programação\n" +
         "Compilação\n" +
         "Compiladores\n" +
@@ -312,14 +415,41 @@ var tipuesearch = {"pages": [
         "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Computação e Sociedade",
-        "text": "História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.",
+        "text": "História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.FONSECA FILHO, C. História da computação: O Caminho do\n" +
+        "Pensamento e da Tecnologia. Porto Alegre: EDIPUCRS, 2007.\n" +
+        "MASIERO, P. Ética em Computação. Editora da USP, 2000.\n" +
+        "VELOSO, R. Tecnologias da Informação e Comunicação: Desafios e\n" +
+        "Perspectivas. São Paulo: Saraiva, 2011.\n" +
+        "CHALITA, G. Os Dez Mandamentos da Ética. Editora Nova Fronteira,\n" +
+        "2003.\n" +
+        "DRUMMOND, V. Internet, Privacidade e Dados Pessoais. Editora\n" +
+        "Lumen Juris, 2003.\n" +
+        "KACZMARCZYK, L. C. Computers and Society: Computing for Good.\n" +
+        "Chapman & Hall/CRC Textbooks in Computing. CRC Press, 2011.\n" +
+        "LUCCA, N.; FILHO, A. S. Direito & Internet. Editora Edipro, 2001.\n" +
+        "PAESANI, L. M. Direito de Informática. Editora Atlas, 2005.",
         "tags": "Prática Profissional\n" +
         "Sociedade" +
         "Gestão de Engenharia de Software Prática do profissional de engenharia de software Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Introdução à Programação",
-        "text": "Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição. Ponteiro. Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência, recursividade. Manipulação de arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos para uma linguagem de programação. Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento e uso de bibliotecas.",
+        "text": "Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição. Ponteiro. Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência, recursividade. Manipulação de arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos para uma linguagem de programação. Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento e uso de bibliotecas.● FOBERLONE, A. L. V.; EBERSPACHER, H. F. Lógica de Programação:\n" +
+        "A construção de algoritmos e estruturas de dados. 3.a  edição. São Paulo:   Prentice   Hall,   2005.\n" +
+        "91\n" +
+        "ASCENCIO, A. F. G.; CAMPOS, E. A. V. Fundamentos da Programação de   Computadores.   3.a      edição.   Editora   Pearson,   2010.\n" +
+        "SCHILDT, H. C Completo e Total. 3a Ed. São Paulo: Makron Books, 1996.\n" +
+        "Bibliografia complementar\n" +
+        "FEOFILOFF, P. Algoritmos em Linguagem C. Editora\n" +
+        "Campus/Elsevier, 2009.\n" +
+        "FARRER, H. at al. Programação Estruturada de Computadores:\n" +
+        "Algoritmos Estruturados. 3.a edição. Rio de Janeiro: LTC, 1989.\n" +
+        "SEDGEWICK, R. Algorithms in C. 3rd  ed. Reading, Mss:\n" +
+        "Addison-Wesley, 1998. ISBN 0201314525.\n" +
+        "SALVETTI, D. D.; BARBOSA, L. M. Algoritmos, São Paulo: Makron\n" +
+        "Books, 1998.\n" +
+        "CORMEN, T. H et al., Algoritmos: Teoria e Prática. 2.a  edição. Rio de\n" +
+        "Janeiro: Editora Campus, 2002.",
         "tags": "Programação\n" +
         "Desenvolvimento\n" +
         "Computação\n" +
@@ -329,7 +459,22 @@ var tipuesearch = {"pages": [
     },
     {
         "title": "Cálculo 1A",
-        "text": "Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração. Integrais impróprias. Aplicações.",
+        "text": "Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração. Integrais impróprias. Aplicações." +
+        "GUIDORIZZI, H. L. Um Curso de Cálculo, vol. 1. LTC, Rio de Janeiro,\n" +
+        "Brasil, 2006.\n" +
+        "LEITHOLD, L. O Cálculo com Geometria Analítica, 3.a  edição. vol. 1.\n" +
+        "Harbra, São Paulo, 1994.\n" +
+        "STEWART, J. Cálculo, 5.a  edição. vol. 1. Cengage Learning, São Paulo,\n" +
+        "2006.\n" +
+        " 92\n" +
+        "ÁVILA, G. S. S. Cálculo: Funç õ es de Uma Variável, 7.a  edição. vol. 1.\n" +
+        "LTC: Rio de Janeiro, 1994.\n" +
+        "FLEMMING, D. M.; GONÇ ALVES, M. B. Cálculo A: Funções, limite,\n" +
+        "derivação e integração. Makron Books do Brasil, São Paulo, 2006.\n" +
+        "HOFFMANN, L. D.; BRADLEY, G. L. Cálculo: Um curso moderno\n" +
+        "com   aplicaç õ es, 9.a edição. LTC, Rio de Janeiro, 2008.\n" +
+        "REIS,   G.   L;   SILVA,   V.   V.   Geometria   Analítica.   LTC,   São   Paulo.\n" +
+        "SIMMONS, G. F. Cálculo com Geometria Analítica, vol. 1. McGraw-Hill   do   Brasil,   São   Paulo,   Brasil,   1987.",
         "tags": "Matemática\n" +
         "Calculo\n" +
         "Modelos matemáticos" +
@@ -338,7 +483,24 @@ var tipuesearch = {"pages": [
     },
     {
         "title": "Fundamentos de Matemática para Computação",
-        "text": "Noções de lógica. Introdução a demonstrações. Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações numéricas e Mudança de base numérica.",
+        "text": "Noções de lógica. Introdução a demonstrações. Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações numéricas e Mudança de base numérica." +
+        "GERSTING, J. L. Fundamentos Matemáticos para a Ciência da\n" +
+        "Computação,   5.a      edição,   Editora   LTC,   Rio   de   Janeiro,   2004.\n" +
+        "SCHEINERMAN, E. R. Matemática Discreta: Uma introdução,\n" +
+        "Cengage   Learning,   Thompson   Pioneira,   2003\n" +
+        "GRIMALDI, R. P. Discrete and Combinatorial Mathematics: An\n" +
+        "Applied Introduction, 5t  h edition, Pearson - Addison-Wesley, Boston, 2003.\n" +
+        "Bibliografia   Complementar\n" +
+        "GONÇALVES, A. Introdução à Álgebra, 5.a  edição, CNPQ-IMPA, Rio\n" +
+        "de   Janeiro,   2013.\n" +
+        "MATTSON, Jr.; H. F. Discrete Mathematics with applications, John\n" +
+        "Wiley   &   Sons,   New   York,   1993.\n" +
+        "ROSEN, K. H. Discrete Mathematics and Its Applications, 6.a  edição,\n" +
+        "Boston:   McGraw-Hill,   2009.\n" +
+        "ROSS, K. A.; Wright, C. R. B. Discrete mathematics, Prentice Hall,\n" +
+        "1998.\n" +
+        "SANTOS, J. P. O. Introdução à Teoria dos Números, Coleção\n" +
+        "Matemática   Universitária,   CNPQ-IMPA,   Rio   de   Janeiro,   2003.",
         "tags": "Matemática\n" +
         "Calculo\n" +
         "Modelos matemáticos\n" +
