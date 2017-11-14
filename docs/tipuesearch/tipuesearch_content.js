@@ -897,6 +897,114 @@ var tipuesearch = {"pages": [
         "url":""
     },
     {
+        "title": "Estratégia da definição das disciplinas",
+        "text": " As disciplinas do BES foram definidas com substancial cruzamento de fronteiras de subáreas do conhecimento da Engenharia de Software. A estratégia na qual se define uma disciplina por subárea foi preterida. Convém ressaltar que o corpo de conhecimento da área [SWEBOK 2014] foi extensivamente empregado, mas não como exemplo de organização didática.\n"  + 
+		"Em vez da separação de tópicos induzida pela classificação do conhecimento, o conteúdo (ementa) atribuído a cada disciplina do BES inclui tópicos entre os quais há sinergia. Essa orientação é compatível com a prática da Engenharia de Software e não apenas reconhece, mas também respeita os vínculos entre as suas subáreas. Isso resultou em disciplinas coerentes com a prática da Engenharia de Software.\n" +
+		"A Figura abaixo ilustra uma disciplina X qualquer do BES, composta por conteúdo das subáreas A, B e C. Ou seja, o conteúdo de X não está contido estritamente na subárea A, nem tampouco na B ou na C. Em vez disso, reúne e explora a interdependência de conceitos dessas três subáreas.\n"+
+		"As subáreas “requisitos” e “projeto de software”, por exemplo, são contempladas em várias disciplinas do curso e não apenas nas disciplinas nas quais são o foco principal de interesse. A disciplina que enfatiza testes, por exemplo, inclui aspectos de design de software e também de requisitos, assim como aqueles de construção de software. De forma resumida, as disciplinas não são uma projeção cartesiana das 15 subáreas de conhecimento da Engenharia de Software [SWECOM 2014]. Em vez disso, são 18 disciplinas cobrindo reiteradamente várias dessas 15 áreas, sendo que uma delas cobre todas as áreas necessárias para a execução de um projeto real de produção de software (p. ).",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Articulação entre Teoria e Prática Profissional",
+        "text": "O perfil do egresso, definido em outra seção desse documento, exige do egresso o envolvimento com o fazer, com o exercício do conhecimento de Engenharia de Software.\n"+
+		"Essa articulação é explicitamente estabelecida por meio da seção “Condições mínimas” definida para cada disciplina de Engenharia de Software. Tais condições, em geral, definem o que o egresso pode fazer, em outras palavras, é capaz de realizar com o conhecimento. Ou seja, o que convencionalmente se limita ao conteúdo, ou teoria, deverá ser exercitado, ou prática, e com um nível bem definido de proficiência.\n"+
+		"A disciplina “Prática em Engenharia de Software” (p. ) é um ponto explícito do curso no qual a prática é o elemento principal, perfazendo 320 horas. O fazer, contudo, não está restrito a essa disciplina. A capacidade de realização de atividades de desenvolvimento de software é exigência em boa parte das disciplinas.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Interdisciplinaridade",
+        "text": "Produzir software significa, necessariamente, o emprego de pelo menos dois domínios. O domínio da solução, no qual a Engenharia de Software é exercitada e o domínio do problema, que fomenta a existência do software. O domínio do problema é “universal”, pois inclui saúde, educação, segurança, governo, finanças e entretenimento, dentre muitos outros. Fazer software, portanto, por si só, exige o contato com outras áreas do conhecimento.\n"+
+		"O acesso a outras áreas pode vir das disciplinas do Núcleo Livre (NL). O BES exige para a integralização curricular pelo menos 128 horas de disciplinas do NL. Essas disciplinas são escolhidas pelo estudante dentre todas aquelas oferecidas na UFG. Para ilustrar, no primeiro semestre de 2015 houve oferta de vagas para mais de 300 disciplinas de NL. Ou seja, o conjunto de opções de outras áreas do conhecimento é rico, o que contribui com uma formação ampla do estudante. Convém destacar que tais 128 horas perfazem a quantidade mínima exigida, o estudante pode fazer uso de uma carga horária maior. O mesmo é válido para o estágio não obrigatório e para as atividades complementares. O estudante deve cumprir um mínimo de 192 horas em atividades complementares.\n"+"A interdisciplinaridade estimulada pelos elementos citados acima é extra curso. Aquela intracurso é tratada tanto pela definição das disciplinas quanto pela disciplina “Prática em Engenharia de Software” (p. ). Nesses casos a interdisciplinaridade é compulsória, pois faz parte da própria concepção do curso. Adicionalmente, sem restringir a liberdade metodológica do docente, cabe ao NDE orientar a definição de programas de disciplinas que cultivem a interdisciplinaridade.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Disciplina “Prática em Engenharia de Software”",
+        "text": "Essa disciplina de 320 horas tem como objetivo explícito a participação do estudante em um ou mais projetos integradores que usufruem de conhecimento e habilidades adquiridos por todo o curso. Os projetos exigem o contato com problemas reais, o que exige contato tanto com o conhecimento quanto profissionais de outras áreas. Consulte detalhes na página .",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Atividades supervisionadas",
+        "text": "De acordo com a Resolução  CNE/CES 03/2007 de 2 de julho de 2007, cabe às Instituições de Educação Superior, respeitando o mínimo dos duzentos dias letivos de trabalho acadêmico efetivo, a definição da duração da atividade acadêmica ou do  trabalho discente efetivo, o que compreende: (a) preleções e aulas expositivas e (b) atividades práticas supervisionadas, tais como laboratórios, atividades em biblioteca, iniciação científica, trabalhos individuais e em grupo, práticas de ensino e outras atividades no caso das licenciaturas. \n"+
+		"O BES divide cada hora de atividade acadêmica em 45 minutos de preleções e aulas expositivas e 15 minutos de atividades práticas supervisionadas. O planejamento de cada hora deve estar devidamente registrado no plano de cada disciplina. Em particular, o plano deve incluir de forma clara as atividades práticas supervisionadas.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Núcleo Docente Estruturante (NDE)",
+        "text": "Em vez de atribuir atividades ao NDE, o NDE adota os seguintes princípios:\n"+
+		"O NDE possui duas prioridades. A maior prioridade é colocar em prática o Projeto Pedagógico do Curso (PPC). A prioridade seguinte é mantê-lo relevante.\n"+
+		"Qualquer questão que diz respeito às prioridades é do interesse do NDE e pode resultar em ação.\n"+
+		"Toda ação necessariamente deve gerar valor e estar alinhada com as prioridades.\n"+
+		"Uma ação constante e preconcebida é zelar pelos princípios aqui descritos.\n"+
+		"O NDE entende que o diálogo é necessário e que a diversidade é natural, assim como o confronto de ideias.\n"+
+		"Esses princípios definem que todo o conteúdo do presente PPC e a aplicação dele está no raio de atuação do NDE. O que inclui: \n"+
+		"Acompanhar a execução das ações de ensino, pesquisa e extensão pertinentes ao curso;\n"+
+		"Acompanhar a avaliação das ações do curso;\n"+
+		"Emitir opinião sobre ações pertinentes ao curso;\n"+
+		"Monitorar o desempenho dos estudantes;\n"+
+		"Promover ações que possam reduzir reprovações;\n"+
+		"Monitorar resultados dos trabalhos de conclusão de curso;\n"+
+		"Monitorar ações de estágios dos estudantes do curso;\n"+
+		"Acompanhar e se pronunciar acerca de reclamações pertinentes ao curso;\n"+
+		"Avaliar de forma contínua o PPC do curso;\n"+
+		"Acompanhar e promover a qualificação de docentes;\n"+
+		"Acompanhar e promover a qualificação do corpo de técnico-administrativos.\n"+
+		"O NDE, portanto, não se apresenta como órgão ou mecanismo deliberativo, mas consultivo. Reúne docentes que continuamente refletem sobre questões pertinentes ao curso e, em consequência, definem ações que assistem, apoiam e fomentam a qualidade do curso, bem como contribuem com a execução dessas ações.\n"+
+		"A atuação do NDE deve ser realizada em estreita interação com a coordenação do curso. Entretanto, não é nem pode ser vista como meio para auxiliar a realização de fluxos administrativos (atribuição da coordenação do curso). \n"+
+		"Convém observar que as atribuições estabelecidas acima estão em conformidade com a resolução da Comissão Nacional de Avaliação da Educação Superior (CONAES), 01/2010 de 17 de junho de 2010, a qual “normatiza o núcleo docente estruturante”, e esclarecido pelo parecer CONAES 04/2010 de 17 de junho de 2010.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Política e gestão de estágio não obrigatório",
+        "text": "O estágio do BES constitui-se em um mecanismo de complementação de conhecimento e aperfeiçoamento de habilidades, além de oportunidade de prática em Engenharia de Software. O convívio com profissionais, obrigações, hierarquias e processos onde o estágio se desenvolve, resulta em oportunidade valiosa para a formação profissional do egresso. \n"+
+		"O estágio do BES não é de caráter obrigatório, ficando a critério do estudante realizá-lo ou não, desde que o mesmo esteja regularmente matriculado no curso. Ou seja, caracteriza estágio curricular não obrigatório. Adicionalmente, esse estágio deve ser realizado a partir do terceiro período do curso, ou após a conclusão de pelo menos 640 horas da carga horária do curso.\n"+
+		"Convém observar que o estágio está restrito às empresas devidamente conveniadas com a UFG ou que se utilizam de agentes de integração conveniados. Adicionalmente, dois outros papéis são obrigatórios no estágio: (a) supervisor (no local do estágio) e (b) orientador (professor do curso). \n"+
+		"Durante o estágio, que não pode ultrapassar 24 meses em mesmo local, o estudante deverá apresentar o Termo de Compromisso, o Plano de Estágio, além da frequência e dos relatórios semestrais. \n"+
+		"Os documentos citados acima, bem como outros detalhes do estágio, em conformidade com a Lei 11.788/2008, são definidos pelo Regulamento de Estágio de Curso do Bacharelado em Engenharia de Software.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Trabalho de Conclusão de Curso (TCC)",
+        "text": "O Trabalho de Conclusão de Curso (TCC) no BES é um componente curricular obrigatório regulado pelas Normas e Procedimentos de Trabalho de Conclusão de Curso do Bacharelado em Engenharia de Software. \n"+
+		"O TCC é desenvolvido na última etapa da graduação, sob a orientação de um professor e compreende um relatório e uma apresentação. \n"+
+		"O relatório é individual e tem como objetivo a expressão do estudante na forma escrita, a capacidade de analisar, caracterizar, investigar, discutir, implantar, pesquisar, realizar, sintetizar e avaliar, entre outras. Neste sentido, o relatório descreve, de forma crítica, as atividades teórico-práticas e de formação profissional relacionadas ao desenvolvimento do estudante como profissional, em especial, durante a disciplina Prática em Engenharia de Software (p. ). \n"+
+		"A apresentação do relatório, também individual, é realizada como última atividade do curso e tem como objetivo a expressão do estudante, agora na forma oral, das atividades descritas no relatório, em seção pública e para uma banca formada por professores do INF. A banca de professores tem o direito a um período de arguição e é responsável pela avaliação tanto do relatório quanto da apresentação.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Integração ensino, pesquisa e extensão",
+        "text": "A integração do ensino com a pesquisa e a extensão se verifica por meio de atividades complementares, do estágio não obrigatório, de disciplinas do curso e da postura didática dos docentes, conforme comentado abaixo. \n"+
+		"As atividades complementares são identificadas em resolução própria, perfazem pelo menos 192 horas e explicitamente incluem ações de extensão e de pesquisa. Por exemplo, divulgação de trabalhos em eventos científicos, participação em projetos de extensão e participação em projetos de pesquisa, dentre outras. \n"+
+		"O estágio não obrigatório é um instrumento de integração. As atividades a serem realizadas pelo estudante podem incluir ações de pesquisa.\n"+
+		"A disciplina Metodologia e Experimentação em Engenharia de Software oferece a visão exigida para a realização de pesquisas na área. Isso significa não apenas orientar o estudante acerca da elaboração de uma revisão sistemática, mas também da necessidade da expansão do conhecimento da área e dos mecanismos atualmente empregados para tal. \n"+
+		"Um contundente exemplo é a disciplina de 320 horas, Prática em Engenharia de Software. Essa disciplina envolve em sua concepção o ensino, a extensão e a pesquisa ao se concentrar em projetos reais executados no ambiente de uma Fábrica de Software. Qualquer que seja o projeto, esse envolverá extensão e/ou pesquisa, naturalmente, ainda em um cenário de aprendizado (ensino).\n"+
+		"A integração, contudo, não ocorre apenas por meio dos elementos acima, que seriam pontos de integração localizados e em períodos específicos. A integração deve ocorrer, onde oportuno, em cada ação do curso. Por exemplo, uma postura didática recomendável exige a contextualização de cada aula acerca do que será visto, da repercussão ou relação dela com a indústria de software (sociedade) e do estado da arte corrente. De fato, essa postura não é apenas recomendável, mas exigida por meio das “condições mínimas” definidas para cada disciplina. Ou seja, a integração do ensino com a pesquisa e a extensão ocorre por toda a extensão do curso.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Avaliação do processo de ensino e aprendizagem",
+        "text": "O que é realizado em nome do curso para que o estudante adquira o perfil esperado pode ser avaliado considerando informações geradas externamente e outras internamente. A avaliação do curso pelo MEC e os resultados obtidos pelos estudantes do curso no ENADE são exemplos de insumos para a avaliação do processo de ensino. Internamente, a avaliação do docente pelo discente (instrumento formal e institucionalizado na UFG), o desempenho dos estudantes do curso nas disciplinas e os planos de ensino das disciplinas são fontes valiosas de informação. \n"+
+		"O NDE do curso é o principal consumidor dessas informações com o propósito de detectar possíveis melhorias e fomentar a introdução delas. Por exemplo, embora o docente tenha autonomia metodológica ao planejar e executar o plano de ensino de uma disciplina, cabe ao NDE analisar o plano e, quando considerar oportuno, recomendar ajustes. Essas e outras ações devem ser realizadas durante a semana de planejamento pedagógico e administrativo (semana formalmente institucionalizada na UFG), que ocorre no início de cada período letivo. Convém destacar que o plano de ensino de cada disciplina deve ser aprovado formalmente pelo Conselho Diretor da unidade antes do início do período letivo. Adicionalmente, a ação de avaliação não deve estar restrita à semana de planejamento, mas contínua. O objetivo é viabilizar a introdução de uma eventual mudança o mais próximo possível do instante no qual a necessidade foi detectada.\n"+
+		"Outra ação relevante do NDE na semana de planejamento pedagógico é apresentar as lições aprendidas no período anterior. Oferecer visibilidade de processos de ensino exitosos, o que é um instrumento de valorização do docente e, ao mesmo tempo, forma de socializar o que produziu bons resultados, também é uma ação a ser executada nessa semana. Enfim, acerca da avaliação do processo de ensino, o NDE possui papel relevante na identificação de dificuldades e busca de alternativas, em comunhão com os docentes do curso. \n"+
+		"A avaliação do processo de ensino, da aprendizagem e do curso, dentre outros, são assuntos pertinentes ao NDE (p. ). De fato, são interconectados. Em vez de estabelecer ações específicas no presente PPC, são fornecidos princípios adotados pelo NDE do curso (p. ). Ou seja, orientar os estudantes do curso a cada início do período letivo acerca das normas da UFG, de prazos, da meta de integralização curricular de cada um deles, são algumas ações relevantes, tendo em vista tais princípios.\n"+
+		"A avaliação da aprendizagem pode ser materializada de várias formas. São comuns avaliações (provas) escritas e individuais, a avaliação por meio de relatórios ou trabalhos escritos e apresentações orais, dentre outras. A avaliação contínua por meio de exercícios realizados ao longo de toda uma disciplina também é uma forma. De fato, vale ressaltar que um método adequado de avaliação em um cenário não o é em outro. \n"+
+		"A avaliação do processo de ensino e aprendizagem do BES deve atender, no seu planejamento e na forma contínua de sua execução, o estipulado pelo Regulamento Geral dos Cursos de Graduação (RGCG) da UFG [CEPEC 2012], notadamente em seu Capítulo IV, Seção 1 - “Da verificação da Aprendizagem”.\n"+
+		"Cabe ressaltar que o Sistema de Avaliação do BES tem como objetivo primeiro de sua aplicação, por meio de sua Estrutura Curricular (p. ), utilizando instrumentos pedagógicos norteados pelos Princípios Norteadores (p. ), permitir que cada estudante adquira o perfil desejado (p. ). \n"+
+		"A avaliação do estudante deve levar em consideração não apenas o atendimento de requisitos técnicos de produtos e processos das diversas disciplinas da Engenharia de Software, mas também demonstrar postura ética e profissional ao desenvolver ações do curso. \n"+
+		"Convém destacar que as disciplinas específicas de Engenharia de Software são acompanhadas, cada uma delas, de seção de “Condições mínimas” (p. ), que identificam elementos obrigatórios a serem satisfeitos pelo estudante para ser considerado aprovado na disciplina. Embora essa seja uma interpretação correta, a intenção é estabelecer um contrato claro do compromisso do estudante e do docente com a disciplina em questão. A avaliação de cada uma dessas disciplinas, portanto, necessariamente deve observar as condições mínimas estabelecidas. De fato, a condução de toda a disciplina deve ser orientada por tais condições.\n"+
+		"Dada a especificidade da disciplina “Prática em Engenharia de Software” (p. ), o sistema de avaliação também é específico. Nesse caso, as avaliações devem envolver o domínio de processos e a geração de produtos de Engenharia de Software. Em particular, atividades avaliativas podem ser realizadas mesclando teoria e prática em um ambiente real de desenvolvimento de software, no qual a qualidade estabelecida para os entregáveis do projeto em questão é verificada.",
+        "tags":"",
+        "url":""
+    },
+    {
         "title": "",
         "text": "",
         "tags":"",
