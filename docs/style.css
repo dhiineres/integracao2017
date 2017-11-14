@@ -1,0 +1,13 @@
+/* ELEMENT SELECTORS */
+
+
+/* CLASS SELECTORS */
+
+.display-4,
+.display-3 {
+  color: #00184C;
+}
+
+footer ul {
+  list-style-type: none;
+}
