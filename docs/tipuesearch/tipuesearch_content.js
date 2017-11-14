@@ -348,7 +348,15 @@ var tipuesearch = {"pages": [
     },
     {
         "title": "Arquitetura de computadores",
-        "text": "Visão geral dos computadores modernos. Evolução da arquitetura dos computadores. Memória e representação de dados e instruções. Processador, ciclo de instrução, formato e endereçamento. Noções básicas de programação em linguagem de montagem.Dispositivos de entrada e saída.Sistemas de interconexão (barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia de memória. Introdução a arquiteturas paralelas e métricas de desempenho.",
+        "text": "Visão geral dos computadores modernos. Evolução da arquitetura dos computadores. Memória e representação de dados e instruções. Processador, ciclo de instrução, formato e endereçamento. Noções básicas de programação em linguagem de montagem.Dispositivos de entrada e saída.Sistemas de interconexão (barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia de memória. Introdução a arquiteturas paralelas e métricas de desempenho.\n"+
+		"BRYANT, R.; O'RALLARON, D. Computer Systems: A Programmer's Perspective, 2nd Edition, Addison Wesley, 2010.\n"+
+		"STALLINGS, W. Arquitetura e Organização de Computadores, 5a. Edição, Prentice-Hall, 2002.\n"+
+		"TANENBAUM, A. Organização Estruturada de Computadores, Editora LTC, 2006.\n"+
+		"HENNESSY, J. L.; PATTERSON, D. A. Computer Architecture: A Quantitative Approach, 4th Edition, Morgan Kaufmann, 2007. \n"+
+		"MONTEIRO, M. A.  Introdução à Organização de Computadores.  4ª.  Edição. Editora LTC, Rio de Janeiro, 2001. ISBN: 8521612915.\n"+
+		"PATTERSON, D. A.; HENNESSY, J. L. Computer Organization and Design: The Hardware/Software Interface, 3rd edition, Morgan Kaufmann, 2007.\n"+
+		"STALLINGS, W. Computer Organization and Architecture: Designing for Performance. 10th Edition. Prentice-Hall, Inc., Upper Saddle River, NJ, USA.  2010.\n"+
+		"WEBER, R. F. Fundamentos de Arquiteturas de Computadores, 2.a Edição, Editora Sagra-Luzzatto, 2001. ",
         "tags": "Arquitetura\n" +
         "Arquitetura de dados\n" +
         "Desenho arquitetural\n" +
@@ -359,7 +367,15 @@ var tipuesearch = {"pages": [
     },
     {
         "title": "Algoritmos e Estruturas de Dados 1",
-        "text": "Noções de complexidade de algoritmos (notações de complexidade). Algoritmos de pesquisa: pesquisa sequencial e binária. Algoritmos de ordenação. Tipos abstratos de dados. Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares). Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e circulares).",
+        "text": "Noções de complexidade de algoritmos (notações de complexidade). Algoritmos de pesquisa: pesquisa sequencial e binária. Algoritmos de ordenação. Tipos abstratos de dados. Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares). Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e circulares).\n"+
+		"FEOFILOFF, P. Algoritmos em Linguagem C. Editora Campus/Elsevier, 2009.\n"+
+		"SZWARCFITER, J. L.; MARKENZON, L. Estruturas de Dados e seus Algoritmos. 2ª edição, LTC, 1994.\n"+
+		"TENENBAUM, A. M.; LANGSAM, Y.; AUGENSTEIN, M. Estruturas de Dados Usando C, São Paulo, Makron Books, 1995. \n"+
+		"CORMEN, T. H. et al., Algoritmos: Teoria e Prática. 2.ª edição, Rio de Janeiro: Editora Campus, 2002.\n"+
+		"SALVETTI, D. D.; BARBOSA, L. M.; Algoritmos, Makron Books, São Paulo, 1998.\n"+
+		"SEDGEWICK, R. Algorithms in C++ (Parts 1-4), Addison-Wesley, 3rd Edition, 1998.\n"+
+		"ZIVIANI, N. Projeto de Algoritmos com implementação em Pascal e C. São Paulo: Editora Thomson, 3.ª edição, 2010.\n"+
+		"ZIVIANI, N. Projeto de Algoritmos com implementação em Java e C++. São Paulo: Editora Thomson, 2006.",
         "tags": "Linguagens de programação\n" +
         "Construção de Design\n" +
         "Persistência" +
@@ -368,7 +384,15 @@ var tipuesearch = {"pages": [
     },
     {
         "title": "Probabilidade e Estatísticas A",
-        "text": "Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes. Variáveis aleatórias: conceitos básicos, esperança e variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson. Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student. Estimação pontual e intervalar para uma população: média e proporção. Teste de hipóteses para uma população: média e proporção. Correlação linear e regressão linear simples.",
+        "text": "Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes. Variáveis aleatórias: conceitos básicos, esperança e variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson. Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student. Estimação pontual e intervalar para uma população: média e proporção. Teste de hipóteses para uma população: média e proporção. Correlação linear e regressão linear simples.\n"+
+		"MAGALHÃES, M. N. Noções de Probabilidade e Estatística. São Paulo: EDUSP, 7.a ed., 2010.\n"+
+		"MEYER, P. L. Probabilidade: Aplicações à Estatística. Rio de Janeiro: LTC, 1969.\n"+
+		"WALPOLE, R. E.; MYERS, R. H.; MYERS, S. L.; YE, K. Probabilidade e Estatística para Engenharia e Ciências. São Paulo: Pearson, 8.a ed., 2009.\n"+
+		"BUSSAB, W. O.; MORETTIN, P. A. Estatística Básica. 6.a ed. São Paulo: Saraiva, 2010.\n"+
+		"DANTAS, C. A. B. Probabilidade: um Curso Introdutório. 3.a ed. São Paulo: EDUSP, 2008.\n"+
+		"MORETTIN, L. G. Estatística básica: probabilidade e inferência. São Paulo: Prentice Hall, 2010.\n"+
+		"ROSS, S. Probabilidade. Um Curso Moderno com Aplicações. 8.a ed. Porto Alegre: Bookman, 2010.\n"+
+		"TRIOLA, M. F. Introdução à Estatística. 10. ed. Rio de Janeiro: LTC, 2008.",
         "tags": "Estatística\n" +
         "Matemática\n" +
         "Analise de dados\n" +
@@ -378,7 +402,15 @@ var tipuesearch = {"pages": [
         "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Álgebra linear",
-        "text": "Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços com produto interno.",
+        "text": "Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços com produto interno.\n"+
+		"BOLDRINI, J. L.; COSTA, S. I. R; FIGUEIREDO, V. L; WETZLER, H. G. Álgebra Linear, 3.a ed. Harbra, São Paulo, 2003.\n"+
+		"CALLIOLI, C. A.; DOMINGUES, H. H; COSTA, R. C. F. Álgebra Linear e Aplicações. Atual, Brasil, 1983.\n"+
+		"LIPSCHUTZ, S. Álgebra Linear, 2.a ed. Makrom-Books, São Paulo, Brasil, 1974.\n"+
+		"APOSTOL, T. Linear Algebra: A First Course with Applications to Differential Equations, 1st ed. Wiley-Interscience, 1997. \n"+
+		"HOFFMAN, K.; KUNZE, R. Álgebra Linear. Polígono, São Paulo, 1971.\n"+
+		"HOWARD, A.; RORRES, C. Álgebra Linear com Aplicações, 8.a ed. Bookman, Porto Alegre, Brasil, 2001.\n"+
+		"LIMA, E. L. Álgebra Linear: Coleção Matemática Universitária. IMPA, Rio de Janeiro, Brasil, 2006.\n"+
+		"SHOKRANIAN, S. Introdução à Álgebra Linear e Aplicações, 1 ed. UNB, 2004.",
         "tags": "Matemática\n" +
         "Álgebra\n" +
         "Modelagem matemática" +
@@ -387,7 +419,15 @@ var tipuesearch = {"pages": [
     },
     {
         "title": "Lógica Matemática",
-        "text": "Noções básicas: linguagem natural vs linguagens formais; verdade, validade, satisfatibilidade; lógica proposicional (sintaxe e semântica, propriedades e relações semânticas, consequência lógica, simplificação de fórmulas); lógica de primeira ordem (sintaxe e semântica, propriedades e relações semânticas, formas normais). Métodos de validação: métodos diretos de prova; métodos de prova por contradição; indução estrutural. Linguagem para experimentação. Aplicações básicas.",
+        "text": "Noções básicas: linguagem natural vs linguagens formais; verdade, validade, satisfatibilidade; lógica proposicional (sintaxe e semântica, propriedades e relações semânticas, consequência lógica, simplificação de fórmulas); lógica de primeira ordem (sintaxe e semântica, propriedades e relações semânticas, formas normais). Métodos de validação: métodos diretos de prova; métodos de prova por contradição; indução estrutural. Linguagem para experimentação. Aplicações básicas.\n"+
+		"SOUZA, J. N. Lógica para Ciência da Computação. Editora Campus, 3.a Edição, 2015.\n"+
+		"SILVA, F. C.; FINGER, M.; MELO, A. C. V. Lógica para Computação. Thomson Learning, 2006.\n"+
+		"Lógica em Ciência da Computação: modelagem e argumentação sobre sistemas. 2.a edição. Editora LTC, 2008.\n"+
+		"MORTARI, C. Introdução à Lógica. São Paulo: UNESP. 2001.\n"+
+		"MENDELSON, E. Introduction to Mathematical Logic, Academic Press, 2000.\n"+
+		"ENDERTON, H. A. Mathematical Introduction to Logic. Academic Press 2000.\n"+
+		"SMULLYAN, R. Lógica de Primeira Ordem. São Paulo: UNESP. 2009.\n"+
+		"CASANOVA, M. A.; GIORNO, F. A. C.; FURTADO, A. L. Programação em Lógica e a Linguagem PROLOG. Edgard Blucher, 1987.",
         "tags": "Lógica\n" +
         "Lógica computacional\n" +
         "Lógica de proposições\n" +
