@@ -1005,20 +1005,118 @@ var tipuesearch = {"pages": [
         "url":""
     },
     {
-        "title": "",
-        "text": "",
+        "title": "Avaliação do projeto de curso",
+        "text": "O presente PPC deverá ser revisado formalmente de cinco em cinco anos, em ação proativa, ou em intervalo de tempo menor, na ocorrência de evento que   justifique   tal   decisão.\n" +
+        "O NDE é responsável pelas revisões do PPC e, em particular, por contínua vigilância da adequação do PPC ao cenário corrente. Esse esforço se realizada de duas formas. Uma no sentido de fazer com que as orientações do PPC sejam observadas no cotidiano do curso e outra, onde considerado oportuno, na análise de possíveis melhorias para reagir adequadamente às mudanças do ambiente.\n" +
+        "Ao acompanhar o curso, o NDE continuamente coleta, detecta e propõe alterações. As demandas podem se originar dos estudantes, dos docentes e de\n" +
+        "31\n" +
+        "outras fontes como os resultados dos estudantes do curso no Exame Nacional de   Desempenho   de   Estudantes   (ENADE).",
         "tags":"",
         "url":""
     },
     {
-        "title": "",
-        "text": "",
+        "title": "Política de qualificação",
+        "text": "Desde a criação o Instituto de Informática implementa uma política vigorosa de capacitação do seu corpo docente, a qual inclui a meta de que todos os docentes tenham a titulação mínima de doutor. De fato, a liberação de docentes para prosseguirem os seus estudos de pós-graduação é uma prática comum, em consequência, nenhum pedido para afastamento com o propósito de realizar o doutorado foi negado até o momento. Essa política é acrescentada de regras institucionalizadas para a concessão de afastamento para o pós-doutorado e de licença para capacitação.\n" +
+        "A qualificação de docentes do INF também pode ser obtida pela sua participação em congressos, simpósios, dentre outros eventos, quer seja nos papéis de autor de artigo, organizador de evento, membro de comitê de programa ou avaliador de artigo. O Instituto de Informática ainda financia ou co-financia viagens e inscrições de seus docentes em congressos e simpósios   importantes,   principalmente   quando   há   publicação   de   artigo.\n" +
+        "Em harmonia com a política de capacitaçã o docente, o INF é favorável ao aprimoramento e à capacitação de seu corpo Técnico-Administrativo em Educação (TAE). Normalmente, um TAE faz solicitação ao diretor, encarregado de registrar as intenções de afastamento no plano anual de capacitação e conduzir a apreciação das intenções pelo Conselho Diretor do INF, haja vista que é do interesse da unidade fomentar a especialização e capacitação   dos   seus   profissionais.\n" +
+        "É frequente a liberação das atividades de TAE para que possam participar de treinamentos, tanto em cursos esporádicos quanto em programas de pós-graduação. Em tempo, as ações de extensão do INF reservam vagas exclusivas para participação de TAEs, sem necessidade de pagamento (quando   é   o   caso).\n" +
+        "Do ponto de vista legal, o INF se apoia na Resolução CEPEC 1286/2014 de 2014 [CEPEC 2014], que regulamenta o afastamento de docentes para cursar Mestrado, Doutorado e estágios Pós-Doutorais, e na Resolução CONSUNI 02/2014 [CONSUNI 2014], que regulamenta o Programa de Capacitação e o\n" +
+        "32\n" +
+        "Plano Anual de Capacitação dos TAEs. Em consonância com a Resolução CEPEC 1286/2014, o INF instrui o afastamento de docentes com a Resolução CD/INF n. 01 de 2014, que dá suporte ao planejamento administrativo e incentiva a participaç ã o de seus docentes, em cursos de doutorado, pós-doutorado e capacitaç ã o, no país e no exterior, de acordo com a sua política   de   pessoal   para   o   ensino,   a   pesquisa,   a   extensão   e   a   administraç ã o.\n" +
+        "Por fim, cabe ao NDE monitorar o PPC e, consequentemente, promover ações que promovam a qualidade dos serviços oferecidos tanto por docentes quanto   por   TAEs.",
         "tags":"",
         "url":""
     },
     {
-        "title": "",
-        "text": "",
+        "title": "Requisitos legais e normativos",
+        "text": "O curso de Bacharelado em Engenharia de Software contempla requisitos legais específicos, a saber, Libras, Política de Educação Ambiental, e Educação das Relações Étnico-raciais e para o Ensino da História e Cultura Afro-brasileira e Indígena, conforme detalhado nas seções seguintes.\n" +
+        "A atenção a tais requisitos se verifica por meio de disciplinas e de um Programa de Extensão, devidamente institucionalizado na unidade executora do curso. Está além do escopo do presente documento detalhar o Programa de Extensão. Abaixo, apenas aspectos relevantes para o PPC são destacados.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Libras",
+        "text": "O Decreto 5.626/2005 regulamenta a Lei 10.436, de 24 de abril de 2002, e o artigo 18 da Lei 10.098, de 19 de dezembro de 2000. Segundo esse Decreto, a disciplina curricular Libras é obrigatória para vários cursos, dentre eles, as licenciaturas e os cursos de Fonoaudiologia. O Decreto também estabelece que, nos demais cursos, a disciplina curricular Libras seja optativa, conforme o Capítulo II, § 2o: “a Libras constituir-se-á em disciplina curricular optativa nos demais cursos de educação superior”.\n" +
+        "Em atenção a tal requisito legal, o Bacharelado em Engenharia de Software inclui a disciplina Libras como optativa, no oitavo período do curso.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Política de educação ambiental",
+        "text": "A Lei 9.795, de 27 de abril de 1999, institui a Política Nacional de Educação Ambiental, que é regulamentada pelo Decreto 4.281, de 25 de junho de 2002. Conforme essa Lei, Seção II, Art. 10, “a educação ambiental será desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades do ensino formal”. Adicionalmente, lê-se na Seção II, Art. 10, § 1o: “a educação ambiental  não  deve ser implantada como disciplina específica no currículo de ensino”. O destaque (negrito) é do presente documento.   \n" +
+        "O Bacharelado em Engenharia de Software trata a Educação Ambiental por duas linhas contínuas de atuação: uma delas baseada no planejamento das disciplinas e outra em programa institucional do Instituto de Informática, ambas comentadas abaixo.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Planejamento das disciplinas",
+        "text": "O planejamento de cada turma deve se inspirar em possíveis estratégias de inserção de questões ambientais. Por exemplo, adoção de material em formato digital em vez de formato impresso.\n" +
+        "A apresentação do conteúdo de cada disciplina também pode se beneficiar do volume significativo de dados sobre o meio ambiente. Por exemplo, área desmatada ao longo do tempo; áreas de preservação; consumo de energia; emissão de CO 2;  qualidade do ar; consumo de materiais poluentes e geração de lixo eletrônico. Tais dados podem ser empregados para ilustrar o funcionamento de algoritmos e visualização de informações, dentre outras possibilidades.\n" +
+        "Convém destacar que esses exemplos devem ser vistos como elementos de inspiração, a serem renovados continuamente.\n",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Programa institucional",
+        "text": "A UFG executa um Plano de Logística Sustentável (PLS), que estabelece práticas de sustentabilidade e racionalização de gastos e processos na administração pública [PLS]. Esse plano é internalizado no Instituto de Informática por um Programa Institucional de extensão.\n" +
+        "34\n" +
+        "O PLS une o cotidiano da prática acadêmica com atitudes “sustentáveis” por meio de recomendações simples, como a impressão em ambos os lados de uma folha e a redução do uso de copos descartáveis, dentre muitas outras.\n" +
+        "O Programa Institucional reúne ações que contemplam as orientações do PLS. O objetivo é colocar em prática essas orientações. Por exemplo, enquanto o PLS sugere a coleta seletiva, esse programa cria um repositório para coleta de pilhas e baterias já utilizadas, além de assegurar que aquele material coletado será descartado de forma correta.\n" +
+        "O Programa Institucional possui objetivos e ações que incluem a educação ambiental. As opções de ações variam. Dentre elas uma é constante: avaliação dos resultados. Dentre as demais:\n" +
+        "Cursos de extensão cuja inscrição seja lixo eletrônico;\n" +
+        "Elaboração de material de conscientização sobre consumo\n" +
+        "parcimonioso de água e energia;\n" +
+        "Palestras e cursos sobre TI Verde (green computing);\n" +
+        "Pesquisa sobre consumo de energia por datacenters ;\n" +
+        "Divulgação e destaque de informações sobre o meio ambiente;\n" +
+        "Monitoramento e divulgação de informações ambientes sobre Goiás;\n" +
+        "Divulgação de softwares que promovem o meio ambiente, por exemplo, evitam deslocamentos, evitam consumo de energia.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Resolução No 1 de 17 de junho de   2004",
+        "text": "A Resolução No 1, de 17 de junho de 2004, trata das Diretrizes Curriculares Nacionais para a Educação das Relações Étnico-Raciais e para o Ensino de História   e   Cultura   Afro-Brasileira   e   Africana.\n" +
+        "O objetivo é claro: “combater o racismo e as discriminações que atingem particularmente os negros. Nessa perspectiva, propõe a divulgação e produção de conhecimentos, a formação de atitudes, posturas e valores que eduquem cidadãos orgulhosos de seu pertencimento étnico-racial,\n" +
+        "35\n" +
+        "descendentes de africanos, povos indígenas, descendentes de europeus, de asiáticos.   ”\n" +
+        "Tal objetivo pressupõe a “adoção de políticas educacionais e de estratégias pedagógicas de valorização da diversidade”, conforme consta na Resolução, assim como os princípios a serem observados para atendê-la: (a) consciência política e histórica da diversidade; (b) fortalecimento de identidades e de direitos e (c) ações educativas de combate ao racismo e a discriminações.\n" +
+        "O Art. 7.o da Resolução ainda destaca: “as instituições de ensino superior, respeitada a autonomia que lhe é devida, incluirão nos conteúdos de disciplinas e atividades curriculares dos diferentes cursos que ministram, a Educação das Relações Étnico-Raciais, bem como o tratamento de questões e temáticas que dizem respeito aos afrodescendentes.   ”\n" +
+        "Tendo em vista o requisito legal estabelecido pela Resolução, duas linhas de atuação são adotadas pelo Bacharelado em Engenharia de Software: inserção de conteúdo pertinente em duas disciplinas curriculares obrigatórias e o Programa Institucional de extensão do Instituto de Informática. Ambas comentadas abaixo.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Disciplinas de graduação obrigatórias",
+        "text": "As disciplinas “Computador e Sociedade” (p. ) e “Interação Humano-Computador” (p. ) incluem, em seus ementários, tópicos pertinentes às exigências da Resolução. Em particular, remetem para o conhecimento de questões pertinentes ao continente africano e para o conhecimento e respeito à diversidade.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Programa institucional",
+        "text": "O Programa Institucional de extensão do Instituto de Informática será realizado por meio de ações, boa parte com ênfase na socialização de conhecimento sobre questões pertinentes à formação dos brasileiros, o que invariavelmente inclui os negros e indígenas. Esse conhecimento é indispensável para a promoção da diversidade, do respeito às diferenças e da igualdade independente das crenças, do sexo, da idade, da cor, da condição social.\n" +
+        "36\n" +
+        "O Instituto de Informática, por meio desse programa de extensão, dedicado exclusivamente às relações étnico-raciais e ao meio ambiente, oferece atuação contínua sobre esses tópicos, durante toda a permanência dos seus estudantes nessa unidade, sejam de graduação ou pós-graduação.\n" +
+        "Especificamente sobre questões de cunho étnico-racial, sem a intenção de ser uma apresentação exaustiva, nem restritiva, são identificadas algumas ações possíveis:\n" +
+        "Ações afirmativas por meio de cursos de extensão.\n" +
+        "Ações para promoção da diversidade.\n" +
+        "Palestras sobre a construção de uma sociedade justa.\n" +
+        "Palestras sobre a diversidade da formação dos brasileiros.\n" +
+        "Palestras sobre a história afro-brasileira, sobre a história africana.\n" +
+        "Palestras sobre os povos indígenas.\n" +
+        "Apresentações artísticas que valorizem a cultura africana e indígena.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Diretrizes nacionais para Educação em Direitos Humanos",
+        "text": "A disciplina “Computador e Sociedade” (p. ) trata questões relevantes acerca de direitos humanos: aspectos profissionais; participação de mulheres na computação e evolução de aplicações com acessibilidade, dentre outras, nas quais os direitos humanos precisam de discussões mais aprofundadas na computação. Na disciplina “Interação Humano-Computador” (p. ) as características humanísticas, culturais, de direitos humanos e de aspectos políticos serão abordados em mais profundidade.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Proteção dos direitos da pessoa com Transtornos do Espectro Autista",
+        "text": "A proteção dos direitos da pessoa com transtorno do espectro autista é fundamentada na Lei N.o 12.764 de 27 de dezembro de 2012, que institui a política nacional de proteção dos direitos da pessoa com transtorno do espectro autista, e altera o § 3.o do Art. 98 da Lei N.o 8.112, de 11 de dezembro de 1990. Esse requisito legal é atendido por meio da disciplina obrigatória “Interação Humano-Computador”, que inclui em seu ementário tópicos pertinentes ao tratamento de características humanísticas e biológicas na construção de interfaces de usuário, o que possibilita a socializar informações relevantes para que portadores do Transtorno do Espectro Autista possam ser adequadamente considerados por meio de suas necessidades especiais.",
         "tags":"",
         "url":""
     },
