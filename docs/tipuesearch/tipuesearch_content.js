@@ -157,7 +157,15 @@ var tipuesearch = {"pages": [
             "(Faz com orientação). Aplicar princípios de projeto de software.\n" +
             "(Faz com orientação). Empregar aspectos de projeto de software.\n" +
             "(Faz com orientação). Fazer uso de medidas de qualidade de projeto de software.\n" +
-            "(Segue instruções). Criar projeto de software a partir de um problema.\n",
+            "(Segue instruções). Criar projeto de software a partir de um problema.\n"+
+			"BUDGEN, D. Software Design, International Edition, 2nd Edition, Pearson Education, 2011.\n"+
+			"HALL, G. M. Adptive Code via C#: Agile coding with design patterns and SOLID principles. Microsoft Press, 2014.\n"+
+			"RUPING, A. Agile documentationa pattern guide to producing lightweight documents for software projects. Wiley, 2003. ISBN 0470856173.\n"+
+			"MILLETT, S.; TUNE, N. Patterns, Principles, and Practices of Domain-Driven Design, John Wiley & Sons, 2015.\n"+
+			"ARGILA, C.; YOURDON, E. Análise e projeto orientados a objetos: estudos de casos São Paulo: Makron Books, 1999. ISBN 8534609756.\n"+
+			"LARMAN, C. Applyng UML and patternsan introduction to object-oriented analysis and design. Prentice Hall PTR, 1997. ISBN 0137488807.\n"+
+			"EVANS, E. Domain-driven designtackling complexity in the heart of software Boston, MA: Addison-Wesley, 2004. ISBN 0321125215.\n"+
+			"HORSTMANN, C. S. Object-oriented design & patterns. 2nd edition. Hoboken, NJ: Wiley, 2006. ISBN 0471744875.",
         "tags": "Design\n" +
         "Padrões de projeto\n" +
         "Componentes\n" +
@@ -180,7 +188,15 @@ var tipuesearch = {"pages": [
             "(Segue instruções). Detalhar projeto (design) em conformidade com requisitos de software.\n" +
             "(Segue instruções). Colaborar com a construção de código em equipe.\n" +
             "(Segue instruções). Explicar domínios de desenvolvimento (categorias) e as especificidades correspondentes.\n" +
-            "(Segue instruções). Explicar um domínio de software e as estratégias de desenvolvimento correspondentes.\n",
+            "(Segue instruções). Explicar um domínio de software e as estratégias de desenvolvimento correspondentes.\n"+
+			"PILONE, D.; MILES, R.; Head-First Software Development, O’Reilly, 2008.\n"+
+			"MCLAUGHLIN, B. D.; POLLICE, G.; WEST, D. Head First Object-Oriented Analysis & Design, O’Reilly, 2006.\n"+
+			"BOOCH, G. Object-oriented analysis and design with applications. 2nd edition. Addison-Wesley, 1994. ISBN 0805353402.\n"+
+			"WAZLAWICK, R. S. Análise e design orientados a objetos para sistemas de informação: Modelagem com UML, OCL e IFML. 3.a edição. Campus, 2010.\n"+
+			"PENKER, M.; ERIKSSON, H. E. Business modeling with UML: business patterns at work. John Wiley & Sons, 2000. ISBN 0471295515. \n"+
+			"ODELL, J. J. Advanced object-oriented analysis and design using UML. Cambridge University Press, SIGS Books, 1998. ISBN 052164819X\n"+
+			"COCKBURN, A. Agile software development Boston: Addison-Wesley, 2002. (Agile software development series). ISBN 0201699699.\n"+
+			"BEEDLE, M.; SCHWABER, K. Agile software development with Scrum. Prentice Hall, 2002. (Series in agile software development). ISBN 0130676349.",
         "tags": "Construção\n" +
         "Engenharia" +
         "Domínios de Software Construção de Software Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
@@ -200,7 +216,15 @@ var tipuesearch = {"pages": [
             "(Segue instruções). Usar um processo para a revisão e auditoria de software. \n" +
             "(Faz sem orientação). Colaborar em uma equipe na execução de um processo de qualidade.\n" +
             "(Segue instruções). Documentar resultados dos processos de qualidade de software.\n" +
-            "(Segue instruções). Identificar e utilizar ferramentas de apoio ao controle de qualidade de artefatos de software.\n",
+            "(Segue instruções). Identificar e utilizar ferramentas de apoio ao controle de qualidade de artefatos de software.\n"+
+			"Stefan Wagner. Software Product Quality Control. Springer-Verlag Berlin Heidelberg. 2013.\n"+
+			"Software Quality Assurance: From Theory to Implementation, Daniel Galin, Addison-Wesley, 2004\n"+
+			"MURPHY, Mark L C/C++ software quality tools Upper Saddle River: Prentice Hall PTR, 1996. ISBN 0134451236.\n"+
+			"OSCIANSK, A.; SOARES, M. S. Qualidade de Software. Editora Novatec, 2007.\n"+
+			"CERTIFICAÇÃO CERTICS: um instrumento de política pública para inovação tecnológica em software. CTI Renato Archer, 2015. ISBN 9788565163088.\n"+
+			"KELLIHER, T. P.; KEEGAN, J. G.; OLIVER, D. W. Engineering complex systems with models and objects. McGraw-Hill, 1997. ISBN 0070481881.\n"+
+			"KAN, S. H. Metrics and models in software quality engineering. 2nd edition. Addison-Wesley, 2003. ISBN 0201729156.\n"+
+			"BARTIÉ, A. Garantia da qualidade de software. Campus, 2002. ISBN 8535211245.",
         "tags": "Qualidade\n" +
         "Métricas\n" +
         "ISO 9126" +
@@ -270,7 +294,15 @@ var tipuesearch = {"pages": [
         "Invocação Remota. \n" +
         "Objetos Distribuídos. \n" +
         "Arquiteturas Orientadas a Serviços e utilização de serviços Web. \n" +
-        "Computação Móvel e Ubíqua. Estudo de Casos de Tópicos Emergentes em Sistemas Distribuídos.\n",
+        "Computação Móvel e Ubíqua. Estudo de Casos de Tópicos Emergentes em Sistemas Distribuídos.\n"+
+		"ANDREWS, G. R. Foundations of multithreaded, parallel, and distributed programming. Addison-Wesley, 2000.\n"+
+		"COULOURIS, G. F. et al. Distributed Systems: Concepts and Design, 5th edition, Addison-Wesley, 2012.\n"+
+		"KUROSE, J. F.; ROSS, K. Redes de Computadores e a Internet, 6.a edição. Pearson Education, 2013.\n"+
+		"BIRMAN, K. P. Reliable distributed systems: technologies, web services, and applications, New York: Springer, 2005. ISBN 0387215093.\n"+
+		"CLARK, M. et al. Web services business strategies and architectures. Expert Press, 2002. ISBN 1904284132.\n"+
+		"JOSUTTIS, N. M. SOA in practice. O'Reilly, 2007. ISBN 0596529554.\n"+
+		"LYNCH, N. A Distributed algorithms. M. Kaufmann, 1997.\n"+
+		"TANENBAUM, A.S.; STEEN, M. van. Distributed Systems: Principles and Paradigms. Prentice Hall, 2nd Edition, 2006.",
         "tags": "Fundamentos Computacionais\n" +
         "Redes\n" +
         "Conexão\n" +
@@ -441,7 +473,16 @@ var tipuesearch = {"pages": [
         "(Segue instruções). Colaborar com a construção de código em equipe.\n" +
         "(Segue instruções). Avaliar a qualidade interna de código e, quando apropriado, aplicar estratégias recomendadas de refatoração.\n" +
         "(Segue instruções). Explicar conceitos de concorrência e distribuição. \n" +
-        "(Segue instruções). Criar código que faz uso de concorrência, distribuição e ferramentas correlatas.\n",
+        "(Segue instruções). Criar código que faz uso de concorrência, distribuição e ferramentas correlatas.\n"+
+		"BUTCHER, P. Seven Concurrent Models in Seven Weeks. Pragmatic Bookshelf, 2014. ISBN-10: 1937785653\n"+
+		"DAIGNEAU, R. Service Design Pattern. Addison-Wesley, 2011. ISBN 032154420X\n"+
+		"FOSTER, I. Designing and building parallel programsconcepts and tools for parallel software engineering Reading, Mass.: Addison-Wesley, 1995. ISBN 0201575949.\n"+
+		"NEWMAN, S. Building Microservices. O’Reilly, 2015. \n"+
+		"BARNES, L. L. Client/server & beyound strategies for 21st century.\n"+
+		"Prentice-Hall, 1997. ISBN 0135325161.\n"+
+		"SHATZ, S. M. Development of distributed software concepts and tools. Macmillan, 1993. ISBN 0024096113.\n"+
+		"PAGE-JONES, M. Fundamentals of object-oriented design in UML.  Addison-Wesley, 2003. ISBN 020169946X.\n"+
+		"RODRIGUES, L.; GUERRAOUI, R. Introduction to reliable distributed programming. Springer, 2006. ISBN 9783540288459.",
         "tags": "Design de Software\n" +
         "Fundamentos Computacionais\n" +
         "Linguagem de programação\n" +
@@ -468,7 +509,15 @@ var tipuesearch = {"pages": [
         "(Segue instruções). Auxiliar na criação de requisitos de usabilidade.\n" +
         "(Segue instruções). Criar e registrar projeto de interação que atende requisitos de usabilidade.\n" +
         "(Faz com orientação). Usar ferramentas e bibliotecas para o desenvolvimento de código de interfaces.\n" +
-        "(Faz com orientação). Criar código em conformidade com o projeto de interação correspondente.\n",
+        "(Faz com orientação). Criar código em conformidade com o projeto de interação correspondente.\n"+
+		"GOTHELF, J.; SEIDEN, J. Lean UX: Applying Lean Principles to Improve User Experience, O’Reilly, 2013.\n"+
+		"KRUG, S., Don´t make me think: revisited. New Riders, 2014. ISBN 978-0321965516.\n"+
+		"BORBA, F. E. Ajax: guia de programação. São Paulo: Erica, 2006. ISBN 8536501375.\n"+
+		"PREECE, J.; SHARP, H.; ROGERS, Y. Interaction Design: Beyond Human-Computer Interaction, Wiley, 2015. ISBN 978-1119020752.\n"+
+		"CYBIS, W. O. Ergonomia e usabilidade: conhecimentos, métodos e aplicações. 2a. edição. São Paulo: Novatec, 2010. ISBN 9788575222324.\n"+
+		"COUTAZ, J.; BASS, L. Developing software for the user interface. Addison-Wesley, 1991. ISBN 0201510464.\n"+
+		"HARTSON, H. R.; HIX, D. Developing user interfaces: ensuring usability through product & process. Wiley, 1993. ISBN 0471578134.\n"+
+		"OLSEN, D. R. Developing user interfaces. Morgan Kaufmann, 1998. ISBN 1558604189.",
         "tags": "Qualidade de Software\n" +
         "Interface\n" +
         "Usabilidade\n" +
@@ -488,7 +537,15 @@ var tipuesearch = {"pages": [
         "(Faz sem orientação). Explicar o que é software, qualidade de software, requisitos de software, arquitetura de software, projeto detalhado, e a relação entre eles.\n" +
         "(Faz com orientação). Compreender a documentação de arquitetura de software.\n" +
         "(Segue instruções). Documentar arquitetura de software.\n" +
-        "(Segue instruções). Criar arquitetura de software.\n",
+        "(Segue instruções). Criar arquitetura de software.\n"+
+		"BASS, L.; CLEMENTS, P.; KAZMAN, R. Software Architecture in Practice, 3rd edition, Pearson Education, Inc., 2013.\n"+
+		"CLEMENTS, P.; et al. Documenting Software Architectures: Views and Beyond. 2nd edition, Pearson Eduction, 2011. \n"+
+		"MENDES, A. Arquitetura de software: desenvolvimento orientado para arquitetura. Rio de Janeiro: Campus, 2002. ISBN 853521013X.\n"+
+		"CERVANTES, H.; KAZMAN, R. Designing Software Archtectures: A Practical Approach, ISBN-13: 978-0134390789, Addison-Wesley, 2016.\n"+
+		"PUTMAN, J. Architecting with RM-ODP. Prentice Hall, 2001. ISBN 0130191167.\n"+
+		"HEINEMAN, G. T.; COUNCILL, W. T. Component-based software engineering: putting the pieces together. Addison-Wesley, 2001. ISBN 0201704854.\n"+
+		"BOSCH, J. Design and use of software architectures: adopting and evolving a product-line approach. Addison-Wesley, 2000. ISBN 0201674947.\n"+
+		"JOHNSON, R. Expert one-on-one J2EE development without EJB. Wiley Publishing, 2004. ISBN 0764558315.",
         "tags": "Design de Software\n" +
         "Arquitetura\n" +
         "Design\n" +
@@ -511,7 +568,15 @@ var tipuesearch = {"pages": [
         "(Segue instruções). Especificar requisitos de software.\n" +
         "(Faz com orientação). Verificar e validar requisitos de software.\n" +
         "(Segue instruções). Identificar e utilizar ferramentas de requisitos de software. \n" +
-        "(Faz sem orientação). Colaborar em uma equipe na execução de um processo de requisitos.\n",
+        "(Faz sem orientação). Colaborar em uma equipe na execução de um processo de requisitos.\n"+
+		"WIEGERS, K. E. Software Requirements. Microsoft Press, 3rd edition, 2013.\n"+
+		"ROBERTSON, S. Mastering the Requirements Process: Getting Requirements Right. Addison-Wesley Professional, 3rd edition, 2012.\n"+
+		"WINTERS, J. P.; SCHNEIDER, G. Applying use cases: a practical guide, 2nd edition. Addison-Wesley, 2001. (The Addison-Wesley object technology series). ISBN 0201708531.\n"+
+		"COCKBURN, A. Writing Effective Use Cases. Addison-Wesley, 2000.\n"+
+		"MELLOR, S. J; SHLAER, S. Análise de sistemas orientada para objetos. São Paulo: McGraw-Hill, 1990.\n"+
+		"MILLER, G.; ARMOUR, F. Advanced use case modeling: software systems. Boston: Addison-Wesley, 2001. (Addison-Wesley object technology series) ISBN 0201615924.\n"+
+		"YOURDON, E.; COAD, P. Análise baseada em objetos. 2a. edição. Rio de Janeiro: Campus, 1996. ISBN 8535200428.\n"+
+		"WIEGERS, K. E. More about software requirements: thorny issues and practical advice. Microsoft Press, 2006. ISBN 9780735622678.",
         "tags": "Requisitos de Software\n" +
         "Requisito\n" +
         "Diagrama\n" +
@@ -533,7 +598,15 @@ var tipuesearch = {"pages": [
         "(Segue instruções). Planejar a estratégia de software para uma organização, considerando a pouca disponibilidade de informações de longo prazo, a escassez de recursos para implementação dessa estratégia e a necessidade de alinhamento entre a GS e a governança corporativa.\n" +
         "(Faz com orientação). Controlar o uso atual e futuro de software, otimizando o seu valor agregado para o negócio da organização.\n" +
         "(Segue instruções). Planejar e implementar (projetar, desenvolver, implantar, monitorar, medir, controlar e sustentar) uma estratégia organizacional para GSS em conformidade com o plano estratégico da organização.\n" +
-        "(Faz com orientação). Modelar SS e processos de negócio, usando BPMN, em conformidade com os requisitos organizacionais dos processos e serviços.\n",
+        "(Faz com orientação). Modelar SS e processos de negócio, usando BPMN, em conformidade com os requisitos organizacionais dos processos e serviços.\n"+
+		"GREMBERGEN, W. V.; HAES, S. Enterprise Governance of Information Technology: Achieving Strategic Alignment and Value. Springer, 2010. ISBN-13 978-1441946621.\n" +
+        "BROOKS, P. Metrics for Service Management: Designing for ITIL. 1st edition. Van Haren Publishing, 2012.\n" +
+        "SHIAVON, M. Acordos de nível operacional para controle do processo de manutenção de software, Mestrado em Engenharia Elétrica, Universidade Federal de Goiás, 2009. \n" +
+        "GUTH, S. Contract Negotiation Handbook: Software as a Service. Guth Ventures LLC, 2013.\n" +
+        "ERDOGMUS, H.; TANIR, O. Advances in software engineering comprehension, evaluation, and evolution. Springer, 2002. ISBN 0387951091.\n" +
+        "HASS, A. M. J. Configuration management principles and practice. Addison-Wesley, 2003. (The Agile software development series). ISBN 0321117662.\n" +
+        "MARSHALL, C. Enterprise modeling with UML: designing successful software through business analysis. Addison-Wesley, 2000. ISBN 0201433133.\n" +
+        "CENTRO DE GESTÃO E ESTUDOS ESTRATÉGICOS. Ciência, tecnologia e sociedade: novos modelos de governança. Brasilia, CGEE, 2005.",
         "tags": "Gestão de Engenharia de Software\n" +
         "Gerência de Configuração de Software\n" +
         "TI\n" +
@@ -560,7 +633,15 @@ var tipuesearch = {"pages": [
         "(Faz com orientação). Colaborar com a construção de código em equipe.\n" +
         "(Faz com orientação). Explicar a construção de software, segurança e a relação desses com a engenharia de software e de sistema.\n" +
         "(Segue instruções). Auxiliar na criação de modelo de ameaça.\n" +
-        "(Segue instruções). Criar código que faz uso de recursos de segurança (criptografia de dados, assinatura e verificação de assinatura digital).\n",
+        "(Segue instruções). Criar código que faz uso de recursos de segurança (criptografia de dados, assinatura e verificação de assinatura digital).\n"+
+		"MCGRAW, G. Software Security: Build Security In. Addison-Wesley, 2006.\n"+
+		"GREENGARD, S. The Internet of Things. The MIT Press, 2015.\n"+
+		"WILMSHURST, T. An introduction to the design of small-scale embedded systems. Palgrave, 2001. ISBN 0333929942.\n"+
+		"MANICO, J.; DETLEFESEN, A. Iron-Clad Java: Building Secure Web Applications. McGraw-Hill, 2014.\n"+
+		"HOWARD, M. 19 deadly sins of software securityprogramming flaws and how to fix them. McGraw-Hill/Osborne, 2005. ISBN 0072260858.\n"+
+		"MARK, D. Dominando o desenvolvimento no iPhone: explorando o SDK do iPhone. Alta Books, 2009. ISBN 97885760833757.\n"+
+		"VAHID, F. Embedded system design: a unified hardware/software introduction. John Wiley & Sons, 2002. ISBN 0471386782.\n"+
+		"KERN, C.; KESAVAN, A.; DASWANI, N. Foundations of security: what every programmer needs to know. Apress, 2007. ISBN 9781590597842.",
         "tags": "Qualidade de Software\n" +
         "Integração\n" +
         "Automação\n" +
@@ -581,7 +662,15 @@ var tipuesearch = {"pages": [
         "(Faz com orientação). Usar ferramentas para definição e manipulação de bancos de dados.\n" +
         "(Faz com orientação). Criar código que cria, busca, atualiza e remove dados em bancos de dados.\n" +
         "(Segue instruções) Refatorar (refactoring) bases de dados.\n" +
-        "Faltou exigências de construção (anteriores). \n",
+        "Faltou exigências de construção (anteriores). \n"+
+		"REDMOND, E.; WILSON, J. Seven databases in Seven Weeks. Pragmatic Bookshelf, 2012. \n"+
+		"MCMURTRY, D. et al. Data Access for Highly-Scalable Solutions: Using SQL, NoSQL, and Polyglot Persistence. Microsoft Press, 2013.\n"+
+		"AMBLER, S. W. Agile database techniques: effective strategies for the agile software developer. Wiley, 2003. ISBN 0471202835.\n"+
+		"AMBLER, S. J.; SADALAGE, P. J. Refactoring Databases. Addison-Wesley, 2006.\n"+
+		"GOLENDZINER, L. G.; PRICE, R. T. Bancos de dados para aplicações não convencionais. EBAI, 1989. ISBN 950139879.\n"+
+		"FALINO, J.; HERION, D.; MARTINER, W. Building distributed applications with ADO. John Wiley & Sons, 1999. ISBN 0471317012.\n"+
+		"KING, G.; BAUER, C. Java Persistence com Hibernate. Ciencia Moderna, 2007. ISBN 9788573936148.\n"+
+		"MANNINO, M. V. Projeto, desenvolvimento de aplicações e administração de banco de dados. McGraw-Hill, 2008. ISBN 9788577260201.",
         "tags": "Design de Software\n" +
         "Persistência de dados\n" +
         "Dados\n" +
@@ -607,7 +696,15 @@ var tipuesearch = {"pages": [
         "(Faz com orientação). Explicar padrões de arquitetura e ilustrar o uso.\n" +
         "(Faz com orientação). Documentar arquitetura de software.\n" +
         "(Segue instruções). Realizar análise de arquitetura de software.\n" +
-        "(Segue instruções). Criar arquitetura de software que se beneficia de padrões de arquitetura.\n",
+        "(Segue instruções). Criar arquitetura de software que se beneficia de padrões de arquitetura.\n"+
+		"FOWLER, M., Patterns of Enterprise Application Architecture, ISBN-13: 978-0321127426, Addison-Wesley, 2002.\n"+
+		"DAIGNEAU, R., Service Design Patterns, ISBN-13: 978-0321544209, Addison-Wesley, 2011.\n"+
+		"BUSCHMAN, F. Pattern-oriented software architecture. Wiley, 2001. ISBN 0471606952.\n"+
+		"VERNON, V. Implementing Domain-Driven Design. Addison-Wesley, 2013. ISBN 978-0-321-83457-7.\n"+
+		"GAMMA, E. Design patterns elements of reusable object-oriented software. Addison Wesley, 1995. ISBN 0201633612.\n"+
+		"TROTT, J.; SHALLOWAY, A. Design patterns explained: a new perspective on object-oriented design. 2nd ed. Addison-Wesley, 2005. ISBN 0321247140.\n"+
+		"PREE, W. Design patterns for object-oriented software development. Addison-Wesley, 1995. ISBN 0201422948.\n"+
+		"FREEMAN, E. et al. Head First design patterns. O'Reilly, 2004. ISBN 0596007124.",
         "tags": "Design de Software\n" +
         "Modelos e Métodos de Engenharia de Software\n" +
         "Padrão de projeto\n" +
@@ -633,7 +730,15 @@ var tipuesearch = {"pages": [
         "(Faz sem orientação). Citar e explicar métricas de teste de software.\n" +
         "(Segue instruções). Realizar medições pertinentes a teste de software.\n" +
         "(Faz com orientação). Documentar atividades do teste de software.\n" +
-        "(Segue instruções). Identificar e utilizar ferramentas de teste de software.\n",
+        "(Segue instruções). Identificar e utilizar ferramentas de teste de software.\n"+
+		"MYERS, G. J. The Art of Software Testing. Wiley. 2011.\n"+
+		"COPELAND, L. A Practitioner’s Guide to Software Test Design. Artech House, 2003.\n"+
+		"SYKES, D. A.; MCGREGOR, J. D. A practical guide to testing object-oriented software. Addison-Wesley, 2001. ISBN 0201325640.\n"+
+		"MESZAROS, G. xUnit test patternsrefactoring test code. Addison-Wesley, 2007. ISBN 0131495054.\n"+
+		"MOSLEY, D. J. Client-server software testing on the desktop and the Web. Prentice Hall, 2000. ISBN 0131838806.\n"+
+		"GROSS, H. Component-based software testing with UML. Springer, 2005. ISBN 354020864X.\n"+
+		"PERRY, W. E. Effective methods for software testing. 2nd edition. J. Wiley, 1999. ISBN 047135418X.\n"+
+		"WU, M.; LI, K. Effective software test automationdeveloping an automated software testing tool. SYBEX, 2004. ISBN 0782143202.",
         "tags": "Teste de Software\n" +
         "Qualidade de Software\n" +
         "Teste\n" +
@@ -650,7 +755,15 @@ var tipuesearch = {"pages": [
         "Fundamentos da Engenharia de Software Experimental (16h): contexto da experimentação na Engenharia de Software; principais tipos de experimentos aplicados à Engenharia de Software; estudos primários e secundários; revisão e mapeamento sistemático da literatura. \n" +
         "Realização de Experimentos em Engenharia de Software (32h).\n" +
         "(Faz com orientação). Aplicar princípios científicos da Engenharia de Software Experimental na realização de experimentos com software.\n" +
-        "(Segue instruções). Realizar estudo secundário sistemático em Engenharia de Software.\n",
+        "(Segue instruções). Realizar estudo secundário sistemático em Engenharia de Software.\n"+
+		"JURISTO, N. Basics of software engineering experimentation. Kluwer Academic Publishers, 2001. ISBN 079237990X.\n"+
+		"WOHLIN, C. et al. Experimentation in Software Engineering. 2nd edition. Springer, 2012.\n"+
+		"GETTINBY, G; GARDINER, W. P. Experimental design techniques in statistical practice: a practical software-based approach. Horwood Pub., 1998. ISBN 1898563357.\n"+
+		"WAZLAWICK, R. S. Metodologia de Pesquisa para Ciência da Computação. Editora Campus, 2009.\n"+
+		"WOHLIN, C. Experimentation in software engineering: an introduction. Kluwer Academic, 2000. ISBN 0792386825.\n"+
+		"POLYAK, B. T. Introduction to optimization. Optimization Software, 1987. ISBN 0911575146.\n"+
+		"HALL, E. M. Managing risk methods for software systems development. Addison-Wesley, 1998. ISBN 0201255928.\n"+
+		"QUALIDADE no setor de software brasileiro. Brasilia, D.F.: MCT, 1997.",
         "tags":"Gestão de Engenharia de Software\n" +
         "Processo de Engenharia de Software\n" +
         "Experimentação\n" +
@@ -669,7 +782,15 @@ var tipuesearch = {"pages": [
         "Engenharia Econômica. Fornecimento, demanda e produção. Lucro produzido por capital (interest). Análise custo-benefício. Análise breakeven. Retorno de investimento. Avaliação de alternativas. Economia aplicada ao desenvolvimento de software.\n" +
         "(Segue instruções). Explicar a relação entre decisões técnicas e o alinhamento com objetivos de negócio no qual software está inserido.\n" +
         "(Segue instruções). Explicar as principais leis e normas pertinentes à indústria de software no Brasil.\n" +
-        "(Segue instruções). Elaborar plano de negócio para software inovador.\n",
+        "(Segue instruções). Elaborar plano de negócio para software inovador.\n"+
+		"TOCKEY, S. Return on Software: Maximizing the Return on Your Software Investment, Addison-Wesley, 2004.\n"+
+		"GRADY, S. O. The software paradox: the rise and fall of the commercial software market. O’Reilly, 2015.\n"+
+		"SALIM, C. S. Construindo planos de negócios: todos os passos necessários para planejar e desenvolver negócios de sucesso. 3.a edição. Rio de Janeiro: Elsevier, 2005. ISBN 8535217363.\n"+
+		"BROOKS J., F. P. O mítico homem-mês: ensaios sobre engenharia de software. Elsevier, 2009. ISBN 9788535234879.\n"+
+		"ENGHOLM J. H. Engenharia de software na prática. São Paulo: Novatec, 2010. ISBN 9788575222171.\n"+
+		"PIMENTEL, L. O. A proteção jurídica da propriedade intelectual de software: noções básicas e temas relacionados. IEL, 2008. ISBN 9788587683045.\n"+
+		"ORRICO J, H. Pirataria de Software. MM Livros, 2004. ISBN 8590424219.\n"+
+		"LINS, B. F. E. et al. O mercado de software no Brasil: problemas institucionais e fiscais Brasília (DF): Câmara dos Deputados, Coordenação de Publicações, 2007. ISBN 9788573654998.",
         "tags":"Economia em engenharia de software\n" +
         "Economia\n" +
         "Comercio\n" +
@@ -703,7 +824,15 @@ var tipuesearch = {"pages": [
         "Aplicação do corpo de conhecimento da Engenharia de Software no contexto de projetos realizados em uma Fábrica de Software (320h): emprego de processos de Engenharia de Software em abrangência e profundidade; seleção e utilização de normas, métodos, técnicas e ferramentas de Engenharia de Software para atingir objetivos estabelecidos no projeto; integração e consolidação de conhecimentos e habilidades esperadas do profissional de Engenharia de Software; exercício de práticas e atitudes profissionais embasadas no código de ética e na postura profissional da Engenharia de Software; prática em processos técnicos de Engenharia de Software; prática em Gestão de Engenharia de Software; prática em Tecnologias de Engenharia de Software.\n" +
         "(Faz sem orientação). Realizar pacotes de trabalho, desenvolvendo produtos ou serviços dentro de um projeto na Fábrica de Software, aplicando as disciplinas que formam o corpo de conhecimento da Engenharia de Software.\n" +
         "(Faz sem orientação). Planejar, realizar e modificar de forma apropriada produtos e serviços pertinentes a processos organizacionais da Engenharia de Software, dentro do contexto da Fábrica de Software.\n" +
-        "(Faz sem orientação). Atuar individualmente e nas equipes de trabalho segundo o código de ética e a postura profissional da Engenharia de Software.\n",
+        "(Faz sem orientação). Atuar individualmente e nas equipes de trabalho segundo o código de ética e a postura profissional da Engenharia de Software.\n"+
+		"SOMMERVILLE, I. Engenharia de Software. Pearson, 10.a edição, 2015.\n"+
+		"MCCONNELL, S. Code complete: a practical handbook of software construction. 2nd edition. Microsoft Press, 2009.\n"+
+		"PAULA, W. P. Engenharia de software: fundamentos, métodos e padrões 3.a edição. LTC, 2009. ISBN 9788521616504.\n"+
+		"PRESSMAN, R. Engenharia de Software. 8.a edição. McGraw-Hill, 2014.\n"+
+		"SCHACH, S. R. Engenharia de software: os paradigmas clássicos & orientados a objetos. 7.a edição. McGraw-Hill, 2009. ISBN 9788577260454.\n"+
+		"PFLEEGER, S. L. Engenharia de software: teoria e prática. 2.a edição. Prentice Hall, 2004. ISBN 8587918311.\n"+
+		"PEDRYCZ, W.; PETERS, J. F. Engenharia de software: teoria e prática. Campus, 2003. ISBN 8535207465.\n"+
+		"MAGELA, R. Engenharia de software aplicada: princípios. Alta Books, 2006. ISBN 8576081202.",
         "tags": "Construção de Software\n" +
         "Processo de Engenharia de Software\n" +
         "Fundamentos de Engenharia\n" +
@@ -775,7 +904,7 @@ var tipuesearch = {"pages": [
         "A presente versão não é resultado de alterações superficiais aplicadas à versão anterior, mas de ampla reflexão. Insumos empregados na elaboração da versão anterior foram revisitados. As Diretrizes Curriculares Nacionais (DCN), a versão mais recente do corpo de conhecimento da área e o modelo de competência para o engenheiro de software balizaram os esforços realizados. Projetos pedagógicos de cursos semelhantes, inclusive em outros países, também foram investigados. Esse substancial conjunto de informação foi analisado à luz da experiência dos docentes do próprio curso e do contexto   local.\n" +
         "Por fim, o BES obteve nota máxima na avaliação do MEC em 2015, o que estimulou o cuidado com o curso, reforçado pelo Guia dos Estudantes da Editora Abril 2015, no qual, dentre os 28 cursos superiores em Engenharia de Software investigados, dois recebem 5 estrelas, um desses é o curso do presente projeto pedagógico. Em 2016, esse cenário persiste, conforme o Guia   dos   Estudantes   2016.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Objetivo geral",
@@ -783,7 +912,7 @@ var tipuesearch = {"pages": [
         "Formar profissionais aptos a contribuir efetivamente com a produção de\n" +
         "softwares de qualidade seguindo princípios éticos e postura profissional .",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Objetivos específicos",
@@ -798,7 +927,7 @@ var tipuesearch = {"pages": [
         "Criar alternativa econômica para o Estado de Goiás.\n" +
         "Fortalecer a indústria de software goiana.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Perfil do egresso",
@@ -807,7 +936,7 @@ var tipuesearch = {"pages": [
         "A bacharela ou o bacharel em Engenharia de Software é capaz de efetivamente contribuir com equipes na produção de modelos abstratos de software e realizá-los por meio de código de qualidade. Essa contribuição é pautada   por   postura   profissional   e   conduta   ética.\n" +
         "As habilidades do egresso incluem o que é necessário para lidar com requisitos de software, propor uma solução ( software design)  , construí-la, testá-la   e   mantê-la,   usando   processos   adequados.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Habilidades do egresso",
@@ -870,13 +999,13 @@ var tipuesearch = {"pages": [
         "Participar da construção de software que segue um plano de gerência de configuração de software.\n" +
         "Participar da documentação de software.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Princípios norteadores",
         "text": "O BES baseia-se em princípios que fornecem a sustentação necessária para atingir os objetivos do curso (p. ) e o perfil do egresso (p. ). Esses princípios são fornecidos abaixo.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Formação   Ética   e   Função   Social   do   Profissional",
@@ -885,7 +1014,7 @@ var tipuesearch = {"pages": [
         "O comportamento ético e profissional será trabalhado nas atividades do curso, e não apenas na primeira e última disciplinas. A exigência de uma conduta apropriada em sala de aula, tanto dos docentes quanto dos estudantes, contribui com essa formação. Isso significa promover a qualidade de vida, o respeito à diversidade, o respeito ao meio ambiente. Nesse sentido, não apenas as disciplinas, mas toda e qualquer ação, deve ser pautada pela reflexão   do   impacto   no   contexto   no   qual   se   insere.\n" +
         "Ainda convém destacar que a área possui um código de ética próprio, Código de Ética e Prática Profissional da Engenharia de Software [ACM/IEEE]. Esse código é uma das bases de fundamentação do curso e deve ser observado no convívio diário do curso.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Formação Técnica",
@@ -894,7 +1023,7 @@ var tipuesearch = {"pages": [
         "[SWECOM 2014]. Em consequência, o conteúdo abordado no curso não diverge das orientações nacionais nem internacionais. A organização dele, contudo, é uma “contribuição” para a área, dado que se baseia em experiências aprendidas nos anos anteriores, juntamente com uma visão holística do aprendizado em Engenharia de Software, o que contrasta com a frequente apresentação cartesiana dessa área.\n" +
         "As atividades do curso se aproximam do emprego da Engenharia de Software em projetos reais, no qual os conhecimentos e habilidades não são exigidos de forma fragmentada e isolada. O isolamento de conteúdo é adequado para a classificação do conhecimento que, sem o devido cuidado, pode induzir a definição de disciplinas. A estratégia de definição das disciplinas do BES é fornecida   abaixo.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/egresso.html"
     },
     {
         "title": "Estratégia da definição das disciplinas",
@@ -957,7 +1086,7 @@ var tipuesearch = {"pages": [
 		"A atuação do NDE deve ser realizada em estreita interação com a coordenação do curso. Entretanto, não é nem pode ser vista como meio para auxiliar a realização de fluxos administrativos (atribuição da coordenação do curso). \n"+
 		"Convém observar que as atribuições estabelecidas acima estão em conformidade com a resolução da Comissão Nacional de Avaliação da Educação Superior (CONAES), 01/2010 de 17 de junho de 2010, a qual “normatiza o núcleo docente estruturante”, e esclarecido pelo parecer CONAES 04/2010 de 17 de junho de 2010.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde"
     },
     {
         "title": "Política e gestão de estágio não obrigatório",
@@ -967,7 +1096,7 @@ var tipuesearch = {"pages": [
 		"Durante o estágio, que não pode ultrapassar 24 meses em mesmo local, o estudante deverá apresentar o Termo de Compromisso, o Plano de Estágio, além da frequência e dos relatórios semestrais. \n"+
 		"Os documentos citados acima, bem como outros detalhes do estágio, em conformidade com a Lei 11.788/2008, são definidos pelo Regulamento de Estágio de Curso do Bacharelado em Engenharia de Software.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#estagio"
     },
     {
         "title": "Trabalho de Conclusão de Curso (TCC)",
@@ -976,7 +1105,7 @@ var tipuesearch = {"pages": [
 		"O relatório é individual e tem como objetivo a expressão do estudante na forma escrita, a capacidade de analisar, caracterizar, investigar, discutir, implantar, pesquisar, realizar, sintetizar e avaliar, entre outras. Neste sentido, o relatório descreve, de forma crítica, as atividades teórico-práticas e de formação profissional relacionadas ao desenvolvimento do estudante como profissional, em especial, durante a disciplina Prática em Engenharia de Software (p. ). \n"+
 		"A apresentação do relatório, também individual, é realizada como última atividade do curso e tem como objetivo a expressão do estudante, agora na forma oral, das atividades descritas no relatório, em seção pública e para uma banca formada por professores do INF. A banca de professores tem o direito a um período de arguição e é responsável pela avaliação tanto do relatório quanto da apresentação.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#tcc"
     },
     {
         "title": "Integração ensino, pesquisa e extensão",
@@ -987,7 +1116,7 @@ var tipuesearch = {"pages": [
 		"Um contundente exemplo é a disciplina de 320 horas, Prática em Engenharia de Software. Essa disciplina envolve em sua concepção o ensino, a extensão e a pesquisa ao se concentrar em projetos reais executados no ambiente de uma Fábrica de Software. Qualquer que seja o projeto, esse envolverá extensão e/ou pesquisa, naturalmente, ainda em um cenário de aprendizado (ensino).\n"+
 		"A integração, contudo, não ocorre apenas por meio dos elementos acima, que seriam pontos de integração localizados e em períodos específicos. A integração deve ocorrer, onde oportuno, em cada ação do curso. Por exemplo, uma postura didática recomendável exige a contextualização de cada aula acerca do que será visto, da repercussão ou relação dela com a indústria de software (sociedade) e do estado da arte corrente. De fato, essa postura não é apenas recomendável, mas exigida por meio das “condições mínimas” definidas para cada disciplina. Ou seja, a integração do ensino com a pesquisa e a extensão ocorre por toda a extensão do curso.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#integracao"
     },
     {
         "title": "Avaliação do processo de ensino e aprendizagem",
@@ -1002,7 +1131,7 @@ var tipuesearch = {"pages": [
 		"Convém destacar que as disciplinas específicas de Engenharia de Software são acompanhadas, cada uma delas, de seção de “Condições mínimas” (p. ), que identificam elementos obrigatórios a serem satisfeitos pelo estudante para ser considerado aprovado na disciplina. Embora essa seja uma interpretação correta, a intenção é estabelecer um contrato claro do compromisso do estudante e do docente com a disciplina em questão. A avaliação de cada uma dessas disciplinas, portanto, necessariamente deve observar as condições mínimas estabelecidas. De fato, a condução de toda a disciplina deve ser orientada por tais condições.\n"+
 		"Dada a especificidade da disciplina “Prática em Engenharia de Software” (p. ), o sistema de avaliação também é específico. Nesse caso, as avaliações devem envolver o domínio de processos e a geração de produtos de Engenharia de Software. Em particular, atividades avaliativas podem ser realizadas mesclando teoria e prática em um ambiente real de desenvolvimento de software, no qual a qualidade estabelecida para os entregáveis do projeto em questão é verificada.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#avaliacaoPE"
     },
     {
         "title": "Avaliação do projeto de curso",
@@ -1012,7 +1141,7 @@ var tipuesearch = {"pages": [
         "31\n" +
         "outras fontes como os resultados dos estudantes do curso no Exame Nacional de   Desempenho   de   Estudantes   (ENADE).",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#avaliacaoPC"
     },
     {
         "title": "Política de qualificação",
@@ -1025,7 +1154,7 @@ var tipuesearch = {"pages": [
         "Plano Anual de Capacitação dos TAEs. Em consonância com a Resolução CEPEC 1286/2014, o INF instrui o afastamento de docentes com a Resolução CD/INF n. 01 de 2014, que dá suporte ao planejamento administrativo e incentiva a participaç ã o de seus docentes, em cursos de doutorado, pós-doutorado e capacitaç ã o, no país e no exterior, de acordo com a sua política   de   pessoal   para   o   ensino,   a   pesquisa,   a   extensão   e   a   administraç ã o.\n" +
         "Por fim, cabe ao NDE monitorar o PPC e, consequentemente, promover ações que promovam a qualidade dos serviços oferecidos tanto por docentes quanto   por   TAEs.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/nde#avaliacaoPE"
     },
     {
         "title": "Requisitos legais e normativos",
@@ -1124,7 +1253,7 @@ var tipuesearch = {"pages": [
         "title": "",
         "text": "",
         "tags":"",
-        "url":""
+        "url":"r"
     }
 ]};
 
