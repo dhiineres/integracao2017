@@ -12,7 +12,7 @@ var tipuesearch = {"pages": [
         "Padrões de projeto\n" +
         "Análise de problemas" +
         "Análise e Projeto de Algoritmos Design de Software Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Fundamentos de Matemática para Computação Algoritmos e Estrutura de Dados 2",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Interação Humano-Computador",
         "text": "Interação Humano-Computador\n" +
@@ -30,7 +30,7 @@ var tipuesearch = {"pages": [
         "Interação\n" +
         "Usabilidade" +
         "Interação Humano-Computador Qualidade de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Probabilidade e Estatística A Algoritmos e Estrutura de Dados 1",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Banco de Dados",
         "text": "Banco de Dados\n" +
@@ -45,7 +45,7 @@ var tipuesearch = {"pages": [
         "Dados\n" +
         "Armazenagem" +
         "Banco de Dados Design de Software Fundamentos Computacionais Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Lógica Matemática",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Projeto de Software",
         "text": "Projeto de Software\n" +
@@ -60,7 +60,7 @@ var tipuesearch = {"pages": [
         "Padrões de projeto\n" +
         "Análise de problemas" +
         "Projeto de Software Design de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Engenharia de Software Programação Orientada a objetos",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Construção de Software",
         "text": "Construção de Software\n" +
@@ -88,7 +88,7 @@ var tipuesearch = {"pages": [
         "Programação\n" +
         "Ferramentas" +
         "Construção de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Modelagem de Software",
         "text": "Modelagem de Software\n" +
@@ -104,7 +104,7 @@ var tipuesearch = {"pages": [
         "Diagrama\n" +
         "Projeto" +
         "Modelagem de Software Requisitos de Software Design de Software Modelos e Métodos de Engenharia de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Processos de Software",
         "text": "Processos de Software\n" +
@@ -121,7 +121,7 @@ var tipuesearch = {"pages": [
         "Fluxo\n" +
         "Modelagem de processo" +
         "Processos de Software Processo de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Engenharia de Sistemas",
         "text": "Engenharia de Sistemas\n" +
@@ -137,7 +137,7 @@ var tipuesearch = {"pages": [
         "Computação\n" +
         "ISO 12207" +
         "Engenharia de Sistemas Design de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Design de Software",
         "text": "Design de Software\n" +
@@ -172,7 +172,7 @@ var tipuesearch = {"pages": [
         "Controladores\n" +
         "Linguagem de programação" +
         "Design de Software Fundamentos de Engenharia Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Domínios de Software",
         "text": "Domínios de Software\n" +
@@ -200,7 +200,7 @@ var tipuesearch = {"pages": [
         "tags": "Construção\n" +
         "Engenharia" +
         "Domínios de Software Construção de Software Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Processos de Qualidade de Software",
         "text": "Processos de Qualidade de Software\n" +
@@ -229,7 +229,7 @@ var tipuesearch = {"pages": [
         "Métricas\n" +
         "ISO 9126" +
         "Processos de Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Gerência de Projeto de Software",
         "text": "Gerência de Projeto de Software\n" +
@@ -245,7 +245,7 @@ var tipuesearch = {"pages": [
         "tags": "Gerenciamento\n" +
         "PMBOK" +
         "Gerência de Projetos de Software Gestão de Engenharia de Software Gerência de Configuração de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Redes de Computadores",
         "text": "Redes de computadores\n" +
@@ -259,7 +259,7 @@ var tipuesearch = {"pages": [
         "Conexão\n" +
         "Internet" +
         "Redes de Computadores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Sistemas Operacionais",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Introdução à Língua Brasileira de Sinais",
         "text": "Introdução à Língua Brasileira de Sinais\n" +
@@ -270,7 +270,7 @@ var tipuesearch = {"pages": [
         "Libras\n" +
         "Núcleo Livre" +
         "LIBRAS Introdução à língua brasileira de sinais Núcleo NE Período Quarto Unidade Letras Optativa Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Compiladores",
         "text": "Compiladores\n" +
@@ -287,7 +287,7 @@ var tipuesearch = {"pages": [
         "Compiladores\n" +
         "Programação" +
         "Compiladores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Nenhum",
-        "url": ""},
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Sistemas Distribuídos",
         "text": "Introdução a Sistemas Distribuídos. \n" +
@@ -309,16 +309,14 @@ var tipuesearch = {"pages": [
         "Internet\n" +
         "Aplicações" +
         "Núcleo NE Período Oitavo Unidade INF Optativa Pré-requisito Programação Orientada a Objetos",
-        "url": ""
-    },
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Computação e Sociedade",
         "text": "História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.",
         "tags": "Prática Profissional\n" +
         "Sociedade" +
         "Gestão de Engenharia de Software Prática do profissional de engenharia de software Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
-    },
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Introdução à Programação",
         "text": "Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição. Ponteiro. Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência, recursividade. Manipulação de arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos para uma linguagem de programação. Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento e uso de bibliotecas.",
@@ -327,7 +325,7 @@ var tipuesearch = {"pages": [
         "Computação\n" +
         "Linguagens de Programação" +
         "Construção de Software Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Cálculo 1A",
@@ -336,7 +334,7 @@ var tipuesearch = {"pages": [
         "Calculo\n" +
         "Modelos matemáticos" +
         "Fundamentos Matemáticos Núcleo NC Período Primeiro Unidade IME Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Fundamentos de Matemática para Computação",
@@ -346,7 +344,7 @@ var tipuesearch = {"pages": [
         "Modelos matemáticos\n" +
         "Matemática computacional" +
         "Fundamentos Matemáticos Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Arquitetura de computadores",
@@ -357,7 +355,7 @@ var tipuesearch = {"pages": [
         "Arquitetura na computação\n" +
         "Construção de Design" +
         "Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Algoritmos e Estruturas de Dados 1",
@@ -366,7 +364,7 @@ var tipuesearch = {"pages": [
         "Construção de Design\n" +
         "Persistência" +
         "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Introdução à Programação",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Probabilidade e Estatísticas A",
@@ -377,8 +375,7 @@ var tipuesearch = {"pages": [
         "Medições\n" +
         "Estimativa" +
         "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Cálculo 1A",
-        "url": ""
-    },
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"},
     {
         "title": "Álgebra linear",
         "text": "Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços com produto interno.",
@@ -386,7 +383,7 @@ var tipuesearch = {"pages": [
         "Álgebra\n" +
         "Modelagem matemática" +
         "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Lógica Matemática",
@@ -396,7 +393,7 @@ var tipuesearch = {"pages": [
         "Lógica de proposições\n" +
         "Lógica de predicados" +
         "Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Fundamentos de Matemática para Computação",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Programação Orientada a Objetos",
@@ -404,7 +401,7 @@ var tipuesearch = {"pages": [
         "tags": "Linguagem de programação\n" +
         "Paradigmas de programação" +
         "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Algoritmos e Estruturas de Dados 2",
@@ -414,7 +411,7 @@ var tipuesearch = {"pages": [
         "Persistência\n" +
         "Ordenação" +
         "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Algoritmos e Estrutura de Dados 1",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Linguagens e Paradigmas de Programação",
@@ -422,7 +419,7 @@ var tipuesearch = {"pages": [
         "tags": "Linguagem de programação\n" +
         "Paradigmas de programação" +
         "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Engenharia de Software",
@@ -433,19 +430,19 @@ var tipuesearch = {"pages": [
         "Modelagem de requisitos\n" +
         "Diagramas" +
         "Requisitos de Software Construção de Software Processo de Engenharia de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Pesquisa Operacional",
         "text": "Modelagem. Problema de Programação Linear (PL). Resolução gráfica de PL. Algoritmo Simplex. Dualidade. Algoritmo Simplex-Dual. Pós-otimização e Análise de Sensibilidade.",
         "tags": "Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NE Período Terceiro Unidade INF Optativa Pré-requisito Álgebra Linear",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Linguagens Formais e Autômatos",
         "text": "Conceitos básicos de linguagens. Mecanismos geradores (gramáticas) e reconhecedores (determinísticos e não determinísticos) de linguagens regulares, livres de contexto e sensíveis ao contexto; relação entre estas classes de linguagens e suas principais propriedades. Hierarquia de Chomsky.",
         "tags": "Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NE Período Terceiro Unidade INF Optativa Pré-requisito Fundamentos da Matemática para Computação",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Sistemas Operacionais",
@@ -454,7 +451,7 @@ var tipuesearch = {"pages": [
         "Dados\n" +
         "Metadados" +
         "Fundamentos Computacionais Núcleo NE Período Terceiro Unidade INF Optativa Pré-requisito Arquitetura de Computadores",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Software Concorrente e Distribuído",
@@ -490,7 +487,7 @@ var tipuesearch = {"pages": [
         "Processadores\n" +
         "Paralelismo" +
         "Núcleo NC Período Sétimo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Experiência do Usuário de Software",
@@ -523,7 +520,7 @@ var tipuesearch = {"pages": [
         "Usabilidade\n" +
         "Interação" +
         "Núcleo NC Período Sétimo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Arquitetura de Software",
@@ -553,7 +550,7 @@ var tipuesearch = {"pages": [
         "Componente\n" +
         "Modulo" +
         "Núcleo NC Período Sétimo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Requisitos de Software",
@@ -583,7 +580,7 @@ var tipuesearch = {"pages": [
         "Eliciação\n" +
         "Documentação" +
         "Núcleo NC Período Sétimo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Governança e Gestão de Serviços de Software",
@@ -615,7 +612,7 @@ var tipuesearch = {"pages": [
         "ITIL\n" +
         "COBIT" +
         "Núcleo NC Período Sétimo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Software para Sistemas Ubíquos",
@@ -648,7 +645,7 @@ var tipuesearch = {"pages": [
         "Onipresença\n" +
         "Paradigmas de programação" +
         "Computação Núcleo NC Período Oitavo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Software para Persistência de Dados",
@@ -684,7 +681,7 @@ var tipuesearch = {"pages": [
         "Banco de dados\n" +
         "Redundância" +
         "Núcleo NC Período Oitavo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Padrões de Arquitetura de Software",
@@ -713,7 +710,7 @@ var tipuesearch = {"pages": [
         "Design\n" +
         "Detalhamento" +
         "Núcleo NC Período Oitavo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Teste de Software",
@@ -747,7 +744,7 @@ var tipuesearch = {"pages": [
         "Segurança\n" +
         "Depuração" +
         "Núcleo NC Período Oitavo Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title":"Metodologia e Experimentação em Engenharia de Software",
@@ -769,7 +766,7 @@ var tipuesearch = {"pages": [
         "Experimentação\n" +
         "Pesquisa" +
         "Núcleo NC Período Oitavo Unidade INF Optativa Pré-requisito Nenhum",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title":"Mercado e Economia de Software",
@@ -798,7 +795,7 @@ var tipuesearch = {"pages": [
         "Financeiro\n" +
         "Exploração" +
         "Núcleo NC Período Oitavo Unidade INF Optativa Pré-requisito Nenhum",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Prática em Engenharia de Software",
@@ -842,7 +839,7 @@ var tipuesearch = {"pages": [
         "Aplicação\n" +
         "Metodologia" +
         "Núcleo NC Período Nono Unidade INF Obrigatória Pré-requisito Nenhum",
-        "url": ""
+        "url": "https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title":"Apresentação",
