@@ -8,7 +8,10 @@ var tipuesearch = {"pages": [
             "Exemplos de análise de algoritmos. \n" +
             "Técnicas de projeto de algoritmos: dividir para conquistar, programação dinâmica, algoritmos gulosos. \n" +
             "Introdução à NP-Completude.\n  ",
-        "tags": "Análise e Projeto de Algoritmos Design de Software Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Fundamentos de Matemática para Computação Algoritmos e Estrutura de Dados 2",
+        "tags": "Design\n" +
+        "Padrões de projeto\n" +
+        "Análise de problemas" +
+        "Análise e Projeto de Algoritmos Design de Software Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Fundamentos de Matemática para Computação Algoritmos e Estrutura de Dados 2",
         "url": ""},
     {
         "title": "Interação Humano-Computador",
@@ -23,7 +26,10 @@ var tipuesearch = {"pages": [
             "Dispositivos de interação. \n" +
             "Métodos de avaliação de interfaces: avaliação heurística, abordagens para testes realizados com apoio de usuários, técnicas de testes para páginas Web, entre outros. \n" +
             "Visão geral de ferramentas de desenvolvimento de interfaces humano-computador.\n",
-        "tags": "Interação Humano-Computador Qualidade de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Probabilidade e Estatística A Algoritmos e Estrutura de Dados 1",
+        "tags": "Interface\n" +
+        "Interação\n" +
+        "Usabilidade" +
+        "Interação Humano-Computador Qualidade de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Probabilidade e Estatística A Algoritmos e Estrutura de Dados 1",
         "url": ""},
     {
         "title": "Banco de Dados",
@@ -34,7 +40,11 @@ var tipuesearch = {"pages": [
             "Modelo Entidade-Relacionamento e extensões. \n" +
             "Mapeamento ER-relacional. \n" +
             "Normalização.\n",
-        "tags": "Banco de Dados Design de Software Fundamentos Computacionais Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Lógica Matemática",
+        "tags": "Modelagem de dados\n" +
+        "Persistência\n" +
+        "Dados\n" +
+        "Armazenagem" +
+        "Banco de Dados Design de Software Fundamentos Computacionais Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Lógica Matemática",
         "url": ""},
     {
         "title": "Projeto de Software",
@@ -46,7 +56,10 @@ var tipuesearch = {"pages": [
             "Notação de design de software. \n" +
             "Métodos e estratégias de design de software. \n" +
             "Ferramentas de design de software.\n",
-        "tags": "Projeto de Software Design de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Engenharia de Software Programação Orientada a objetos",
+        "tags": "Design" +
+        "Padrões de projeto\n" +
+        "Análise de problemas" +
+        "Projeto de Software Design de Software Núcleo NC Período Quarto Unidade INF Obrigatória Pré-requisito Engenharia de Software Programação Orientada a objetos",
         "url": ""},
     {
         "title": "Construção de Software",
@@ -71,7 +84,10 @@ var tipuesearch = {"pages": [
             "(Segue instruções). Localizar e reutilizar código (bibliotecas e frameworks).\n" +
             "(Segue instruções). Colaborar com a construção de código em equipe.\n" +
             "(Segue instruções). Avaliar a qualidade interna de código e, quando apropriado, aplicar estratégias recomendadas de refatoração.\n",
-        "tags": "Construção de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Métodos de engenharia\n" +
+        "Programação\n" +
+        "Ferramentas" +
+        "Construção de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Modelagem de Software",
@@ -84,7 +100,10 @@ var tipuesearch = {"pages": [
             "(Faz com orientação). Explicar o que é software, qualidade de software, requisitos de software e a relação entre eles.\n" +
             "(Faz sem orientação). Empregar notações para registro de projeto de software orientado a objetos.\n" +
             "(Segue instruções). Criar modelos de projeto de software orientado a objetos.\n",
-        "tags": "Modelagem de Software Requisitos de Software Design de Software Modelos e Métodos de Engenharia de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Modelagem\n" +
+        "Diagrama\n" +
+        "Projeto" +
+        "Modelagem de Software Requisitos de Software Design de Software Modelos e Métodos de Engenharia de Software Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Processos de Software",
@@ -98,7 +117,10 @@ var tipuesearch = {"pages": [
             "(Faz sem orientação). Explicar quais são os processos específicos de software: objetivo de cada processo e principais resultados.\n" +
             "(Segue instruções). Explicar o uso de modelos de qualidade de processo: implementação e avaliação.\n" +
             "(Segue instruções). Obter resultados de processo usando métodos e modelos.\n",
-        "tags": "Processos de Software Processo de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Processo\n" +
+        "Fluxo\n" +
+        "Modelagem de processo" +
+        "Processos de Software Processo de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Engenharia de Sistemas",
@@ -111,7 +133,10 @@ var tipuesearch = {"pages": [
             "(Faz com orientação). Definir o conceito do sistema proposto (propósito desejado, contexto operacional, partes interessadas e conceito de uso do sistema).\n" +
             "(Segue instruções). Selecionar um modelo de ciclo de vida de software adequado ao modelo de ciclo de vida de engenharia de sistemas e integrar os dois modelos.\n" +
             "(Faz com orientação). Desenvolver conceitos operacionais do sistema (ambientes operacionais, características priorizadas, atributos de qualidade, cenários operacionais, suposições, dependências, limitações e exclusões).\n",
-        "tags": "Engenharia de Sistemas Design de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Sistemas\n" +
+        "Computação\n" +
+        "ISO 12207" +
+        "Engenharia de Sistemas Design de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Quinto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Design de Software",
@@ -133,7 +158,12 @@ var tipuesearch = {"pages": [
             "(Faz com orientação). Empregar aspectos de projeto de software.\n" +
             "(Faz com orientação). Fazer uso de medidas de qualidade de projeto de software.\n" +
             "(Segue instruções). Criar projeto de software a partir de um problema.\n",
-        "tags": "Design de Software Fundamentos de Engenharia Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Design\n" +
+        "Padrões de projeto\n" +
+        "Componentes\n" +
+        "Controladores\n" +
+        "Linguagem de programação" +
+        "Design de Software Fundamentos de Engenharia Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Domínios de Software",
@@ -151,7 +181,9 @@ var tipuesearch = {"pages": [
             "(Segue instruções). Colaborar com a construção de código em equipe.\n" +
             "(Segue instruções). Explicar domínios de desenvolvimento (categorias) e as especificidades correspondentes.\n" +
             "(Segue instruções). Explicar um domínio de software e as estratégias de desenvolvimento correspondentes.\n",
-        "tags": "Domínios de Software Construção de Software Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Construção\n" +
+        "Engenharia" +
+        "Domínios de Software Construção de Software Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Processos de Qualidade de Software",
@@ -169,7 +201,10 @@ var tipuesearch = {"pages": [
             "(Faz sem orientação). Colaborar em uma equipe na execução de um processo de qualidade.\n" +
             "(Segue instruções). Documentar resultados dos processos de qualidade de software.\n" +
             "(Segue instruções). Identificar e utilizar ferramentas de apoio ao controle de qualidade de artefatos de software.\n",
-        "tags": "Processos de Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Qualidade\n" +
+        "Métricas\n" +
+        "ISO 9126" +
+        "Processos de Qualidade de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Gerência de Projeto de Software",
@@ -183,7 +218,9 @@ var tipuesearch = {"pages": [
             "(Segue instruções). Usar normas, modelos e ferramentas de gerência de projeto para planejamento e acompanhamento de projeto de software.\n" +
             "(Faz com orientação). Selecionar e implementar o tipo de modelo de processo (dirigido por plano, incremental ou adaptativo) de acordo com as características do contexto do projeto de software.\n" +
             "(Segue instruções). Selecionar e implementar o tipo de ciclo de vida de software (ou paradigma de engenharia de software - cascata, espiral, iterativo, baseado em modelo de maturidade, etc.) de acordo com as características do contexto do projeto de software.\n",
-        "tags": "Gerência de Projetos de Software Gestão de Engenharia de Software Gerência de Configuração de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Gerenciamento\n" +
+        "PMBOK" +
+        "Gerência de Projetos de Software Gestão de Engenharia de Software Gerência de Configuração de Software Núcleo NC Período Sexto Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Redes de Computadores",
@@ -194,7 +231,10 @@ var tipuesearch = {"pages": [
             "Gerenciamento de Redes. \n" +
             "Redes Sem Fio e Mobilidade. \n" +
             "Estudo de Caso de Tópicos Emergentes em Redes.\n",
-        "tags": "Redes de Computadores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Sistemas Operacionais",
+        "tags": "Redes\n" +
+        "Conexão\n" +
+        "Internet" +
+        "Redes de Computadores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Sistemas Operacionais",
         "url": ""},
     {
         "title": "Introdução à Língua Brasileira de Sinais",
@@ -202,7 +242,10 @@ var tipuesearch = {"pages": [
             "Introdução às práticas de compreensão e produção em LIBRAS através do uso de estruturas e funções comunicativas elementares. \n" +
             "Concepções sobre a Língua de Sinais. \n" +
             "O surdo e a sociedade.\n",
-        "tags": "LIBRAS Introdução à língua brasileira de sinais Núcleo NE Período Quarto Unidade Letras Optativa Pré-requisito Nenhum",
+        "tags": "Optativa\n" +
+        "Libras\n" +
+        "Núcleo Livre" +
+        "LIBRAS Introdução à língua brasileira de sinais Núcleo NE Período Quarto Unidade Letras Optativa Pré-requisito Nenhum",
         "url": ""},
     {
         "title": "Compiladores",
@@ -215,84 +258,149 @@ var tipuesearch = {"pages": [
             "Geração do código-objeto da compilação. \n" +
             "Introdução à otimização do código-objeto. \n" +
             "Implementação de um compilador.\n",
-        "tags": "Compiladores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Nenhum",
+        "tags": "Linguagens de programação\n" +
+        "Compilação\n" +
+        "Compiladores\n" +
+        "Programação" +
+        "Compiladores Fundamentos Computacionais Núcleo NE Período Quarto Unidade INF Optativa Pré-requisito Nenhum",
         "url": ""},
+    {
+        "title": "Sistemas Distribuídos",
+        "text": "Introdução a Sistemas Distribuídos. \n" +
+        "Invocação Remota. \n" +
+        "Objetos Distribuídos. \n" +
+        "Arquiteturas Orientadas a Serviços e utilização de serviços Web. \n" +
+        "Computação Móvel e Ubíqua. Estudo de Casos de Tópicos Emergentes em Sistemas Distribuídos.\n",
+        "tags": "Fundamentos Computacionais\n" +
+        "Redes\n" +
+        "Conexão\n" +
+        "Internet\n" +
+        "Aplicações" +
+        "Núcleo NE Período Oitavo Unidade INF Optativa Pré-requisito Programação Orientada a Objetos",
+        "url": ""
+    },
     {
         "title": "Computação e Sociedade",
         "text": "História da computação. Estudo e análise de casos de aplicação de computadores na sociedade e para o meio ambiente. Subáreas da computação e áreas interdisciplinares. Importância e desafios da computação no Brasil e no mundo. Cursos de computação e aspectos profissionais: tipos de cursos, perfis profissionais, demanda do mercado, organizações e associações na área, regulamentação da profissão. Leis e normas relacionadas à Informática. Questões ambientais, raciais, de saúde e de inclusão digital relacionadas à Computação. Ética na Computação. Empresas de tecnologia da informação. Incubadoras de empresas.",
-        "tags": "Gestão de Engenharia de Software Prática do profissional de engenharia de software Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Prática Profissional\n" +
+        "Sociedade" +
+        "Gestão de Engenharia de Software Prática do profissional de engenharia de software Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Introdução à Programação",
         "text": "Introdução a algoritmos. Conceitos básicos de programas: constantes; tipos de dados primitivos; variáveis; atribuição; entrada e saída de dados; expressões; estruturas de decisão; estruturas de repetição. Ponteiro. Estruturas de dados homogêneas e heterogêneas: vetores, matrizes, cadeias de caracteres, registros. Subprogramas: funções; passagens de parâmetros por valor e por referência, recursividade. Manipulação de arquivos: abertura, fechamento, leitura e gravação. Tipos de acesso a arquivos: sequencial e indexado. Tipos de arquivos (texto e binário). Transcrição de algoritmos para uma linguagem de programação. Domínio de uma linguagem de programação: sintaxe e semântica; interpretação e compilação de programas; ambiente de desenvolvimento de programas; estilo de codificação; documentação de código; técnicas de depuração e técnicas de profiling; desenvolvimento e uso de bibliotecas.",
-        "tags": "Construção de Software Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Programação\n" +
+        "Desenvolvimento\n" +
+        "Computação\n" +
+        "Linguagens de Programação" +
+        "Construção de Software Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Cálculo 1A",
         "text": "Números reais. Funções reais de uma variável real e suas inversas. Noções sobre cônicas. Limite e continuidade. Derivadas e aplicações. Polinômio de Taylor. Integrais. Técnicas de Integração. Integrais impróprias. Aplicações.",
-        "tags": "Fundamentos Matemáticos Núcleo NC Período Primeiro Unidade IME Obrigatória Pré-requisito Nenhum",
+        "tags": "Matemática\n" +
+        "Calculo\n" +
+        "Modelos matemáticos" +
+        "Fundamentos Matemáticos Núcleo NC Período Primeiro Unidade IME Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Fundamentos de Matemática para Computação",
         "text": "Noções de lógica. Introdução a demonstrações. Indução matemática, Recursividade e Relações de Recorrência, Conjuntos e Combinatória. Séries e sequências. Relações e Funções. Representações numéricas e Mudança de base numérica.",
-        "tags": "Fundamentos Matemáticos Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Matemática\n" +
+        "Calculo\n" +
+        "Modelos matemáticos\n" +
+        "Matemática computacional" +
+        "Fundamentos Matemáticos Fundamentos Computacionais Núcleo NC Período Primeiro Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Arquitetura de computadores",
         "text": "Visão geral dos computadores modernos. Evolução da arquitetura dos computadores. Memória e representação de dados e instruções. Processador, ciclo de instrução, formato e endereçamento. Noções básicas de programação em linguagem de montagem.Dispositivos de entrada e saída.Sistemas de interconexão (barramentos). Interfaceamento e técnicas de entrada e saída. Hierarquia de memória. Introdução a arquiteturas paralelas e métricas de desempenho.",
-        "tags": "Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "Arquitetura\n" +
+        "Arquitetura de dados\n" +
+        "Desenho arquitetural\n" +
+        "Arquitetura na computação\n" +
+        "Construção de Design" +
+        "Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Algoritmos e Estruturas de Dados 1",
         "text": "Noções de complexidade de algoritmos (notações de complexidade). Algoritmos de pesquisa: pesquisa sequencial e binária. Algoritmos de ordenação. Tipos abstratos de dados. Estruturas de dados utilizando vetores: pilhas, filas, listas (simples e circulares). Estruturas de dados com alocação dinâmica de memória: pilhas, filas, listas (simplesmente encadeadas, duplamente encadeadas e circulares).",
-        "tags": "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Introdução à Programação",
+        "tags": "Linguagens de programação\n" +
+        "Construção de Design\n" +
+        "Persistência" +
+        "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Segundo Unidade INF Obrigatória Pré-requisito Introdução à Programação",
         "url": ""
     },
     {
         "title": "Probabilidade e Estatísticas A",
         "text": "Estatística descritiva. Noções sobre amostragem. Introdução à teoria de conjuntos. Introdução à teoria de probabilidade: espaço amostral, eventos, frequência relativa, fundamentos de probabilidade, probabilidade condicional, eventos independentes e teorema de Bayes. Variáveis aleatórias: conceitos básicos, esperança e variância. Distribuições discretas de probabilidade: uniforme, binomial e Poisson. Distribuições contínuas de probabilidade: uniforme, exponencial, normal e t-Student. Estimação pontual e intervalar para uma população: média e proporção. Teste de hipóteses para uma população: média e proporção. Correlação linear e regressão linear simples.",
-        "tags": "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Cálculo 1A",
+        "tags": "Estatística\n" +
+        "Matemática\n" +
+        "Analise de dados\n" +
+        "Medições\n" +
+        "Estimativa" +
+        "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Cálculo 1A",
         "url": ""
     },
     {
         "title": "Álgebra linear",
         "text": "Sistemas lineares e matrizes. Espaços vetoriais. Transformações lineares. Autovalores e autovetores. Espaços com produto interno.",
-        "tags": "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Nenhum",
+        "tags": "Matemática\n" +
+        "Álgebra\n" +
+        "Modelagem matemática" +
+        "Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
         "title": "Lógica Matemática",
         "text": "Noções básicas: linguagem natural vs linguagens formais; verdade, validade, satisfatibilidade; lógica proposicional (sintaxe e semântica, propriedades e relações semânticas, consequência lógica, simplificação de fórmulas); lógica de primeira ordem (sintaxe e semântica, propriedades e relações semânticas, formas normais). Métodos de validação: métodos diretos de prova; métodos de prova por contradição; indução estrutural. Linguagem para experimentação. Aplicações básicas.",
-        "tags": "Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Fundamentos de Matemática para Computação",
+        "tags": "Lógica\n" +
+        "Lógica computacional\n" +
+        "Lógica de proposições\n" +
+        "Lógica de predicados" +
+        "Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Segundo Unidade IME Obrigatória Pré-requisito Fundamentos de Matemática para Computação",
         "url": ""
     },
     {
         "title": "Programação Orientada a Objetos",
         "text": "Abstração e tipos abstratos de dados. Classes, métodos, encapsulamento, interface. Mensagens, instâncias e inicialização. Herança e composição. Polimorfismo. Uso de uma linguagem orientada a objetos. Noções de UML. Noções de padrões de projeto orientado a objetos. ",
-        "tags": "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
+        "tags": "Linguagem de programação\n" +
+        "Paradigmas de programação" +
+        "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
         "url": ""
     },
     {
         "title": "Algoritmos e Estruturas de Dados 2",
         "text": "Árvores: formas de representação, recursão em árvores, árvores binárias, árvores binárias de busca, árvores balanceadas (AVL e rubro-negras). Filas de prioridades. Heaps, Heapsort.  Hashing: tipos de funções de hashing; tratamento de colisões. Definições de Grafos. Estruturas de Dados para representação de grafos. Algoritmos básicos em grafos.",
-        "tags": "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Algoritmos e Estrutura de Dados 1",
+        "tags": "Linguagens de programação\n" +
+        "Construção de Design\n" +
+        "Persistência\n" +
+        "Ordenação" +
+        "Construção de Software Fundamentos Computacionais Fundamentos Matemáticos Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Algoritmos e Estrutura de Dados 1",
         "url": ""
     },
     {
         "title": "Linguagens e Paradigmas de Programação",
         "text": "Estudo dos conceitos de linguagens de programação e dos paradigmas de programação: procedural, funcional, lógico, orientado a objeto e script. Reflexão sobre as características desejáveis em uma linguagem de programação e os critérios de seleção de linguagens de acordo com as especificidades dos domínios de aplicação. Descrição de sintaxe e semântica. Estudo sobre tipos de dados, estruturas de controle, ambientes de execução, variáveis, expressões e subprogramas em linguagens de programação.",
-        "tags": "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
+        "tags": "Linguagem de programação\n" +
+        "Paradigmas de programação" +
+        "Construção de Software Modelos e Métodos de Engenharia de Software Fundamentos Computacionais Fundamentos Matemáticos Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Introdução à Programação",
         "url": ""
     },
     {
         "title": "Engenharia de Software",
         "text": "Requisitos de software. Projeto (design) de software. Construção de software. Teste de software. Manutenção de software. Gerência de configuração de software. Gerência de projeto de software. Processo de engenharia de software. Modelos e métodos de engenharia de software. Qualidade de software. Prática profissional de engenharia de software. Economia para engenharia de software. Fundamentos de engenharia.",
-        "tags": "Requisitos de Software Construção de Software Processo de Engenharia de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Nenhum",
+        "tags": "SWEBOK\n" +
+        "Requisitos\n" +
+        "Análise de dados\n" +
+        "Modelagem de requisitos\n" +
+        "Diagramas" +
+        "Requisitos de Software Construção de Software Processo de Engenharia de Software Modelos e Métodos de Engenharia de Software Fundamentos de Engenharia Núcleo NC Período Terceiro Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
     },
     {
@@ -310,7 +418,10 @@ var tipuesearch = {"pages": [
     {
         "title": "Sistemas Operacionais",
         "text": "Conceitos de Hardware e Software. Tipos de Sistemas Operacionais. Organização da Estrutura Interna do Sistema Operacional. Gerência de Processos. Gerência do Processador. Gerência de Memória. Gerência de Dispositivos de Entrada e Saída. Sistemas de Arquivos. Estudos de casos de sistemas operacionais atuais.",
-        "tags": "Fundamentos Computacionais Núcleo NE Período Terceiro Unidade INF Optativa Pré-requisito Arquitetura de Computadores",
+        "tags": "Análise de dados\n" +
+        "Dados\n" +
+        "Metadados" +
+        "Fundamentos Computacionais Núcleo NE Período Terceiro Unidade INF Optativa Pré-requisito Arquitetura de Computadores",
         "url": ""
     },
     {
@@ -603,6 +714,211 @@ var tipuesearch = {"pages": [
         "Metodologia" +
         "Núcleo NC Período Nono Unidade INF Obrigatória Pré-requisito Nenhum",
         "url": ""
+    },
+    {
+        "title":"Apresentação",
+        "text":"O curso de Bacharelado em Engenharia de Software (BES) é oferecido pelo Instituto de  Informática (INF) da Universidade Federal de Goiás (UFG). A primeira versão do Projeto Pedagógico do Curso (PPC) foi criada em 2008, a segunda versão, registrada nesse documento, é fruto de uma reflexão de dois anos   do   Núcleo   Docente   Estruturante   (NDE),   que   reinventou   o   BES.\n" +
+        "A busca pela qualidade é a motivação (p. ) dessa segunda versão, que só pode ser adequadamente compreendida com o detalhamento da história da criação do curso e do cenário no qual está inserido (p. ), o que lembra Paulo Freire, segundo o qual “toda leitura de texto pressupõe uma rigorosa leitura do   contexto”.\n" +
+        "Não houve alteração relevante dos objetivos do curso (p. ), nem tampouco do perfil do egresso (p. ), contudo, ambos foram refinados. Os requisitos legais e normativos foram ampliados pelas diretrizes curriculares nacionais (que não existiam quando a primeira versão foi produzida). Em particular, a estratégia para atender a educação das relações étnico-raciais e para o ensino de história   e   cultura   afro-brasileira   e   africana   foi   revista   em   sua   totalidade.\n" +
+        "A estrutura curricular (p. ) sofreu mudanças significativas. Em particular, o fluxo sugerido, nos quatro primeiros períodos, inclui apenas disciplinas de formação básica em computação. A disciplina “Prática em Engenharia de Software” (p. ) é o elemento integrador do curso, com carga horária de 320 horas. Em particular, as disciplinas específicas de Engenharia de Software são acompanhadas de uma seção adicional, “condições mínimas” (p. ), que estabelece competências a serem demonstradas/adquiridas pelo estudante em   cada   uma   delas.\n" +
+        "A busca por um curso de Engenharia de Software melhor é uma atribuição contínua do NDE estabelecida nesse PPC por meio de princípios (p. ). Esse compromisso é oportuno para estabelecer claramente a responsabilidade pela gestão do presente PPC pelo NDE, sem o qual esse texto resume-se a um registro   de   intenções.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Contexto",
+        "text": "O Bacharelado em Engenharia de Software (BES) existe e se mantém em um contexto no qual se destaca a aptidão do Instituto de Informática, a carência de mão de obra apta a desenvolver softwares de qualidade e a importância local   do   curso,   detalhados   nas   seções   seguintes.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Da aptidão do Instituto de Informática",
+        "text": "O Instituto de Informática da UFG possui sólida experiência no ensino superior em Computação, iniciada em 1983, com a primeira turma do curso de Bacharelado em Ciências da Computação (CC). A partir de 2009 foram criados mais dois cursos de graduação: o Bacharelado em Engenharia de Software (BES) e o Bacharelado em Sistemas de Informação (SI). O INF também é responsável por dezenas de disciplinas da área de Computação ministradas para diversos cursos de graduação de várias unidades de ensino da   UFG.\n" +
+        "Na pós-graduação  lato sensu  o INF já ofertou dezenas de edições dos mais variados cursos de especialização na área de Computação. Na pós-graduação stricto sensu o INF oferece, desde 2001, o Mestrado em Ciência da Computação. A partir de 2010 o INF passou a oferecer o Doutorado em Ciência   da   Computação.\n" +
+        "Essa história perfaz mais de três décadas de ensino, com milhares de egressos, alguns deles ocupando cargos de destaque em universidades, empresas   e   organizações   tanto   no   Brasil   quanto   no   exterior.\n" +
+        "O INF construiu, ao longo desse período, um consistente envolvimento com empresas e organizações de Tecnologia da Informação e Comunicação (TIC). O Apoema [APOEMA] é o órgão do INF responsável pela cooperação e interação   com   organizações   externas,   com   foco   em   soluções   inovadoras.\n" +
+        "Um número significativo de projetos de Pesquisa e Desenvolvimento (P&D) já foi realizado pelo INF em parceria com organizações locais, e alguns com empresas multinacionais (como Dell e HP, por exemplo). O INF também já participou de vários projetos de inovação tecnológica financiados pela Fundação   de   Apoio   à   Pesquisa   do   Estado   de   Goiás   (FAPEG).",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Da carência de mão de obra",
+        "text": "Um dos motivos para a existência do BES é a necessidade de formar recursos humanos em Engenharia de Software. A demanda por profissionais especializados na produção de software não existe só no Estado de Goiás, nem   tampouco   apenas   no   Brasil,   mas   em   todo   o   mundo.\n" +
+        "Apesar da demanda, na ocasião da criação do BES, não era conhecido outro curso com a mesma denominação ou propósito no Brasil. A tradição do INF na socialização da Computação, juntamente com a atuação em Engenharia de Software do seu corpo docente, resultou em proposta pioneira no País de um curso especificamente voltado para a formação de Engenheiros de Software, com ênfase na produção de software. Hoje, o Guia dos Estudantes da   Editora   Abril   lista   28   cursos   similares.\n" +
+        "A região da Grande Goiânia reúne centenas de empresas de TIC, mas elas participam de forma tímida no mercado de software nacional. Com a disponibilidade de recursos humanos qualificados, essa participação pode crescer, o que é compatível com a dimensão do Estado de Goiás, a oitava economia nacional. Portanto, promover a indústria de produção de software em Goiás significa fomentar o aumento da participação das empresas do estado   no   mercado   de   software.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Dos indicadores socioeconômicos regionais",
+        "text": "O BES cria a possibilidade de acesso ao ensino superior para aqueles que não podem usufruir do ensino privado. Segundo o IBGE [IBGE], em Goiás, 62.133 estudantes de graduação frequentavam cursos públicos em 2010, enquanto 156.415 estavam matriculados em cursos privados. Ou seja, estudantes em cursos públicos representam menos de 30% do total de estudantes   matriculados   no   ensino   superior.\n" +
+        "O rendimento nominal médio mensal domiciliar  per capita de todos os municípios brasileiros revela que, das cidades goianas, a capital do estado é a melhor posicionada, em vigésimo quarto lugar. O município goiano seguinte nesta classificação é Alto Paraíso de Goiás, na posição 158. O terceiro é Jataí, na posição 188. Até esta terceira aparição de municípios goianos, observa-se\n" +
+        "13\n" +
+        "que o Estado do Rio Grande do Sul contribui com 57 municípios, São Paulo contribui   com   55   municípios   e   Santa   Catarina   com   25   municípios.\n" +
+        "Quando se analisa o produto interno bruto (PIB) dos municípios brasileiros, dentre os cem maiores, Goiás contribui com apenas 2 municípios (Goiânia e Anápolis). Reunidos, estes dois municípios possuem PIB inferior ao do décimo   terceiro   colocado,   São   Bernardo   do   Campo   (SP).\n" +
+        "Os valores expostos acima sugerem que a capacidade de financiamento privado do ensino superior em Goiás é inferior à de outros estados. Apesar dessa limitação, menos de 30% do total de estudantes estão matriculados em cursos   superiores   públicos.\n" +
+        "Aqueles que conseguem acesso ao ensino superior, público ou privado, são minoria em Goiás. Segundo o [IBGE], em 2010 Goiás tinha 1.213.946 pessoas com 10 ou mais anos de idade com curso médio completo, enquanto apenas 218.548 estavam matriculadas em curso superior. Ou seja, menos de 20% continuam seus estudos até o ensino superior. Neste censo, Goiás tinha 394.491 cidadãos com curso superior completo em uma população total de 6.003.788, ou seja, 6,5% da população com curso superior. O Estado de São Paulo, por exemplo, apresenta uma taxa superior a 10%. Taxas ainda bem superiores   são   encontradas   em   outros   países   [OECD,   2012].\n" +
+        "Além de contribuir para melhoria dos indicadores de educação em Goiás, o BES potencializa o crescimento da economia goiana por meio de alternativa à atual dependência do agronegócio. Essa alternativa fomenta a participação de   Goiás   em   um   mercado   valioso,   além   de   promover   a   criação   de   empregos.\n" +
+        "A posição estratégia do BES pode ser esclarecida por meio de iniciativas internacionais. Por exemplo,  TechHire Initiative e  Computer Scicence for All são programas americanos lançados nos dois últimos anos, orçados em cerca de\n" +
+        "2 bilhões de dólares, com o propósito de promover a capacitação em produção   de   software   nos   Estados   Unidos.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Exposição de motivos",
+        "text": "A dependência da sociedade em relação a softwares continua se expandindo, inclusive em tarefas que antes eram exclusivas dos seres humanos, por exemplo, estacionar um veículo. Isso tem ampliado a demanda por softwares e consequentemente por profissionais que visam atender essa demanda. O conhecimento necessário para produzir software é denominado de Engenharia   de   Software.\n" +
+        "Tradicionalmente esse conhecimento e as habilidades necessárias são adquiridas por egressos de outros cursos de graduação ou até por meio de cursos rápidos. Nesses casos, a apropriação de habilidades ocorre de forma parcial, pois não há espaço em tais cursos para cobrir adequadamente essa extensa   área.\n" +
+        "A vocação de docentes do INF e o Programa de Reestruturação e Expansão das Universidades Federais (REUNI) resultaram na criação do primeiro curso de graduação (bacharelado) em Engenharia de Software do Brasil, o presente curso, pelo INF/UFG em 27/06/2008, conforme a resolução CONSUNI 10/2008, com o foco na formação de egressos aptos a usar de forma efetiva o conhecimento da Engenharia de Software. Essa primeira versão foi amplamente   divulgada   [BES1]   [BES2].\n" +
+        "Dezenas de docentes acumularam lições aprendidas desde o início da primeira turma do curso em março de 2009. A partir de outubro de 2014, o Núcleo Docente Estruturante (NDE) do curso iniciou esforço para refletir essas lições em uma nova versão do PPC. Ao longo de quase meia centena de encontros, o NDE fez uma exaustiva revisão do curso. As lições aprendidas e outras demandas, por exemplo, as diretrizes curriculares e o alinhamento com uma formação básica de qualidade em computação, definida pelo próprio   INF,   foram   acomodadas   na   presente   versão.\n" +
+        "Convém esclarecer que na época da criação do BES, sem similar no país, não existiam diretrizes curriculares específicas. Essas diretrizes vieram apenas em 2012   [CNE   2012].\n" +
+        "15\n" +
+        "A presente versão não é resultado de alterações superficiais aplicadas à versão anterior, mas de ampla reflexão. Insumos empregados na elaboração da versão anterior foram revisitados. As Diretrizes Curriculares Nacionais (DCN), a versão mais recente do corpo de conhecimento da área e o modelo de competência para o engenheiro de software balizaram os esforços realizados. Projetos pedagógicos de cursos semelhantes, inclusive em outros países, também foram investigados. Esse substancial conjunto de informação foi analisado à luz da experiência dos docentes do próprio curso e do contexto   local.\n" +
+        "Por fim, o BES obteve nota máxima na avaliação do MEC em 2015, o que estimulou o cuidado com o curso, reforçado pelo Guia dos Estudantes da Editora Abril 2015, no qual, dentre os 28 cursos superiores em Engenharia de Software investigados, dois recebem 5 estrelas, um desses é o curso do presente projeto pedagógico. Em 2016, esse cenário persiste, conforme o Guia   dos   Estudantes   2016.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Objetivo geral",
+        "text": "O BES tem como \objetivo\n" +
+        "Formar profissionais aptos a contribuir efetivamente com a produção de\n" +
+        "softwares de qualidade seguindo princípios éticos e postura profissional .",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Objetivos específicos",
+        "text": "Reconhecer e valorizar o respeito à diversidade. Conforme se lê na Constituição Federal em seu Art. 3.o, inciso IV: “promover o bem de todos, sem preconceitos de origem, raça, sexo, cor, idade e quaisquer outras   formas   de   discriminação”.\n" +
+        "Promover relações étnico-raciais respeitosas, assim como a socialização da história da formação dos brasileiros.\n" +
+        "Ampliar a compreensão acerca de questões ambientais e, ao mesmo tempo, valorizar projetos sustentáveis.\n" +
+        "16\n" +
+        "Contribuir com a demanda da sociedade por softwares de qualidade.\n" +
+        "Conceber e desenvolver produtos inovadores.\n" +
+        "Promover a engenharia de software na indústria de software regional.\n" +
+        "Viabilizar atividade econômica de alto valor(produção de software).\n" +
+        "Criar alternativa econômica para o Estado de Goiás.\n" +
+        "Fortalecer a indústria de software goiana.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Perfil do egresso",
+        "text": "O egresso do BES é um profissional com capacitação sólida em engenharia de software.  Essa capacitação advém de formação básica consistente em computação   e   de   abrangente   e   aprofundada   em   engenharia   de   software.\n" +
+        "O mercado de atuação do egresso é abrangente, e decorre da dependência da sociedade por software. Adicionalmente, tal dependência tem se expandido com   novos produtos, serviços   e   processos.\n" +
+        "A bacharela ou o bacharel em Engenharia de Software é capaz de efetivamente contribuir com equipes na produção de modelos abstratos de software e realizá-los por meio de código de qualidade. Essa contribuição é pautada   por   postura   profissional   e   conduta   ética.\n" +
+        "As habilidades do egresso incluem o que é necessário para lidar com requisitos de software, propor uma solução ( software design)  , construí-la, testá-la   e   mantê-la,   usando   processos   adequados.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Habilidades do egresso",
+        "text": "Da perspectiva de relações pessoais, o egresso deve ser capaz de:\n" +
+        "Participar de forma harmoniosa, profissional e ética durante a\n" +
+        "elaboração de produtos de software atribuídos a equipes.\n" +
+        "Liderar ação contínua de formação de sua própria  reputação na área.\n" +
+        "17\n" +
+        "Participar da comunicação de ideias com clareza, seja na forma verbal ou   escrita.\n" +
+        "Da perspectiva técnica, o egresso deve ser capaz de:\n" +
+        "Participar de atividades para eliciar, analisar, especificar, validar e\n" +
+        "gerenciar requisitos de software.\n" +
+        "Participar da definição da solução de software que atende requisitos, ou seja, da definição da arquitetura e do projeto detalhado desse software.\n" +
+        "Participar da elaboração de modelos de análise e de projeto ( design)  de software.\n" +
+        "Participar da aplicação de técnicas de projeto ao desenvolver softwares concorrentes, distribuídos, orientados a objetos, orientados a eventos e que implementam a persistência de dados.\n" +
+        "Participar da avaliação de  design  de software considerando, dentre outros quesitos: abstração, coesão, acoplamento e encapsulamento.\n" +
+        "Participar da aplicação de técnicas de tratamento de exceção e tolerância   a   falhas.\n" +
+        "Auxiliar a escolha de processo e de metodologia de design de software.\n" +
+        "Auxiliar a revisão de design de software\n" +
+        "Participar do emprego de estilos, visões, modelos e padrões de arquitetura de software.\n" +
+        "Participar do projeto de componentes e módulos de software usando modelos, padrões de projeto e notações.\n" +
+        "Auxiliar a execução de análise estática.\n" +
+        "Auxiliar a escolha de processos e modelos apropriados para a construção   de   software.\n" +
+        "18\n" +
+        "\n" +
+        "Auxiliar a escolha de linguagens e ferramentas apropriadas para a construção de software.\n" +
+        "Auxiliar a escolha de  frameworks , plataformas e ambientes de construção de construção de software.\n" +
+        "Participar da construção de software seguindo padrões de gerência de configuração e controle de versão.\n" +
+        "Participar da coleta e do monitoramento de medidas de qualidade de código.\n" +
+        "Participar da criação de  design  detalhado que minimiza a complexidade e melhora a qualidade.\n" +
+        "Participar da criação de código que implementa projetos detalhados.\n" +
+        "Indicar o uso de padrões de projeto.\n" +
+        "Participar da refatoração (refactoring) de código.\n" +
+        "Participar da construção de software que segue padrões de código.\n" +
+        "Participar da construção de software que faz uso de técnicas de codificação defensiva.\n" +
+        "Participar da geração de código a partir de modelos de projeto.\n" +
+        "Participar do uso apropriado de ferramentas e técnicas de depuração.\n" +
+        "Participar da criação de testes de unidade.\n" +
+        "Participar da construção de software que satisfaz objetivos de cobertura de testes.\n" +
+        "Participar da construção de software que segue estratégias e processos de integração e implantação.\n" +
+        "Participar da construção e realização de testes de integração.\n" +
+        "19\n" +
+        "\n" +
+        "Participar da construção de software em equipe ao colaborar com outros membros da equipe.\n" +
+        "Participar de revisões e inspeções.\n" +
+        "Participar da elaboração e implementação de planos de testes.\n" +
+        "Participar da definição de um ambiente de teste e da correspondente implementação.\n" +
+        "Participar da identificação, design e implementação de testes.\n" +
+        "Participar da elaboração de relatórios de testes.\n" +
+        "Auxiliar a elaboração e execução de plano de transição de software.\n" +
+        "Auxiliar a elaboração e execução de planos de manutenção de software.\n" +
+        "Auxiliar a execução de atividades de processos de software.\n" +
+        "Auxiliar a definição e personalização de processos de software.\n" +
+        "Auxiliar a implementação e execução de processos de software.\n" +
+        "Auxiliar a coleta de dados para avaliação de processos de software.\n" +
+        "Auxiliar a definição e o desenvolvimento de software que satisfaz objetivos e atributos de qualidade.\n" +
+        "Auxiliar a identificação de medidas de qualidade apropriadas.\n" +
+        "Auxiliar a elaboração de planos e revisões de qualidade.\n" +
+        "Participar da construção de software que segue princípios recomendados para segurança de código.\n" +
+        "Participar da construção de software que segue um plano de gerência de configuração de software.\n" +
+        "Participar da documentação de software.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Princípios norteadores",
+        "text": "O BES baseia-se em princípios que fornecem a sustentação necessária para atingir os objetivos do curso (p. ) e o perfil do egresso (p. ). Esses princípios são fornecidos abaixo.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Formação   Ética   e   Função   Social   do   Profissional",
+        "text": "A vivência de princípios éticos e o conhecimento sobre a responsabilidade social do Engenheiro de Software são elementos imprescindíveis para a formação da postura profissional do egresso do BES.\n" +
+        "Ética é assunto de uma das disciplinas do primeiro semestre do curso, “Computação e Sociedade” (p. ), e volta a ser explicitamente tratada, junto com aspectos profissionais, na última disciplina do curso “Prática em Engenharia de Software” (p. ). Nesse caso, a postura ética e profissional é condição   a   ser   observada   para   aprovação   nessa   disciplina.\n" +
+        "O comportamento ético e profissional será trabalhado nas atividades do curso, e não apenas na primeira e última disciplinas. A exigência de uma conduta apropriada em sala de aula, tanto dos docentes quanto dos estudantes, contribui com essa formação. Isso significa promover a qualidade de vida, o respeito à diversidade, o respeito ao meio ambiente. Nesse sentido, não apenas as disciplinas, mas toda e qualquer ação, deve ser pautada pela reflexão   do   impacto   no   contexto   no   qual   se   insere.\n" +
+        "Ainda convém destacar que a área possui um código de ética próprio, Código de Ética e Prática Profissional da Engenharia de Software [ACM/IEEE]. Esse código é uma das bases de fundamentação do curso e deve ser observado no convívio diário do curso.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "Formação Técnica",
+        "text": "A formação técnica proposta para o BES está fundamentada em bases sólidas: as diretrizes curriculares nacionais [MEC 2012], o guia do corpo de conhecimento em Engenharia de Software [SWEBOK 2014], o corpo de conhecimento recomendado para ser trabalhado em um curso de graduação [SE 2014], e o modelo de competência em Engenharia de Software\n" +
+        "21\n" +
+        "[SWECOM 2014]. Em consequência, o conteúdo abordado no curso não diverge das orientações nacionais nem internacionais. A organização dele, contudo, é uma “contribuição” para a área, dado que se baseia em experiências aprendidas nos anos anteriores, juntamente com uma visão holística do aprendizado em Engenharia de Software, o que contrasta com a frequente apresentação cartesiana dessa área.\n" +
+        "As atividades do curso se aproximam do emprego da Engenharia de Software em projetos reais, no qual os conhecimentos e habilidades não são exigidos de forma fragmentada e isolada. O isolamento de conteúdo é adequado para a classificação do conhecimento que, sem o devido cuidado, pode induzir a definição de disciplinas. A estratégia de definição das disciplinas do BES é fornecida   abaixo.",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "",
+        "text": "",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "",
+        "text": "",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "",
+        "text": "",
+        "tags":"",
+        "url":""
+    },
+    {
+        "title": "",
+        "text": "",
+        "tags":"",
+        "url":""
     }
 ]};
 
