@@ -1051,13 +1051,13 @@ var tipuesearch = {"pages": [
         "A estrutura curricular (p. ) sofreu mudanças significativas. Em particular, o fluxo sugerido, nos quatro primeiros períodos, inclui apenas disciplinas de formação básica em computação. A disciplina “Prática em Engenharia de Software” (p. ) é o elemento integrador do curso, com carga horária de 320 horas. Em particular, as disciplinas específicas de Engenharia de Software são acompanhadas de uma seção adicional, “condições mínimas” (p. ), que estabelece competências a serem demonstradas/adquiridas pelo estudante em   cada   uma   delas.\n" +
         "A busca por um curso de Engenharia de Software melhor é uma atribuição contínua do NDE estabelecida nesse PPC por meio de princípios (p. ). Esse compromisso é oportuno para estabelecer claramente a responsabilidade pela gestão do presente PPC pelo NDE, sem o qual esse texto resume-se a um registro   de   intenções.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/"
     },
     {
         "title": "Contexto",
         "text": "O Bacharelado em Engenharia de Software (BES) existe e se mantém em um contexto no qual se destaca a aptidão do Instituto de Informática, a carência de mão de obra apta a desenvolver softwares de qualidade e a importância local   do   curso,   detalhados   nas   seções   seguintes.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/"
     },
     {
         "title": "Da aptidão do Instituto de Informática",
@@ -1067,7 +1067,7 @@ var tipuesearch = {"pages": [
         "O INF construiu, ao longo desse período, um consistente envolvimento com empresas e organizações de Tecnologia da Informação e Comunicação (TIC). O Apoema [APOEMA] é o órgão do INF responsável pela cooperação e interação   com   organizações   externas,   com   foco   em   soluções   inovadoras.\n" +
         "Um número significativo de projetos de Pesquisa e Desenvolvimento (P&D) já foi realizado pelo INF em parceria com organizações locais, e alguns com empresas multinacionais (como Dell e HP, por exemplo). O INF também já participou de vários projetos de inovação tecnológica financiados pela Fundação   de   Apoio   à   Pesquisa   do   Estado   de   Goiás   (FAPEG).",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/"
     },
     {
         "title": "Da carência de mão de obra",
@@ -1075,7 +1075,7 @@ var tipuesearch = {"pages": [
         "Apesar da demanda, na ocasião da criação do BES, não era conhecido outro curso com a mesma denominação ou propósito no Brasil. A tradição do INF na socialização da Computação, juntamente com a atuação em Engenharia de Software do seu corpo docente, resultou em proposta pioneira no País de um curso especificamente voltado para a formação de Engenheiros de Software, com ênfase na produção de software. Hoje, o Guia dos Estudantes da   Editora   Abril   lista   28   cursos   similares.\n" +
         "A região da Grande Goiânia reúne centenas de empresas de TIC, mas elas participam de forma tímida no mercado de software nacional. Com a disponibilidade de recursos humanos qualificados, essa participação pode crescer, o que é compatível com a dimensão do Estado de Goiás, a oitava economia nacional. Portanto, promover a indústria de produção de software em Goiás significa fomentar o aumento da participação das empresas do estado   no   mercado   de   software.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/"
     },
     {
         "title": "Dos indicadores socioeconômicos regionais",
@@ -1090,7 +1090,7 @@ var tipuesearch = {"pages": [
         "A posição estratégia do BES pode ser esclarecida por meio de iniciativas internacionais. Por exemplo,  TechHire Initiative e  Computer Scicence for All são programas americanos lançados nos dois últimos anos, orçados em cerca de\n" +
         "2 bilhões de dólares, com o propósito de promover a capacitação em produção   de   software   nos   Estados   Unidos.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/"
     },
     {
         "title": "Exposição de motivos",
@@ -1231,7 +1231,7 @@ var tipuesearch = {"pages": [
 		"A Figura abaixo ilustra uma disciplina X qualquer do BES, composta por conteúdo das subáreas A, B e C. Ou seja, o conteúdo de X não está contido estritamente na subárea A, nem tampouco na B ou na C. Em vez disso, reúne e explora a interdependência de conceitos dessas três subáreas.\n"+
 		"As subáreas “requisitos” e “projeto de software”, por exemplo, são contempladas em várias disciplinas do curso e não apenas nas disciplinas nas quais são o foco principal de interesse. A disciplina que enfatiza testes, por exemplo, inclui aspectos de design de software e também de requisitos, assim como aqueles de construção de software. De forma resumida, as disciplinas não são uma projeção cartesiana das 15 subáreas de conhecimento da Engenharia de Software [SWECOM 2014]. Em vez disso, são 18 disciplinas cobrindo reiteradamente várias dessas 15 áreas, sendo que uma delas cobre todas as áreas necessárias para a execução de um projeto real de produção de software (p. ).",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Articulação entre Teoria e Prática Profissional",
@@ -1239,27 +1239,27 @@ var tipuesearch = {"pages": [
 		"Essa articulação é explicitamente estabelecida por meio da seção “Condições mínimas” definida para cada disciplina de Engenharia de Software. Tais condições, em geral, definem o que o egresso pode fazer, em outras palavras, é capaz de realizar com o conhecimento. Ou seja, o que convencionalmente se limita ao conteúdo, ou teoria, deverá ser exercitado, ou prática, e com um nível bem definido de proficiência.\n"+
 		"A disciplina “Prática em Engenharia de Software” (p. ) é um ponto explícito do curso no qual a prática é o elemento principal, perfazendo 320 horas. O fazer, contudo, não está restrito a essa disciplina. A capacidade de realização de atividades de desenvolvimento de software é exigência em boa parte das disciplinas.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Interdisciplinaridade",
         "text": "Produzir software significa, necessariamente, o emprego de pelo menos dois domínios. O domínio da solução, no qual a Engenharia de Software é exercitada e o domínio do problema, que fomenta a existência do software. O domínio do problema é “universal”, pois inclui saúde, educação, segurança, governo, finanças e entretenimento, dentre muitos outros. Fazer software, portanto, por si só, exige o contato com outras áreas do conhecimento.\n"+
 		"O acesso a outras áreas pode vir das disciplinas do Núcleo Livre (NL). O BES exige para a integralização curricular pelo menos 128 horas de disciplinas do NL. Essas disciplinas são escolhidas pelo estudante dentre todas aquelas oferecidas na UFG. Para ilustrar, no primeiro semestre de 2015 houve oferta de vagas para mais de 300 disciplinas de NL. Ou seja, o conjunto de opções de outras áreas do conhecimento é rico, o que contribui com uma formação ampla do estudante. Convém destacar que tais 128 horas perfazem a quantidade mínima exigida, o estudante pode fazer uso de uma carga horária maior. O mesmo é válido para o estágio não obrigatório e para as atividades complementares. O estudante deve cumprir um mínimo de 192 horas em atividades complementares.\n"+"A interdisciplinaridade estimulada pelos elementos citados acima é extra curso. Aquela intracurso é tratada tanto pela definição das disciplinas quanto pela disciplina “Prática em Engenharia de Software” (p. ). Nesses casos a interdisciplinaridade é compulsória, pois faz parte da própria concepção do curso. Adicionalmente, sem restringir a liberdade metodológica do docente, cabe ao NDE orientar a definição de programas de disciplinas que cultivem a interdisciplinaridade.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Disciplina “Prática em Engenharia de Software”",
         "text": "Essa disciplina de 320 horas tem como objetivo explícito a participação do estudante em um ou mais projetos integradores que usufruem de conhecimento e habilidades adquiridos por todo o curso. Os projetos exigem o contato com problemas reais, o que exige contato tanto com o conhecimento quanto profissionais de outras áreas. Consulte detalhes na página .",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Atividades supervisionadas",
         "text": "De acordo com a Resolução  CNE/CES 03/2007 de 2 de julho de 2007, cabe às Instituições de Educação Superior, respeitando o mínimo dos duzentos dias letivos de trabalho acadêmico efetivo, a definição da duração da atividade acadêmica ou do  trabalho discente efetivo, o que compreende: (a) preleções e aulas expositivas e (b) atividades práticas supervisionadas, tais como laboratórios, atividades em biblioteca, iniciação científica, trabalhos individuais e em grupo, práticas de ensino e outras atividades no caso das licenciaturas. \n"+
 		"O BES divide cada hora de atividade acadêmica em 45 minutos de preleções e aulas expositivas e 15 minutos de atividades práticas supervisionadas. O planejamento de cada hora deve estar devidamente registrado no plano de cada disciplina. Em particular, o plano deve incluir de forma clara as atividades práticas supervisionadas.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/disciplina.html"
     },
     {
         "title": "Núcleo Docente Estruturante (NDE)",
@@ -1360,21 +1360,21 @@ var tipuesearch = {"pages": [
         "text": "O curso de Bacharelado em Engenharia de Software contempla requisitos legais específicos, a saber, Libras, Política de Educação Ambiental, e Educação das Relações Étnico-raciais e para o Ensino da História e Cultura Afro-brasileira e Indígena, conforme detalhado nas seções seguintes.\n" +
         "A atenção a tais requisitos se verifica por meio de disciplinas e de um Programa de Extensão, devidamente institucionalizado na unidade executora do curso. Está além do escopo do presente documento detalhar o Programa de Extensão. Abaixo, apenas aspectos relevantes para o PPC são destacados.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#requisitos"
     },
     {
         "title": "Libras",
         "text": "O Decreto 5.626/2005 regulamenta a Lei 10.436, de 24 de abril de 2002, e o artigo 18 da Lei 10.098, de 19 de dezembro de 2000. Segundo esse Decreto, a disciplina curricular Libras é obrigatória para vários cursos, dentre eles, as licenciaturas e os cursos de Fonoaudiologia. O Decreto também estabelece que, nos demais cursos, a disciplina curricular Libras seja optativa, conforme o Capítulo II, § 2o: “a Libras constituir-se-á em disciplina curricular optativa nos demais cursos de educação superior”.\n" +
         "Em atenção a tal requisito legal, o Bacharelado em Engenharia de Software inclui a disciplina Libras como optativa, no oitavo período do curso.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#libras"
     },
     {
         "title": "Política de educação ambiental",
         "text": "A Lei 9.795, de 27 de abril de 1999, institui a Política Nacional de Educação Ambiental, que é regulamentada pelo Decreto 4.281, de 25 de junho de 2002. Conforme essa Lei, Seção II, Art. 10, “a educação ambiental será desenvolvida como uma prática educativa integrada, contínua e permanente em todos os níveis e modalidades do ensino formal”. Adicionalmente, lê-se na Seção II, Art. 10, § 1o: “a educação ambiental  não  deve ser implantada como disciplina específica no currículo de ensino”. O destaque (negrito) é do presente documento.   \n" +
         "O Bacharelado em Engenharia de Software trata a Educação Ambiental por duas linhas contínuas de atuação: uma delas baseada no planejamento das disciplinas e outra em programa institucional do Instituto de Informática, ambas comentadas abaixo.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#ambiental"
     },
     {
         "title": "Planejamento das disciplinas",
@@ -1382,7 +1382,7 @@ var tipuesearch = {"pages": [
         "A apresentação do conteúdo de cada disciplina também pode se beneficiar do volume significativo de dados sobre o meio ambiente. Por exemplo, área desmatada ao longo do tempo; áreas de preservação; consumo de energia; emissão de CO 2;  qualidade do ar; consumo de materiais poluentes e geração de lixo eletrônico. Tais dados podem ser empregados para ilustrar o funcionamento de algoritmos e visualização de informações, dentre outras possibilidades.\n" +
         "Convém destacar que esses exemplos devem ser vistos como elementos de inspiração, a serem renovados continuamente.\n",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#planejamento"
     },
     {
         "title": "Programa institucional",
@@ -1400,7 +1400,7 @@ var tipuesearch = {"pages": [
         "Monitoramento e divulgação de informações ambientes sobre Goiás;\n" +
         "Divulgação de softwares que promovem o meio ambiente, por exemplo, evitam deslocamentos, evitam consumo de energia.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#programa"
     },
     {
         "title": "Resolução No 1 de 17 de junho de   2004",
@@ -1412,13 +1412,13 @@ var tipuesearch = {"pages": [
         "O Art. 7.o da Resolução ainda destaca: “as instituições de ensino superior, respeitada a autonomia que lhe é devida, incluirão nos conteúdos de disciplinas e atividades curriculares dos diferentes cursos que ministram, a Educação das Relações Étnico-Raciais, bem como o tratamento de questões e temáticas que dizem respeito aos afrodescendentes.   ”\n" +
         "Tendo em vista o requisito legal estabelecido pela Resolução, duas linhas de atuação são adotadas pelo Bacharelado em Engenharia de Software: inserção de conteúdo pertinente em duas disciplinas curriculares obrigatórias e o Programa Institucional de extensão do Instituto de Informática. Ambas comentadas abaixo.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#resolucao"
     },
     {
         "title": "Disciplinas de graduação obrigatórias",
         "text": "As disciplinas “Computador e Sociedade” (p. ) e “Interação Humano-Computador” (p. ) incluem, em seus ementários, tópicos pertinentes às exigências da Resolução. Em particular, remetem para o conhecimento de questões pertinentes ao continente africano e para o conhecimento e respeito à diversidade.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#disciplinas"
     },
     {
         "title": "Programa institucional",
@@ -1434,25 +1434,19 @@ var tipuesearch = {"pages": [
         "Palestras sobre os povos indígenas.\n" +
         "Apresentações artísticas que valorizem a cultura africana e indígena.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#institucional"
     },
     {
         "title": "Diretrizes nacionais para Educação em Direitos Humanos",
         "text": "A disciplina “Computador e Sociedade” (p. ) trata questões relevantes acerca de direitos humanos: aspectos profissionais; participação de mulheres na computação e evolução de aplicações com acessibilidade, dentre outras, nas quais os direitos humanos precisam de discussões mais aprofundadas na computação. Na disciplina “Interação Humano-Computador” (p. ) as características humanísticas, culturais, de direitos humanos e de aspectos políticos serão abordados em mais profundidade.",
         "tags":"",
-        "url":""
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#diretrizes"
     },
     {
         "title": "Proteção dos direitos da pessoa com Transtornos do Espectro Autista",
         "text": "A proteção dos direitos da pessoa com transtorno do espectro autista é fundamentada na Lei N.o 12.764 de 27 de dezembro de 2012, que institui a política nacional de proteção dos direitos da pessoa com transtorno do espectro autista, e altera o § 3.o do Art. 98 da Lei N.o 8.112, de 11 de dezembro de 1990. Esse requisito legal é atendido por meio da disciplina obrigatória “Interação Humano-Computador”, que inclui em seu ementário tópicos pertinentes ao tratamento de características humanísticas e biológicas na construção de interfaces de usuário, o que possibilita a socializar informações relevantes para que portadores do Transtorno do Espectro Autista possam ser adequadamente considerados por meio de suas necessidades especiais.",
         "tags":"",
-        "url":""
-    },
-    {
-        "title": "",
-        "text": "",
-        "tags":"",
-        "url":"r"
+        "url":"https://dhiineres.github.io/integracao2017/requisitosLegais.html#integracao"
     }
 ]};
 
